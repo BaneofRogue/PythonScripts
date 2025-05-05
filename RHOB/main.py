@@ -17,11 +17,12 @@ class API:
     def __init__(self): pass
 
     def fetchData(self, symbol=None, period="1d"):
-        if symbol is None: return None
+        if symbol is None:
+            return None
         try:
             app.logger.debug(f"Fetching 1m data for symbol: {symbol}, period: {period}")
             ticker = yf.Ticker(symbol)
-            data = ticker.history(period=period, interval="1m")
+            data = ticker.history(period=period, interval="1m", prepost=True)
             data = data.reset_index()
             data['Datetime'] = data['Datetime'].apply(lambda x: x.isoformat())
             return {
@@ -31,6 +32,7 @@ class API:
         except Exception as e:
             app.logger.error(f"Error fetching data: {str(e)}")
             raise e
+
 
 def get_cache_file_path(symbol):
     return os.path.join(CACHE_DIR, f"{symbol}.json")
