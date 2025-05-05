@@ -7,8 +7,8 @@ import os
 class OrderBook:
 
     def __init__(self):
-        self.bot = CrawlyTheGoat()
-        self.tab = self.bot.tabs[0]
+        self.bot = CrawlyTheGoat(tab_count=2)
+        self.tab1 = self.bot.tabs[0]
 
         self.target = "https://robinhood.com/stocks/8f92e76f-1e0e-4478-8580-16a6ffcfaef5/chart"
 
@@ -27,12 +27,12 @@ class OrderBook:
 
     def setup(self):
 
-        if(self.tab.url != self.target):
-            self.tab.get(self.target)
+        if(self.tab1.url != self.target):
+            self.tab1.get(self.target)
 
     def getOrderBook(self):
         self.log("Called orderbook", True)
-        app = self.tab.ele(".app")
+        app = self.tab1.ele(".app")
         app_child = app.children()[1]
         book = app_child.child().child().children()[1].child().child().children()[1].child().children()[2].child().child()
         book2 = book.parent().children()[2].children()
@@ -63,7 +63,7 @@ class OrderBook:
 
     def getPrice(self):
         self.log("Getting price", True)
-        app = self.tab.ele(".app")
+        app = self.tab1.ele(".app")
         app_child = app.children()[1]
         price_tag = app_child.child().child().child().child().children()[2].child()
         self.log("Got price", True)

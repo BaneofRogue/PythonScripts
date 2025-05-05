@@ -4,6 +4,7 @@ import json
 import yfinance as yf
 import pandas as pd
 from flask import Flask, request, jsonify
+from priceGetter import Price
 
 debugger = True
 CACHE_DIR = "Cached"
@@ -14,7 +15,8 @@ if not os.path.exists(CACHE_DIR):
 app = Flask(__name__)
 
 class API:
-    def __init__(self): pass
+    def __init__(self):
+        self.price = Price()
 
     def fetchData(self, symbol=None, period="1d"):
         if symbol is None:
@@ -32,6 +34,8 @@ class API:
         except Exception as e:
             app.logger.error(f"Error fetching data: {str(e)}")
             raise e
+
+    
 
 
 def get_cache_file_path(symbol):
@@ -116,6 +120,11 @@ def fetch():
     except Exception as e:
         app.logger.error(f"Error occurred: {str(e)}")
         return jsonify({"error": str(e)}), 500
+
+@app.route('/fetchPrice', methods=["GET"])
+def fetchPrice():
+    symbol = request.args.get('symbol')
+    
 
 if debugger:
     app.run(debug=False)
