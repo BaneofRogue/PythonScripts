@@ -4,7 +4,6 @@ import json
 import yfinance as yf
 import pandas as pd
 from flask import Flask, request, jsonify
-from priceGetter import Price
 
 debugger = True
 CACHE_DIR = "Cached"
@@ -16,7 +15,7 @@ app = Flask(__name__)
 
 class API:
     def __init__(self):
-        self.price = Price()
+        pass
 
     def fetchData(self, symbol=None, period="1d"):
         if symbol is None:
@@ -34,7 +33,6 @@ class API:
         except Exception as e:
             app.logger.error(f"Error fetching data: {str(e)}")
             raise e
-
     
 
 
@@ -109,21 +107,36 @@ def fetch():
                     app.logger.error(f"Invalid cache format: {str(e)}")
                     os.remove(get_cache_file_path(symbol))
 
-        fresh = fetch_1m_data(symbol, period)
-        save_cache(symbol, fresh)
-        if interval == "1m":
-            return jsonify(fresh["records"])
-        converted = aggregate_data(fresh["records"], interval)
-        return jsonify(converted)
+        else:
+            try:
+                fresh = fetch_1m_data(symbol, period)
+                save_cache(symbol, fresh)
+                        
+                if interval == "1m":
+                    return jsonify(fresh["records"])
+                converted = aggregate_data(fresh["records"], interval)
+                return jsonify(converted)
+            except:
+                with open(get_cache_file_path(symbol), 'r') as f:
+                    try:
+                        cached = json.load(f)
+                        records = cached.get("records")
+                        try:
+                            if interval == "1m":
+                                return jsonify(records)
+                            converted = aggregate_data(records, interval)
+                            return jsonify(converted)
+
+                        except Exception as e:
+                            app.logger.warning(f"Aggregation failed: {str(e)}")
+                    except Exception as e:
+                        app.logger.error(f"Invalid cache format: {str(e)}")
+                        os.remove(get_cache_file_path(symbol))
 
 
     except Exception as e:
         app.logger.error(f"Error occurred: {str(e)}")
         return jsonify({"error": str(e)}), 500
-
-@app.route('/fetchPrice', methods=["GET"])
-def fetchPrice():
-    symbol = request.args.get('symbol')
     
 
 if debugger:
