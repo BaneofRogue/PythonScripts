@@ -1,0 +1,1226 @@
+/*! For license information please see app.5259.js.LICENSE.txt */
+(self.webpackChunk = self.webpackChunk || []).push([[5259], {
+    98460: (t, e, n) => {
+        "use strict";
+        n.r(e);
+        var i = n(84554);
+        window.io = n(57046),
+        window.connectEcho = function() {
+            window.Echo;
+            var t = document.cookie.match(new RegExp("(^|;\\s*)(XSRF-TOKEN)=([^;]*)"))
+              , e = t ? {
+                headers: {
+                    "X-XSRF-TOKEN": decodeURIComponent(t[3])
+                }
+            } : {};
+            window.Echo = new i.ZP({
+                broadcaster: "socket.io",
+                transports: ["websocket"],
+                host: window.app.socketioUrl,
+                path: "/",
+                namespace: !1,
+                auth: e,
+                reconnection: !0,
+                reconnectionAttempts: 1 / 0,
+                reconnectionDelay: 2500,
+                reconnectionDelayMax: 6e4,
+                randomizationFactor: .5
+            }),
+            window.Echo.connector.socket.io.on("reconnect", (function() {
+                Object.values(window.Echo.connector.channels).forEach((function(t) {
+                    t.subscribe()
+                }
+                ))
+            }
+            ))
+        }
+        ,
+        document.addEventListener("visibilitychange", (function() {
+            window.Echo && ("visible" === document.visibilityState ? (window.Echo.connector.socket.io.reconnection(!0),
+            window.Echo.connector.socket.connected || window.Echo.connector.socket.io.connect()) : window.Echo.connector.socket.io.reconnection(!1))
+        }
+        )),
+        window.connectEcho()
+    }
+    ,
+    8273: (t, e, n) => {
+        "use strict";
+        n.r(e),
+        n.d(e, {
+            CountUp: () => r
+        });
+        var i = function() {
+            return i = Object.assign || function(t) {
+                for (var e, n = 1, i = arguments.length; n < i; n++)
+                    for (var r in e = arguments[n])
+                        Object.prototype.hasOwnProperty.call(e, r) && (t[r] = e[r]);
+                return t
+            }
+            ,
+            i.apply(this, arguments)
+        }
+          , r = function() {
+            function t(t, e, n) {
+                var r = this;
+                this.endVal = e,
+                this.options = n,
+                this.version = "2.8.0",
+                this.defaults = {
+                    startVal: 0,
+                    decimalPlaces: 0,
+                    duration: 2,
+                    useEasing: !0,
+                    useGrouping: !0,
+                    useIndianSeparators: !1,
+                    smartEasingThreshold: 999,
+                    smartEasingAmount: 333,
+                    separator: ",",
+                    decimal: ".",
+                    prefix: "",
+                    suffix: "",
+                    enableScrollSpy: !1,
+                    scrollSpyDelay: 200,
+                    scrollSpyOnce: !1
+                },
+                this.finalEndVal = null,
+                this.useEasing = !0,
+                this.countDown = !1,
+                this.error = "",
+                this.startVal = 0,
+                this.paused = !0,
+                this.once = !1,
+                this.count = function(t) {
+                    r.startTime || (r.startTime = t);
+                    var e = t - r.startTime;
+                    r.remaining = r.duration - e,
+                    r.useEasing ? r.countDown ? r.frameVal = r.startVal - r.easingFn(e, 0, r.startVal - r.endVal, r.duration) : r.frameVal = r.easingFn(e, r.startVal, r.endVal - r.startVal, r.duration) : r.frameVal = r.startVal + (r.endVal - r.startVal) * (e / r.duration);
+                    var n = r.countDown ? r.frameVal < r.endVal : r.frameVal > r.endVal;
+                    r.frameVal = n ? r.endVal : r.frameVal,
+                    r.frameVal = Number(r.frameVal.toFixed(r.options.decimalPlaces)),
+                    r.printValue(r.frameVal),
+                    e < r.duration ? r.rAF = requestAnimationFrame(r.count) : null !== r.finalEndVal ? r.update(r.finalEndVal) : r.options.onCompleteCallback && r.options.onCompleteCallback()
+                }
+                ,
+                this.formatNumber = function(t) {
+                    var e, n, i, o, s = t < 0 ? "-" : "";
+                    e = Math.abs(t).toFixed(r.options.decimalPlaces);
+                    var a = (e += "").split(".");
+                    if (n = a[0],
+                    i = a.length > 1 ? r.options.decimal + a[1] : "",
+                    r.options.useGrouping) {
+                        o = "";
+                        for (var l = 3, c = 0, u = 0, h = n.length; u < h; ++u)
+                            r.options.useIndianSeparators && 4 === u && (l = 2,
+                            c = 1),
+                            0 !== u && c % l == 0 && (o = r.options.separator + o),
+                            c++,
+                            o = n[h - u - 1] + o;
+                        n = o
+                    }
+                    return r.options.numerals && r.options.numerals.length && (n = n.replace(/[0-9]/g, (function(t) {
+                        return r.options.numerals[+t]
+                    }
+                    )),
+                    i = i.replace(/[0-9]/g, (function(t) {
+                        return r.options.numerals[+t]
+                    }
+                    ))),
+                    s + r.options.prefix + n + i + r.options.suffix
+                }
+                ,
+                this.easeOutExpo = function(t, e, n, i) {
+                    return n * (1 - Math.pow(2, -10 * t / i)) * 1024 / 1023 + e
+                }
+                ,
+                this.options = i(i({}, this.defaults), n),
+                this.formattingFn = this.options.formattingFn ? this.options.formattingFn : this.formatNumber,
+                this.easingFn = this.options.easingFn ? this.options.easingFn : this.easeOutExpo,
+                this.startVal = this.validateValue(this.options.startVal),
+                this.frameVal = this.startVal,
+                this.endVal = this.validateValue(e),
+                this.options.decimalPlaces = Math.max(this.options.decimalPlaces),
+                this.resetDuration(),
+                this.options.separator = String(this.options.separator),
+                this.useEasing = this.options.useEasing,
+                "" === this.options.separator && (this.options.useGrouping = !1),
+                this.el = "string" == typeof t ? document.getElementById(t) : t,
+                this.el ? this.printValue(this.startVal) : this.error = "[CountUp] target is null or undefined",
+                "undefined" != typeof window && this.options.enableScrollSpy && (this.error ? console.error(this.error, t) : (window.onScrollFns = window.onScrollFns || [],
+                window.onScrollFns.push((function() {
+                    return r.handleScroll(r)
+                }
+                )),
+                window.onscroll = function() {
+                    window.onScrollFns.forEach((function(t) {
+                        return t()
+                    }
+                    ))
+                }
+                ,
+                this.handleScroll(this)))
+            }
+            return t.prototype.handleScroll = function(t) {
+                if (t && window && !t.once) {
+                    var e = window.innerHeight + window.scrollY
+                      , n = t.el.getBoundingClientRect()
+                      , i = n.top + window.pageYOffset
+                      , r = n.top + n.height + window.pageYOffset;
+                    r < e && r > window.scrollY && t.paused ? (t.paused = !1,
+                    setTimeout((function() {
+                        return t.start()
+                    }
+                    ), t.options.scrollSpyDelay),
+                    t.options.scrollSpyOnce && (t.once = !0)) : (window.scrollY > r || i > e) && !t.paused && t.reset()
+                }
+            }
+            ,
+            t.prototype.determineDirectionAndSmartEasing = function() {
+                var t = this.finalEndVal ? this.finalEndVal : this.endVal;
+                this.countDown = this.startVal > t;
+                var e = t - this.startVal;
+                if (Math.abs(e) > this.options.smartEasingThreshold && this.options.useEasing) {
+                    this.finalEndVal = t;
+                    var n = this.countDown ? 1 : -1;
+                    this.endVal = t + n * this.options.smartEasingAmount,
+                    this.duration = this.duration / 2
+                } else
+                    this.endVal = t,
+                    this.finalEndVal = null;
+                null !== this.finalEndVal ? this.useEasing = !1 : this.useEasing = this.options.useEasing
+            }
+            ,
+            t.prototype.start = function(t) {
+                this.error || (this.options.onStartCallback && this.options.onStartCallback(),
+                t && (this.options.onCompleteCallback = t),
+                this.duration > 0 ? (this.determineDirectionAndSmartEasing(),
+                this.paused = !1,
+                this.rAF = requestAnimationFrame(this.count)) : this.printValue(this.endVal))
+            }
+            ,
+            t.prototype.pauseResume = function() {
+                this.paused ? (this.startTime = null,
+                this.duration = this.remaining,
+                this.startVal = this.frameVal,
+                this.determineDirectionAndSmartEasing(),
+                this.rAF = requestAnimationFrame(this.count)) : cancelAnimationFrame(this.rAF),
+                this.paused = !this.paused
+            }
+            ,
+            t.prototype.reset = function() {
+                cancelAnimationFrame(this.rAF),
+                this.paused = !0,
+                this.resetDuration(),
+                this.startVal = this.validateValue(this.options.startVal),
+                this.frameVal = this.startVal,
+                this.printValue(this.startVal)
+            }
+            ,
+            t.prototype.update = function(t) {
+                cancelAnimationFrame(this.rAF),
+                this.startTime = null,
+                this.endVal = this.validateValue(t),
+                this.endVal !== this.frameVal && (this.startVal = this.frameVal,
+                null == this.finalEndVal && this.resetDuration(),
+                this.finalEndVal = null,
+                this.determineDirectionAndSmartEasing(),
+                this.rAF = requestAnimationFrame(this.count))
+            }
+            ,
+            t.prototype.printValue = function(t) {
+                var e;
+                if (this.el) {
+                    var n = this.formattingFn(t);
+                    (null === (e = this.options.plugin) || void 0 === e ? void 0 : e.render) ? this.options.plugin.render(this.el, n) : "INPUT" === this.el.tagName ? this.el.value = n : "text" === this.el.tagName || "tspan" === this.el.tagName ? this.el.textContent = n : this.el.innerHTML = n
+                    console.log(n);
+                }
+            }
+            ,
+            t.prototype.ensureNumber = function(t) {
+                return "number" == typeof t && !isNaN(t)
+            }
+            ,
+            t.prototype.validateValue = function(t) {
+                var e = Number(t);
+                return this.ensureNumber(e) ? e : (this.error = "[CountUp] invalid start or end value: ".concat(t),
+                null)
+            }
+            ,
+            t.prototype.resetDuration = function() {
+                this.startTime = null,
+                this.duration = 1e3 * Number(this.options.duration),
+                this.remaining = this.duration
+            }
+            ,
+            t
+        }()
+    }
+    ,
+    8163: function(t, e, n) {
+        t.exports = function(t) {
+            "use strict";
+            var e, n = (e = "Function",
+            function(t) {
+                return Object.prototype.toString.call(t) === "[object ".concat(e, "]")
+            }
+            ), i = {
+                __countup__: t.CountUp,
+                name: "VueCountUp",
+                props: {
+                    delay: {
+                        type: Number,
+                        required: !1,
+                        default: 0
+                    },
+                    endVal: {
+                        type: Number,
+                        required: !0
+                    },
+                    options: {
+                        type: Object,
+                        required: !1
+                    }
+                },
+                data: function() {
+                    return {
+                        instance: null
+                    }
+                },
+                watch: {
+                    endVal: {
+                        handler: function(t) {
+                            this.instance && n(this.instance.update) && this.instance.update(t)
+                        },
+                        deep: !1
+                    }
+                },
+                methods: {
+                    create: function() {
+                        var e = this;
+                        if (!e.instance) {
+                            var n = e.$el
+                              , i = new t.CountUp(n,e.endVal,e.options);
+                            i.error || (e.instance = i,
+                            e.delay < 0 ? e.$emit("ready", i, t.CountUp) : setTimeout((function() {
+                                return i.start((function() {
+                                    return e.$emit("ready", i, t.CountUp)
+                                }
+                                ))
+                            }
+                            ), e.delay))
+                        }
+                    },
+                    destroy: function() {
+                        this.instance = null
+                    },
+                    printValue: function(t) {
+                        if (this.instance && n(this.instance.printValue))
+                            return this.instance.printValue(t)
+                    },
+                    start: function(t) {
+                        if (this.instance && n(this.instance.start))
+                            return this.instance.start(t)
+                    },
+                    pauseResume: function() {
+                        if (this.instance && n(this.instance.pauseResume))
+                            return this.instance.pauseResume()
+                    },
+                    reset: function() {
+                        if (this.instance && n(this.instance.reset))
+                            return this.instance.reset()
+                    },
+                    update: function(t) {
+                        if (this.instance && n(this.instance.update))
+                            return this.instance.update(t)
+                    }
+                },
+                mounted: function() {
+                    this.create()
+                },
+                beforeDestroy: function() {
+                    this.destroy()
+                }
+            };
+            return function(t, e) {
+                void 0 === e && (e = {});
+                var n = e.insertAt;
+                if (t && "undefined" != typeof document) {
+                    var i = document.head || document.getElementsByTagName("head")[0]
+                      , r = document.createElement("style");
+                    r.type = "text/css",
+                    "top" === n && i.firstChild ? i.insertBefore(r, i.firstChild) : i.appendChild(r),
+                    r.styleSheet ? r.styleSheet.cssText = t : r.appendChild(document.createTextNode(t))
+                }
+            }(""),
+            function(t, e, n, i, r, o, s, a, l, c) {
+                "boolean" != typeof s && (l = a,
+                a = s,
+                s = !1);
+                var u, h = "function" == typeof n ? n.options : n;
+                if (t && t.render && (h.render = t.render,
+                h.staticRenderFns = t.staticRenderFns,
+                h._compiled = !0,
+                r && (h.functional = !0)),
+                i && (h._scopeId = i),
+                o ? (u = function(t) {
+                    (t = t || this.$vnode && this.$vnode.ssrContext || this.parent && this.parent.$vnode && this.parent.$vnode.ssrContext) || "undefined" == typeof __VUE_SSR_CONTEXT__ || (t = __VUE_SSR_CONTEXT__),
+                    e && e.call(this, l(t)),
+                    t && t._registeredComponents && t._registeredComponents.add(o)
+                }
+                ,
+                h._ssrRegister = u) : e && (u = s ? function() {
+                    e.call(this, c(this.$root.$options.shadowRoot))
+                }
+                : function(t) {
+                    e.call(this, a(t))
+                }
+                ),
+                u)
+                    if (h.functional) {
+                        var f = h.render;
+                        h.render = function(t, e) {
+                            return u.call(e),
+                            f(t, e)
+                        }
+                    } else {
+                        var d = h.beforeCreate;
+                        h.beforeCreate = d ? [].concat(d, u) : [u]
+                    }
+                return n
+            }({
+                render: function() {
+                    var t = this.$createElement;
+                    return (this._self._c || t)("span")
+                },
+                staticRenderFns: []
+            }, void 0, i, "data-v-0abbdf5a", !1, void 0, void 0, void 0)
+        }(n(8273))
+    },
+    35259: (t, e, n) => {
+        "use strict";
+        n.r(e),
+        n.d(e, {
+            default: () => w
+        });
+        var i = n(8163)
+          , r = n.n(i);
+        function o(t) {
+            return o = "function" == typeof Symbol && "symbol" == typeof Symbol.iterator ? function(t) {
+                return typeof t
+            }
+            : function(t) {
+                return t && "function" == typeof Symbol && t.constructor === Symbol && t !== Symbol.prototype ? "symbol" : typeof t
+            }
+            ,
+            o(t)
+        }
+        function s(t, e) {
+            for (var n = 0; n < e.length; n++) {
+                var i = e[n];
+                i.enumerable = i.enumerable || !1,
+                i.configurable = !0,
+                "value"in i && (i.writable = !0),
+                Object.defineProperty(t, i.key, i)
+            }
+        }
+        function a(t) {
+            return function(t) {
+                if (Array.isArray(t)) {
+                    for (var e = 0, n = new Array(t.length); e < t.length; e++)
+                        n[e] = t[e];
+                    return n
+                }
+            }(t) || function(t) {
+                if (Symbol.iterator in Object(t) || "[object Arguments]" === Object.prototype.toString.call(t))
+                    return Array.from(t)
+            }(t) || function() {
+                throw new TypeError("Invalid attempt to spread non-iterable instance")
+            }()
+        }
+        function l(t, e) {
+            if (t === e)
+                return !0;
+            if ("object" === o(t)) {
+                for (var n in t)
+                    if (!l(t[n], e[n]))
+                        return !1;
+                return !0
+            }
+            return !1
+        }
+        var c = function() {
+            function t(e, n, i) {
+                !function(t, e) {
+                    if (!(t instanceof e))
+                        throw new TypeError("Cannot call a class as a function")
+                }(this, t),
+                this.el = e,
+                this.observer = null,
+                this.frozen = !1,
+                this.createObserver(n, i)
+            }
+            var e, n, i;
+            return e = t,
+            n = [{
+                key: "createObserver",
+                value: function(t, e) {
+                    var n = this;
+                    if (this.observer && this.destroyObserver(),
+                    !this.frozen) {
+                        var i;
+                        if (this.options = "function" == typeof (i = t) ? {
+                            callback: i
+                        } : i,
+                        this.callback = function(t, e) {
+                            n.options.callback(t, e),
+                            t && n.options.once && (n.frozen = !0,
+                            n.destroyObserver())
+                        }
+                        ,
+                        this.callback && this.options.throttle) {
+                            var r = (this.options.throttleOptions || {}).leading;
+                            this.callback = function(t, e) {
+                                var n, i, r, o = arguments.length > 2 && void 0 !== arguments[2] ? arguments[2] : {}, s = function(s) {
+                                    for (var l = arguments.length, c = new Array(l > 1 ? l - 1 : 0), u = 1; u < l; u++)
+                                        c[u - 1] = arguments[u];
+                                    if (r = c,
+                                    !n || s !== i) {
+                                        var h = o.leading;
+                                        "function" == typeof h && (h = h(s, i)),
+                                        n && s === i || !h || t.apply(void 0, [s].concat(a(r))),
+                                        i = s,
+                                        clearTimeout(n),
+                                        n = setTimeout((function() {
+                                            t.apply(void 0, [s].concat(a(r))),
+                                            n = 0
+                                        }
+                                        ), e)
+                                    }
+                                };
+                                return s._clear = function() {
+                                    clearTimeout(n),
+                                    n = null
+                                }
+                                ,
+                                s
+                            }(this.callback, this.options.throttle, {
+                                leading: function(t) {
+                                    return "both" === r || "visible" === r && t || "hidden" === r && !t
+                                }
+                            })
+                        }
+                        this.oldResult = void 0,
+                        this.observer = new IntersectionObserver((function(t) {
+                            var e = t[0];
+                            if (t.length > 1) {
+                                var i = t.find((function(t) {
+                                    return t.isIntersecting
+                                }
+                                ));
+                                i && (e = i)
+                            }
+                            if (n.callback) {
+                                var r = e.isIntersecting && e.intersectionRatio >= n.threshold;
+                                if (r === n.oldResult)
+                                    return;
+                                n.oldResult = r,
+                                n.callback(r, e)
+                            }
+                        }
+                        ),this.options.intersection),
+                        e.context.$nextTick((function() {
+                            n.observer && n.observer.observe(n.el)
+                        }
+                        ))
+                    }
+                }
+            }, {
+                key: "destroyObserver",
+                value: function() {
+                    this.observer && (this.observer.disconnect(),
+                    this.observer = null),
+                    this.callback && this.callback._clear && (this.callback._clear(),
+                    this.callback = null)
+                }
+            }, {
+                key: "threshold",
+                get: function() {
+                    return this.options.intersection && "number" == typeof this.options.intersection.threshold ? this.options.intersection.threshold : 0
+                }
+            }],
+            n && s(e.prototype, n),
+            i && s(e, i),
+            t
+        }();
+        function u(t, e, n) {
+            var i = e.value;
+            if (i)
+                if ("undefined" == typeof IntersectionObserver)
+                    console.warn("[vue-observe-visibility] IntersectionObserver API is not available in your browser. Please install this polyfill: https://github.com/w3c/IntersectionObserver/tree/master/polyfill");
+                else {
+                    var r = new c(t,i,n);
+                    t._vue_visibilityState = r
+                }
+        }
+        function h(t) {
+            var e = t._vue_visibilityState;
+            e && (e.destroyObserver(),
+            delete t._vue_visibilityState)
+        }
+        var f = {
+            bind: u,
+            update: function(t, e, n) {
+                var i = e.value;
+                if (!l(i, e.oldValue)) {
+                    var r = t._vue_visibilityState;
+                    i ? r ? r.createObserver(i, n) : u(t, {
+                        value: i
+                    }, n) : h(t)
+                }
+            },
+            unbind: h
+        };
+        var d = {
+            version: "1.0.0",
+            install: function(t) {
+                t.directive("observe-visibility", f)
+            }
+        }
+          , p = null;
+        "undefined" != typeof window ? p = window.Vue : void 0 !== n.g && (p = n.g.Vue),
+        p && p.use(d);
+        function v(t) {
+            return v = "function" == typeof Symbol && "symbol" == typeof Symbol.iterator ? function(t) {
+                return typeof t
+            }
+            : function(t) {
+                return t && "function" == typeof Symbol && t.constructor === Symbol && t !== Symbol.prototype ? "symbol" : typeof t
+            }
+            ,
+            v(t)
+        }
+        function y() {
+            y = function() {
+                return e
+            }
+            ;
+            var t, e = {}, n = Object.prototype, i = n.hasOwnProperty, r = Object.defineProperty || function(t, e, n) {
+                t[e] = n.value
+            }
+            , o = "function" == typeof Symbol ? Symbol : {}, s = o.iterator || "@@iterator", a = o.asyncIterator || "@@asyncIterator", l = o.toStringTag || "@@toStringTag";
+            function c(t, e, n) {
+                return Object.defineProperty(t, e, {
+                    value: n,
+                    enumerable: !0,
+                    configurable: !0,
+                    writable: !0
+                }),
+                t[e]
+            }
+            try {
+                c({}, "")
+            } catch (t) {
+                c = function(t, e, n) {
+                    return t[e] = n
+                }
+            }
+            function u(t, e, n, i) {
+                var o = e && e.prototype instanceof g ? e : g
+                  , s = Object.create(o.prototype)
+                  , a = new A(i || []);
+                return r(s, "_invoke", {
+                    value: F(t, n, a)
+                }),
+                s
+            }
+            function h(t, e, n) {
+                try {
+                    return {
+                        type: "normal",
+                        arg: t.call(e, n)
+                    }
+                } catch (t) {
+                    return {
+                        type: "throw",
+                        arg: t
+                    }
+                }
+            }
+            e.wrap = u;
+            var f = "suspendedStart"
+              , d = "suspendedYield"
+              , p = "executing"
+              , m = "completed"
+              , b = {};
+            function g() {}
+            function w() {}
+            function V() {}
+            var E = {};
+            c(E, s, (function() {
+                return this
+            }
+            ));
+            var _ = Object.getPrototypeOf
+              , S = _ && _(_(L([])));
+            S && S !== n && i.call(S, s) && (E = S);
+            var C = V.prototype = g.prototype = Object.create(E);
+            function x(t) {
+                ["next", "throw", "return"].forEach((function(e) {
+                    c(t, e, (function(t) {
+                        return this._invoke(e, t)
+                    }
+                    ))
+                }
+                ))
+            }
+            function O(t, e) {
+                function n(r, o, s, a) {
+                    var l = h(t[r], t, o);
+                    if ("throw" !== l.type) {
+                        var c = l.arg
+                          , u = c.value;
+                        return u && "object" == v(u) && i.call(u, "__await") ? e.resolve(u.__await).then((function(t) {
+                            n("next", t, s, a)
+                        }
+                        ), (function(t) {
+                            n("throw", t, s, a)
+                        }
+                        )) : e.resolve(u).then((function(t) {
+                            c.value = t,
+                            s(c)
+                        }
+                        ), (function(t) {
+                            return n("throw", t, s, a)
+                        }
+                        ))
+                    }
+                    a(l.arg)
+                }
+                var o;
+                r(this, "_invoke", {
+                    value: function(t, i) {
+                        function r() {
+                            return new e((function(e, r) {
+                                n(t, i, e, r)
+                            }
+                            ))
+                        }
+                        return o = o ? o.then(r, r) : r()
+                    }
+                })
+            }
+            function F(e, n, i) {
+                var r = f;
+                return function(o, s) {
+                    if (r === p)
+                        throw new Error("Generator is already running");
+                    if (r === m) {
+                        if ("throw" === o)
+                            throw s;
+                        return {
+                            value: t,
+                            done: !0
+                        }
+                    }
+                    for (i.method = o,
+                    i.arg = s; ; ) {
+                        var a = i.delegate;
+                        if (a) {
+                            var l = T(a, i);
+                            if (l) {
+                                if (l === b)
+                                    continue;
+                                return l
+                            }
+                        }
+                        if ("next" === i.method)
+                            i.sent = i._sent = i.arg;
+                        else if ("throw" === i.method) {
+                            if (r === f)
+                                throw r = m,
+                                i.arg;
+                            i.dispatchException(i.arg)
+                        } else
+                            "return" === i.method && i.abrupt("return", i.arg);
+                        r = p;
+                        var c = h(e, n, i);
+                        if ("normal" === c.type) {
+                            if (r = i.done ? m : d,
+                            c.arg === b)
+                                continue;
+                            return {
+                                value: c.arg,
+                                done: i.done
+                            }
+                        }
+                        "throw" === c.type && (r = m,
+                        i.method = "throw",
+                        i.arg = c.arg)
+                    }
+                }
+            }
+            function T(e, n) {
+                var i = n.method
+                  , r = e.iterator[i];
+                if (r === t)
+                    return n.delegate = null,
+                    "throw" === i && e.iterator.return && (n.method = "return",
+                    n.arg = t,
+                    T(e, n),
+                    "throw" === n.method) || "return" !== i && (n.method = "throw",
+                    n.arg = new TypeError("The iterator does not provide a '" + i + "' method")),
+                    b;
+                var o = h(r, e.iterator, n.arg);
+                if ("throw" === o.type)
+                    return n.method = "throw",
+                    n.arg = o.arg,
+                    n.delegate = null,
+                    b;
+                var s = o.arg;
+                return s ? s.done ? (n[e.resultName] = s.value,
+                n.next = e.nextLoc,
+                "return" !== n.method && (n.method = "next",
+                n.arg = t),
+                n.delegate = null,
+                b) : s : (n.method = "throw",
+                n.arg = new TypeError("iterator result is not an object"),
+                n.delegate = null,
+                b)
+            }
+            function k(t) {
+                var e = {
+                    tryLoc: t[0]
+                };
+                1 in t && (e.catchLoc = t[1]),
+                2 in t && (e.finallyLoc = t[2],
+                e.afterLoc = t[3]),
+                this.tryEntries.push(e)
+            }
+            function N(t) {
+                var e = t.completion || {};
+                e.type = "normal",
+                delete e.arg,
+                t.completion = e
+            }
+            function A(t) {
+                this.tryEntries = [{
+                    tryLoc: "root"
+                }],
+                t.forEach(k, this),
+                this.reset(!0)
+            }
+            function L(e) {
+                if (e || "" === e) {
+                    var n = e[s];
+                    if (n)
+                        return n.call(e);
+                    if ("function" == typeof e.next)
+                        return e;
+                    if (!isNaN(e.length)) {
+                        var r = -1
+                          , o = function n() {
+                            for (; ++r < e.length; )
+                                if (i.call(e, r))
+                                    return n.value = e[r],
+                                    n.done = !1,
+                                    n;
+                            return n.value = t,
+                            n.done = !0,
+                            n
+                        };
+                        return o.next = o
+                    }
+                }
+                throw new TypeError(v(e) + " is not iterable")
+            }
+            return w.prototype = V,
+            r(C, "constructor", {
+                value: V,
+                configurable: !0
+            }),
+            r(V, "constructor", {
+                value: w,
+                configurable: !0
+            }),
+            w.displayName = c(V, l, "GeneratorFunction"),
+            e.isGeneratorFunction = function(t) {
+                var e = "function" == typeof t && t.constructor;
+                return !!e && (e === w || "GeneratorFunction" === (e.displayName || e.name))
+            }
+            ,
+            e.mark = function(t) {
+                return Object.setPrototypeOf ? Object.setPrototypeOf(t, V) : (t.__proto__ = V,
+                c(t, l, "GeneratorFunction")),
+                t.prototype = Object.create(C),
+                t
+            }
+            ,
+            e.awrap = function(t) {
+                return {
+                    __await: t
+                }
+            }
+            ,
+            x(O.prototype),
+            c(O.prototype, a, (function() {
+                return this
+            }
+            )),
+            e.AsyncIterator = O,
+            e.async = function(t, n, i, r, o) {
+                void 0 === o && (o = Promise);
+                var s = new O(u(t, n, i, r),o);
+                return e.isGeneratorFunction(n) ? s : s.next().then((function(t) {
+                    return t.done ? t.value : s.next()
+                }
+                ))
+            }
+            ,
+            x(C),
+            c(C, l, "Generator"),
+            c(C, s, (function() {
+                return this
+            }
+            )),
+            c(C, "toString", (function() {
+                return "[object Generator]"
+            }
+            )),
+            e.keys = function(t) {
+                var e = Object(t)
+                  , n = [];
+                for (var i in e)
+                    n.push(i);
+                return n.reverse(),
+                function t() {
+                    for (; n.length; ) {
+                        var i = n.pop();
+                        if (i in e)
+                            return t.value = i,
+                            t.done = !1,
+                            t
+                    }
+                    return t.done = !0,
+                    t
+                }
+            }
+            ,
+            e.values = L,
+            A.prototype = {
+                constructor: A,
+                reset: function(e) {
+                    if (this.prev = 0,
+                    this.next = 0,
+                    this.sent = this._sent = t,
+                    this.done = !1,
+                    this.delegate = null,
+                    this.method = "next",
+                    this.arg = t,
+                    this.tryEntries.forEach(N),
+                    !e)
+                        for (var n in this)
+                            "t" === n.charAt(0) && i.call(this, n) && !isNaN(+n.slice(1)) && (this[n] = t)
+                },
+                stop: function() {
+                    this.done = !0;
+                    var t = this.tryEntries[0].completion;
+                    if ("throw" === t.type)
+                        throw t.arg;
+                    return this.rval
+                },
+                dispatchException: function(e) {
+                    if (this.done)
+                        throw e;
+                    var n = this;
+                    function r(i, r) {
+                        return a.type = "throw",
+                        a.arg = e,
+                        n.next = i,
+                        r && (n.method = "next",
+                        n.arg = t),
+                        !!r
+                    }
+                    for (var o = this.tryEntries.length - 1; o >= 0; --o) {
+                        var s = this.tryEntries[o]
+                          , a = s.completion;
+                        if ("root" === s.tryLoc)
+                            return r("end");
+                        if (s.tryLoc <= this.prev) {
+                            var l = i.call(s, "catchLoc")
+                              , c = i.call(s, "finallyLoc");
+                            if (l && c) {
+                                if (this.prev < s.catchLoc)
+                                    return r(s.catchLoc, !0);
+                                if (this.prev < s.finallyLoc)
+                                    return r(s.finallyLoc)
+                            } else if (l) {
+                                if (this.prev < s.catchLoc)
+                                    return r(s.catchLoc, !0)
+                            } else {
+                                if (!c)
+                                    throw new Error("try statement without catch or finally");
+                                if (this.prev < s.finallyLoc)
+                                    return r(s.finallyLoc)
+                            }
+                        }
+                    }
+                },
+                abrupt: function(t, e) {
+                    for (var n = this.tryEntries.length - 1; n >= 0; --n) {
+                        var r = this.tryEntries[n];
+                        if (r.tryLoc <= this.prev && i.call(r, "finallyLoc") && this.prev < r.finallyLoc) {
+                            var o = r;
+                            break
+                        }
+                    }
+                    o && ("break" === t || "continue" === t) && o.tryLoc <= e && e <= o.finallyLoc && (o = null);
+                    var s = o ? o.completion : {};
+                    return s.type = t,
+                    s.arg = e,
+                    o ? (this.method = "next",
+                    this.next = o.finallyLoc,
+                    b) : this.complete(s)
+                },
+                complete: function(t, e) {
+                    if ("throw" === t.type)
+                        throw t.arg;
+                    return "break" === t.type || "continue" === t.type ? this.next = t.arg : "return" === t.type ? (this.rval = this.arg = t.arg,
+                    this.method = "return",
+                    this.next = "end") : "normal" === t.type && e && (this.next = e),
+                    b
+                },
+                finish: function(t) {
+                    for (var e = this.tryEntries.length - 1; e >= 0; --e) {
+                        var n = this.tryEntries[e];
+                        if (n.finallyLoc === t)
+                            return this.complete(n.completion, n.afterLoc),
+                            N(n),
+                            b
+                    }
+                },
+                catch: function(t) {
+                    for (var e = this.tryEntries.length - 1; e >= 0; --e) {
+                        var n = this.tryEntries[e];
+                        if (n.tryLoc === t) {
+                            var i = n.completion;
+                            if ("throw" === i.type) {
+                                var r = i.arg;
+                                N(n)
+                            }
+                            return r
+                        }
+                    }
+                    throw new Error("illegal catch attempt")
+                },
+                delegateYield: function(e, n, i) {
+                    return this.delegate = {
+                        iterator: L(e),
+                        resultName: n,
+                        nextLoc: i
+                    },
+                    "next" === this.method && (this.arg = t),
+                    b
+                }
+            },
+            e
+        }
+        function m(t, e, n, i, r, o, s) {
+            try {
+                var a = t[o](s)
+                  , l = a.value
+            } catch (t) {
+                return void n(t)
+            }
+            a.done ? e(l) : Promise.resolve(l).then(i, r)
+        }
+        function b(t) {
+            return function() {
+                var e = this
+                  , n = arguments;
+                return new Promise((function(i, r) {
+                    var o = t.apply(e, n);
+                    function s(t) {
+                        m(o, i, r, s, a, "next", t)
+                    }
+                    function a(t) {
+                        m(o, i, r, s, a, "throw", t)
+                    }
+                    s(void 0)
+                }
+                ))
+            }
+        }
+        const g = {
+            components: {
+                CountUp: r()
+            },
+            directives: {
+                "observe-visibility": f
+            },
+            props: {
+                initialFiles: {
+                    default: 0
+                },
+                initialBytes: {
+                    default: 0
+                },
+                diffFiles: {
+                    default: 0
+                },
+                diffBytes: {
+                    default: 0
+                },
+                interval: {
+                    default: 10
+                },
+                mode: {
+                    type: String,
+                    default: "pull"
+                }
+            },
+            data: function() {
+                return {
+                    documentVisible: !0,
+                    statsVisible: !1,
+                    filesCounterOptions: {
+                        startVal: this.initialFiles - this.diffFiles,
+                        duration: this.interval,
+                        useEasing: !1
+                    },
+                    bytesCounterOptions: {
+                        startVal: this.byteToTb(this.initialBytes - this.diffBytes),
+                        duration: this.interval,
+                        useEasing: !1
+                    },
+                    files: 0,
+                    bytes: 0
+                }
+            },
+            mounted: function() {
+                var t = this
+                  , e = this;
+                document.addEventListener("visibilitychange", (function() {
+                    t.documentVisible = !document.hidden
+                }
+                )),
+                "pull" === this.mode && setInterval(b(y().mark((function t() {
+                    var n, i;
+                    return y().wrap((function(t) {
+                        for (; ; )
+                            switch (t.prev = t.next) {
+                            case 0:
+                                if (!e.visible) {
+                                    t.next = 6;
+                                    break
+                                }
+                                return t.next = 3,
+                                axios.get(app.apiUrl + "/v2/stats/footer");
+                            case 3:
+                                n = t.sent,
+                                i = n.data,
+                                e.onStatsEvent(i);
+                            case 6:
+                            case "end":
+                                return t.stop()
+                            }
+                    }
+                    ), t)
+                }
+                ))), 1e3 * e.interval)
+            },
+            methods: {
+                onStatsEvent: function(t) {
+                    this.$refs.fileCounter && this.$refs.fileCounter.update(t.files),
+                    this.$refs.bytesCounter && this.$refs.bytesCounter.update(this.byteToTb(t.bytes))
+                },
+                visibilityChanged: function(t) {
+                    this.statsVisible = t
+                },
+                byteToTb: function(t) {
+                    return t / 1099511627776
+                }
+            },
+            computed: {
+                visible: function() {
+                    return this.documentVisible && this.statsVisible
+                }
+            },
+            watch: {
+                visible: {
+                    handler: function(t) {
+                        "pull" !== this.mode && (t ? (n(98460),
+                        Echo.channel("footer-stats").listen("stats", this.onStatsEvent)) : "undefined" != typeof Echo && Echo.leave("footer-stats"))
+                    },
+                    immediate: !0
+                }
+            }
+        };
+        const w = (0,
+        n(51900).Z)(g, (function() {
+            var t = this
+              , e = t._self._c;
+            return t.initialFiles ? e("p", {
+                directives: [{
+                    name: "observe-visibility",
+                    rawName: "v-observe-visibility",
+                    value: t.visibilityChanged,
+                    expression: "visibilityChanged"
+                }],
+                staticClass: "text-center text-muted font-medium-4 my-3"
+            }, [t._v("\n    We've already converted\n    "), e("strong", [e("CountUp", {
+                ref: "fileCounter",
+                attrs: {
+                    endVal: t.initialFiles,
+                    options: t.filesCounterOptions
+                }
+            }), t._v("\n        files\n    ")], 1), t._v("\n    with a total size of\n    "), e("strong", [e("CountUp", {
+                ref: "bytesCounter",
+                attrs: {
+                    endVal: t.byteToTb(t.initialBytes),
+                    options: t.bytesCounterOptions
+                }
+            }), t._v("\n        TB")], 1), t._v(".\n")]) : t._e()
+        }
+        ), [], !1, null, null, null).exports
+    }
+    ,
+    51900: (t, e, n) => {
+        "use strict";
+        function i(t, e, n, i, r, o, s, a) {
+            var l, c = "function" == typeof t ? t.options : t;
+            if (e && (c.render = e,
+            c.staticRenderFns = n,
+            c._compiled = !0),
+            i && (c.functional = !0),
+            o && (c._scopeId = "data-v-" + o),
+            s ? (l = function(t) {
+                (t = t || this.$vnode && this.$vnode.ssrContext || this.parent && this.parent.$vnode && this.parent.$vnode.ssrContext) || "undefined" == typeof __VUE_SSR_CONTEXT__ || (t = __VUE_SSR_CONTEXT__),
+                r && r.call(this, t),
+                t && t._registeredComponents && t._registeredComponents.add(s)
+            }
+            ,
+            c._ssrRegister = l) : r && (l = a ? function() {
+                r.call(this, (c.functional ? this.parent : this).$root.$options.shadowRoot)
+            }
+            : r),
+            l)
+                if (c.functional) {
+                    c._injectStyles = l;
+                    var u = c.render;
+                    c.render = function(t, e) {
+                        return l.call(e),
+                        u(t, e)
+                    }
+                } else {
+                    var h = c.beforeCreate;
+                    c.beforeCreate = h ? [].concat(h, l) : [l]
+                }
+            return {
+                exports: t,
+                options: c
+            }
+        }
+        n.d(e, {
+            Z: () => i
+        })
+    }
+}]);

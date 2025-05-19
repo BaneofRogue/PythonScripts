@@ -32,6 +32,19 @@ def fetch():
         return jsonify(data)  # Automatically converts list to JSON
     except Exception as e:
         return jsonify({"error": str(e)}), 500
+    
+@app.route('/fetch_price', methods=['GET'])
+def fetch_price():
+    try:
+        symbol = request.args.get('symbol')
+
+        if not symbol:
+            return jsonify({"error": "Missing required parameter: symbol"}), 400
+
+        data = fetch_price(symbol)
+        return jsonify(data)
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
 
 if debugger:
     app.run(debug=False)
