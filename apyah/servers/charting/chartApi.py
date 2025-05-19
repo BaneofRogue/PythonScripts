@@ -3,14 +3,15 @@ import os
 import time
 
 import pandas as pd
-
 from crawler import CrawlyTheGoat
+
+from util import *
 
 CACHE_DIR = "Cached"
 
-class API:
+class ChartAPI:
     def __init__(self):
-        self.bot = CrawlyTheGoat(headless=False)
+        self.bot = CrawlyTheGoat(headless=True, debug_port=4999)
 
     def fetchData(self, symbol=None, interval='1m', startDate=None, endDate=None):
         if symbol is None:
@@ -32,6 +33,21 @@ class API:
             return data
         except Exception as e:
             print(f"Error fetching data: {str(e)}")
+            raise e
+        
+    def price_ports(self):
+        try:
+            data = self.bot.fetch_price_ports()
+            return data
+        except Exception as e:
+            print(f"Error fetching price ports: {str(e)}")
+            raise e
+        
+    def toggle_port(self, port, status):
+        try:
+            self.bot.toggle_port(port, status)
+        except Exception as e:
+            print(f"Error toggling port: {str(e)}")
             raise e
         
     def aggregate_data(self, data, to_interval):

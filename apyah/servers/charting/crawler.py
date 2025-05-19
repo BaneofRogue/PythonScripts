@@ -7,9 +7,8 @@ from DrissionPage.common import Actions, By, Keys
 
 from util import *
 
-
 class CrawlyTheGoat:
-    def __init__(self, tab_count=2, headless=False, profile_name=None, debug_port=None):
+    def __init__(self, tab_count=1, headless=False, profile_name=None, debug_port=None):
         self.options = ChromiumOptions()
         self.options.headless(headless)
         self.options.mute(True)
@@ -33,12 +32,11 @@ class CrawlyTheGoat:
         self.tabs = []
         self.actions = []
 
+        self.table = None
+        self.indexes = []
+        
         # Set up tabs and actions
         self.better_actions_setup(tab_count)
-        
-        self.table = None
-        self.indexes = {}
-        self.setup_screener()
         
     def check_tab_count(self):
         tab_count = 0
@@ -69,6 +67,8 @@ class CrawlyTheGoat:
             self.actions.append(Actions(new_tab))
             print(f"Setup tab: {item} out of {num_tabs}")
             
+        time.sleep(1)
+            
     def is_valid_json(self, data):
         try:
             json_string = json.dumps(data)     # Serialize to JSON
@@ -76,38 +76,7 @@ class CrawlyTheGoat:
             return True
         except (TypeError, ValueError):
             return False
-
-    def setup_screener(self):
-        tab = self.tabs[0]
-        target = "https://app.webull.com/screener"
-        
-        if not (tab.url == target):
-            print(f"{tab.url} is not {target}")
-            tab.get(target)
-
-        tab.ele("text=My Screeners").click()
-
-        if len(tab.eles("text=>=100B")) != 2:
-            print("This is new!")
-            tab.ele("#tabs_lv2_2").click()
-
-            buttons = self.find_ele(tab, "High market value US stocks").parent().parent().parent().children()
-
-            buttons[1].click()
-            time.sleep(1)
-            buttons[0].click()
-
-            tbody = tab.ele("#app").children().get.attrs("tbody")
-            self.table = tbody.children()
-            index_es = tbody.parent().children()[1].child().childen()
-            
-            for index in index_es:
-                self.indexes.append(index.raw_text)
-                print("Index:", index.raw_text)
-
-            self.table.pop(0)
-            self.table.pop(-1)
-            
+          
     def name_to_index(self, name):
         if name in self.indexes:
             return self.indexes.index(name)
@@ -143,10 +112,14 @@ class CrawlyTheGoat:
             overnight_price = overnight_text[1:] if overnight_text else ""
             overnight_percentage = overnight_text[0] if overnight_text else ""
 
-            all_prices[self.index_to_symbol(i)] = {
+            all_prices[f"{self.index_to_symbol(i)}"] = {
                 "market": last_price,
                 "after_market": f"{after_percentage}{after_price}",
-                "overnight": f"{overnight_percentage}{overnight_price}"
+                "overnight": f"{overnight_percentage}{overnight_price}",
+                "volume": self.name_to_data("Volume", i),
+                "avg_volume": self.name_to_data("Avg Vol (3M)", i),
+                "market_cap": self.name_to_data("Market Cap", i),
+                "per_change": self.name_to_data("% Change", i),
             }
             
         return all_prices
@@ -167,11 +140,7 @@ class CrawlyTheGoat:
             else:
                 return None
 
-    def get_price(self, symbol):
-        all_prices = self.get_all_prices()
-        return all_prices.get(symbol, None)
-
-    def fetch_historical_data(self, symbol, prepost=True, startDate=None, endDate=None):
+    def fetch_historical_data(self, symbol, prepost=True, startDate=None, endDate=None):    
         
         if(startDate == None and endDate == None):
             startDate = int(time.time()) - (6 * 24 * 60 * 60)
@@ -202,8 +171,3 @@ class CrawlyTheGoat:
         candles = parser.generate_candles()
         
         return candles
-
-c = CrawlyTheGoat()
-print(c.fetch_prices())
-
-input()
