@@ -144,7 +144,7 @@ class CrawlyTheGoat:
         
         if(startDate == None and endDate == None):
             startDate = int(time.time()) - (6 * 24 * 60 * 60)
-            endDate = int(time.time())
+            endDate = int(time.time() + (60 * 20)) # + 20 minutes
         
         target = f"https://query2.finance.yahoo.com/v8/finance/chart/{symbol}?period1={startDate}&period2={endDate}&interval=1m&includePrePost={prepost}&events=div%7Csplit%7Cearn&lang=en-US&region=US&source=cosaic"
         

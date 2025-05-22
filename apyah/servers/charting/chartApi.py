@@ -11,7 +11,7 @@ CACHE_DIR = "Cached"
 
 class ChartAPI:
     def __init__(self):
-        self.bot = CrawlyTheGoat(headless=True, debug_port=4999)
+        self.bot = CrawlyTheGoat(headless=False, debug_port=4999)
 
     def fetchData(self, symbol=None, interval='1m', startDate=None, endDate=None):
         if symbol is None:
