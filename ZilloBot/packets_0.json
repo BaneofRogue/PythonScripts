@@ -20774,7 +20774,7 @@
               "price": "$425,000",
               "priceLabel": "$425K",
               "address": "137 W 141st St APT 42, New York, NY 10030",
-              "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=40.819000244140625,-73.94000244140625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&signature=oov_r9dYeO8sYJpZlM-3mBo0V1Q=",
+              "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=40.819000244140625,-73.94000244140625&key=null&signature=oov_r9dYeO8sYJpZlM-3mBo0V1Q=",
               "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=40.819000244140625,-73.94000244140625&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&signature=2C-f9H7EMYINgyST53d-HQE7dlM=",
               "isNewYorkState": true,
               "beds": 2,
