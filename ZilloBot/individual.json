@@ -1,0 +1,34 @@
+{
+    "imgSrc": "https://photos.zillowstatic.com/fp/418bc3e40ebaffaeb84440f67b9daa6d-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/b/liberty-tower-new-york-ny-97RcyB/",
+    "statusType": "FOR_SALE",
+    "statusText": "Liberty Tower",
+    "price": "From $475,000",
+    "address": "55 Liberty St, New York, NY",
+    "minBeds": 1,
+    "minBaths": 1.0,
+    "minArea": 800,
+    "lotId": 2008695718,
+    "latLong": {
+        "latitude": 40.708794,
+        "longitude": -74.009544
+    },
+    "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+    },
+    "buildingName": "Liberty Tower",
+    "buildingId": "40.708794--74.009544",
+    "isBuilding": true,
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": false,
+    "isShowcaseListing": false,
+    "listingType": "",
+    "isFavorite": false,
+    "timeOnZillow": 9467632000,
+    "unitCount": 2
+}
