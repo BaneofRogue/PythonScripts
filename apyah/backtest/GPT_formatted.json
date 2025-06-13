@@ -1,0 +1,8801 @@
+[
+    {
+        "timestamp": 0,
+        "open": 0.0,
+        "high": 0.09,
+        "low": -2.14,
+        "close": -0.94
+    },
+    {
+        "timestamp": 1,
+        "open": 1.02,
+        "high": 1.5,
+        "low": -0.74,
+        "close": 1.49
+    },
+    {
+        "timestamp": 2,
+        "open": 0.37,
+        "high": 1.09,
+        "low": -0.43,
+        "close": -0.18
+    },
+    {
+        "timestamp": 3,
+        "open": -0.17,
+        "high": 0.66,
+        "low": -1.16,
+        "close": 0.45
+    },
+    {
+        "timestamp": 4,
+        "open": -0.23,
+        "high": 0.62,
+        "low": -0.41,
+        "close": 0.4
+    },
+    {
+        "timestamp": 5,
+        "open": 0.33,
+        "high": 0.84,
+        "low": -0.15,
+        "close": 0.83
+    },
+    {
+        "timestamp": 6,
+        "open": 0.7,
+        "high": 1.67,
+        "low": 0.6,
+        "close": 1.33
+    },
+    {
+        "timestamp": 7,
+        "open": -0.34,
+        "high": 0.26,
+        "low": -0.99,
+        "close": -0.26
+    },
+    {
+        "timestamp": 8,
+        "open": 1.89,
+        "high": 3.18,
+        "low": 1.86,
+        "close": 2.56
+    },
+    {
+        "timestamp": 9,
+        "open": 0.28,
+        "high": 1.27,
+        "low": 0.09,
+        "close": 1.21
+    },
+    {
+        "timestamp": 10,
+        "open": -0.9,
+        "high": 0.02,
+        "low": -1.19,
+        "close": -0.75
+    },
+    {
+        "timestamp": 11,
+        "open": 0.2,
+        "high": 0.5,
+        "low": -0.8,
+        "close": -0.56
+    },
+    {
+        "timestamp": 12,
+        "open": -2.36,
+        "high": -2.15,
+        "low": -5.95,
+        "close": -5.76
+    },
+    {
+        "timestamp": 13,
+        "open": 2.54,
+        "high": 2.82,
+        "low": -0.67,
+        "close": 1.2
+    },
+    {
+        "timestamp": 14,
+        "open": -2.03,
+        "high": 1.34,
+        "low": -2.46,
+        "close": 0.93
+    },
+    {
+        "timestamp": 15,
+        "open": 2.75,
+        "high": 2.8,
+        "low": 0.2,
+        "close": 1.92
+    },
+    {
+        "timestamp": 16,
+        "open": 0.35,
+        "high": 0.46,
+        "low": -0.67,
+        "close": -0.42
+    },
+    {
+        "timestamp": 17,
+        "open": -0.53,
+        "high": 0.21,
+        "low": -0.69,
+        "close": 0.04
+    },
+    {
+        "timestamp": 18,
+        "open": 0.77,
+        "high": 0.83,
+        "low": -1.68,
+        "close": -1.01
+    },
+    {
+        "timestamp": 19,
+        "open": -0.21,
+        "high": 0.78,
+        "low": -0.61,
+        "close": 0.64
+    },
+    {
+        "timestamp": 20,
+        "open": 0.92,
+        "high": 1.25,
+        "low": 0.32,
+        "close": 0.46
+    },
+    {
+        "timestamp": 21,
+        "open": -0.71,
+        "high": -0.49,
+        "low": -3.19,
+        "close": -2.55
+    },
+    {
+        "timestamp": 22,
+        "open": -0.2,
+        "high": 1.17,
+        "low": -0.92,
+        "close": 1.07
+    },
+    {
+        "timestamp": 23,
+        "open": -0.39,
+        "high": -0.31,
+        "low": -2.58,
+        "close": -2.38
+    },
+    {
+        "timestamp": 24,
+        "open": 0.45,
+        "high": 1.52,
+        "low": -0.37,
+        "close": 1.47
+    },
+    {
+        "timestamp": 25,
+        "open": -0.15,
+        "high": 1.89,
+        "low": -0.21,
+        "close": 1.28
+    },
+    {
+        "timestamp": 26,
+        "open": 0.39,
+        "high": 1.14,
+        "low": 0.23,
+        "close": 0.7
+    },
+    {
+        "timestamp": 27,
+        "open": 1.2,
+        "high": 1.67,
+        "low": 0.32,
+        "close": 0.55
+    },
+    {
+        "timestamp": 28,
+        "open": 1.33,
+        "high": 1.75,
+        "low": 1.07,
+        "close": 1.54
+    },
+    {
+        "timestamp": 29,
+        "open": -0.53,
+        "high": 0.15,
+        "low": -1.16,
+        "close": -1.03
+    },
+    {
+        "timestamp": 30,
+        "open": 0.26,
+        "high": 0.8,
+        "low": -0.34,
+        "close": 0.76
+    },
+    {
+        "timestamp": 31,
+        "open": 0.21,
+        "high": 0.29,
+        "low": -1.74,
+        "close": -0.57
+    },
+    {
+        "timestamp": 32,
+        "open": -0.02,
+        "high": 1.11,
+        "low": -0.52,
+        "close": 1.02
+    },
+    {
+        "timestamp": 33,
+        "open": 0.8,
+        "high": 1.61,
+        "low": -1.09,
+        "close": -0.87
+    },
+    {
+        "timestamp": 34,
+        "open": -0.49,
+        "high": 1.56,
+        "low": -0.9,
+        "close": 1.3
+    },
+    {
+        "timestamp": 35,
+        "open": 1.09,
+        "high": 1.29,
+        "low": 0.11,
+        "close": 0.92
+    },
+    {
+        "timestamp": 36,
+        "open": -0.64,
+        "high": -0.18,
+        "low": -0.86,
+        "close": -0.33
+    },
+    {
+        "timestamp": 37,
+        "open": 0.34,
+        "high": 0.55,
+        "low": -0.33,
+        "close": 0.29
+    },
+    {
+        "timestamp": 38,
+        "open": -0.09,
+        "high": 1.06,
+        "low": -0.34,
+        "close": 0.81
+    },
+    {
+        "timestamp": 39,
+        "open": 0.66,
+        "high": 0.8,
+        "low": -0.12,
+        "close": 0.21
+    },
+    {
+        "timestamp": 40,
+        "open": -0.12,
+        "high": 0.67,
+        "low": -0.16,
+        "close": 0.57
+    },
+    {
+        "timestamp": 41,
+        "open": -0.12,
+        "high": 0.11,
+        "low": -1.65,
+        "close": -1.19
+    },
+    {
+        "timestamp": 42,
+        "open": -0.62,
+        "high": -0.3,
+        "low": -1.15,
+        "close": -0.64
+    },
+    {
+        "timestamp": 43,
+        "open": 0.23,
+        "high": 0.79,
+        "low": -0.03,
+        "close": 0.73
+    },
+    {
+        "timestamp": 44,
+        "open": -0.24,
+        "high": 0.13,
+        "low": -0.73,
+        "close": -0.63
+    },
+    {
+        "timestamp": 45,
+        "open": 0.3,
+        "high": 1.42,
+        "low": 0.28,
+        "close": 1.23
+    },
+    {
+        "timestamp": 46,
+        "open": -0.99,
+        "high": -0.22,
+        "low": -1.69,
+        "close": -0.36
+    },
+    {
+        "timestamp": 47,
+        "open": 0.6,
+        "high": 0.82,
+        "low": -0.81,
+        "close": 0.79
+    },
+    {
+        "timestamp": 48,
+        "open": 0.55,
+        "high": 0.95,
+        "low": 0.37,
+        "close": 0.7
+    },
+    {
+        "timestamp": 49,
+        "open": -0.28,
+        "high": 0.39,
+        "low": -0.28,
+        "close": 0.39
+    },
+    {
+        "timestamp": 50,
+        "open": 0.43,
+        "high": 0.71,
+        "low": 0.34,
+        "close": 0.62
+    },
+    {
+        "timestamp": 51,
+        "open": -0.19,
+        "high": 0.71,
+        "low": -0.3,
+        "close": 0.67
+    },
+    {
+        "timestamp": 52,
+        "open": -0.31,
+        "high": 0.16,
+        "low": -0.61,
+        "close": 0.07
+    },
+    {
+        "timestamp": 53,
+        "open": 0.15,
+        "high": 0.36,
+        "low": -0.48,
+        "close": 0.3
+    },
+    {
+        "timestamp": 54,
+        "open": 0.38,
+        "high": 0.59,
+        "low": -1.06,
+        "close": -0.83
+    },
+    {
+        "timestamp": 55,
+        "open": 0.79,
+        "high": 1.65,
+        "low": 0.78,
+        "close": 1.39
+    },
+    {
+        "timestamp": 56,
+        "open": -0.25,
+        "high": 0.24,
+        "low": -0.48,
+        "close": -0.18
+    },
+    {
+        "timestamp": 57,
+        "open": -0.12,
+        "high": 0.18,
+        "low": -0.36,
+        "close": 0.0
+    },
+    {
+        "timestamp": 58,
+        "open": 0.33,
+        "high": 0.45,
+        "low": 0.0,
+        "close": 0.32
+    },
+    {
+        "timestamp": 59,
+        "open": 0.13,
+        "high": 0.35,
+        "low": -0.38,
+        "close": 0.22
+    },
+    {
+        "timestamp": 60,
+        "open": 0.12,
+        "high": 0.29,
+        "low": -0.6,
+        "close": -0.42
+    },
+    {
+        "timestamp": 61,
+        "open": -0.55,
+        "high": 0.47,
+        "low": -0.6,
+        "close": 0.31
+    },
+    {
+        "timestamp": 62,
+        "open": -0.11,
+        "high": 0.43,
+        "low": -0.22,
+        "close": 0.35
+    },
+    {
+        "timestamp": 63,
+        "open": 0.78,
+        "high": 1.04,
+        "low": -0.01,
+        "close": 1.01
+    },
+    {
+        "timestamp": 64,
+        "open": 0.18,
+        "high": 0.38,
+        "low": -0.19,
+        "close": 0.35
+    },
+    {
+        "timestamp": 65,
+        "open": 0.19,
+        "high": 1.09,
+        "low": 0.01,
+        "close": 1.0
+    },
+    {
+        "timestamp": 66,
+        "open": 0.27,
+        "high": 0.67,
+        "low": -0.3,
+        "close": 0.22
+    },
+    {
+        "timestamp": 67,
+        "open": 0.32,
+        "high": 0.69,
+        "low": -0.05,
+        "close": 0.65
+    },
+    {
+        "timestamp": 68,
+        "open": -0.07,
+        "high": 0.21,
+        "low": -0.43,
+        "close": -0.36
+    },
+    {
+        "timestamp": 69,
+        "open": 0.26,
+        "high": 0.97,
+        "low": -0.02,
+        "close": 0.94
+    },
+    {
+        "timestamp": 70,
+        "open": 0.59,
+        "high": 1.74,
+        "low": 0.24,
+        "close": 1.45
+    },
+    {
+        "timestamp": 71,
+        "open": -0.51,
+        "high": -0.37,
+        "low": -4.22,
+        "close": -3.44
+    },
+    {
+        "timestamp": 72,
+        "open": 0.21,
+        "high": 0.71,
+        "low": -3.05,
+        "close": -0.82
+    },
+    {
+        "timestamp": 73,
+        "open": -1.71,
+        "high": 0.02,
+        "low": -2.83,
+        "close": -2.73
+    },
+    {
+        "timestamp": 74,
+        "open": 1.3,
+        "high": 2.78,
+        "low": 1.02,
+        "close": 1.97
+    },
+    {
+        "timestamp": 75,
+        "open": 0.6,
+        "high": 0.81,
+        "low": -2.04,
+        "close": -1.74
+    },
+    {
+        "timestamp": 76,
+        "open": 0.58,
+        "high": 0.92,
+        "low": -0.87,
+        "close": 0.05
+    },
+    {
+        "timestamp": 77,
+        "open": 1.03,
+        "high": 1.89,
+        "low": 0.05,
+        "close": 1.32
+    },
+    {
+        "timestamp": 78,
+        "open": 0.79,
+        "high": 1.05,
+        "low": 0.0,
+        "close": 0.51
+    },
+    {
+        "timestamp": 79,
+        "open": 0.39,
+        "high": 0.85,
+        "low": -0.49,
+        "close": -0.4
+    },
+    {
+        "timestamp": 80,
+        "open": -1.55,
+        "high": -0.33,
+        "low": -1.72,
+        "close": -0.88
+    },
+    {
+        "timestamp": 81,
+        "open": -0.14,
+        "high": -0.1,
+        "low": -2.34,
+        "close": -1.55
+    },
+    {
+        "timestamp": 82,
+        "open": -1.5,
+        "high": -1.06,
+        "low": -2.7,
+        "close": -1.11
+    },
+    {
+        "timestamp": 83,
+        "open": 0.49,
+        "high": 1.2,
+        "low": -0.34,
+        "close": 1.02
+    },
+    {
+        "timestamp": 84,
+        "open": 0.18,
+        "high": 0.27,
+        "low": -2.48,
+        "close": -2.32
+    },
+    {
+        "timestamp": 85,
+        "open": -0.44,
+        "high": 1.29,
+        "low": -0.88,
+        "close": 0.27
+    },
+    {
+        "timestamp": 86,
+        "open": -0.28,
+        "high": 1.88,
+        "low": -0.57,
+        "close": 1.62
+    },
+    {
+        "timestamp": 87,
+        "open": 1.37,
+        "high": 1.9,
+        "low": 1.04,
+        "close": 1.66
+    },
+    {
+        "timestamp": 88,
+        "open": -0.07,
+        "high": 0.17,
+        "low": -0.77,
+        "close": -0.54
+    },
+    {
+        "timestamp": 89,
+        "open": 0.22,
+        "high": 1.78,
+        "low": 0.15,
+        "close": 0.76
+    },
+    {
+        "timestamp": 90,
+        "open": 0.84,
+        "high": 1.15,
+        "low": 0.04,
+        "close": 0.64
+    },
+    {
+        "timestamp": 91,
+        "open": -1.58,
+        "high": -0.01,
+        "low": -1.74,
+        "close": -0.95
+    },
+    {
+        "timestamp": 92,
+        "open": 0.66,
+        "high": 1.83,
+        "low": 0.65,
+        "close": 1.77
+    },
+    {
+        "timestamp": 93,
+        "open": 0.04,
+        "high": 0.71,
+        "low": -1.58,
+        "close": -1.42
+    },
+    {
+        "timestamp": 94,
+        "open": 0.95,
+        "high": 2.0,
+        "low": 0.94,
+        "close": 1.74
+    },
+    {
+        "timestamp": 95,
+        "open": 0.61,
+        "high": 0.91,
+        "low": 0.32,
+        "close": 0.89
+    },
+    {
+        "timestamp": 96,
+        "open": 0.52,
+        "high": 1.04,
+        "low": 0.32,
+        "close": 0.89
+    },
+    {
+        "timestamp": 97,
+        "open": 0.79,
+        "high": 2.07,
+        "low": 0.64,
+        "close": 1.61
+    },
+    {
+        "timestamp": 98,
+        "open": -0.04,
+        "high": 0.01,
+        "low": -0.95,
+        "close": -0.65
+    },
+    {
+        "timestamp": 99,
+        "open": 0.18,
+        "high": 0.51,
+        "low": -0.85,
+        "close": -0.63
+    },
+    {
+        "timestamp": 100,
+        "open": -1.21,
+        "high": 0.03,
+        "low": -1.38,
+        "close": -0.12
+    },
+    {
+        "timestamp": 101,
+        "open": 0.42,
+        "high": 0.94,
+        "low": -0.12,
+        "close": -0.06
+    },
+    {
+        "timestamp": 102,
+        "open": 0.39,
+        "high": 0.59,
+        "low": -1.8,
+        "close": -1.52
+    },
+    {
+        "timestamp": 103,
+        "open": 0.42,
+        "high": 1.42,
+        "low": 0.18,
+        "close": 0.4
+    },
+    {
+        "timestamp": 104,
+        "open": -0.01,
+        "high": 0.67,
+        "low": -0.29,
+        "close": -0.19
+    },
+    {
+        "timestamp": 105,
+        "open": 0.07,
+        "high": 0.73,
+        "low": -0.61,
+        "close": 0.55
+    },
+    {
+        "timestamp": 106,
+        "open": 0.38,
+        "high": 0.4,
+        "low": -0.43,
+        "close": 0.34
+    },
+    {
+        "timestamp": 107,
+        "open": -1.06,
+        "high": -0.81,
+        "low": -2.94,
+        "close": -1.85
+    },
+    {
+        "timestamp": 108,
+        "open": 0.11,
+        "high": 0.22,
+        "low": -0.41,
+        "close": -0.34
+    },
+    {
+        "timestamp": 109,
+        "open": -1.81,
+        "high": 0.01,
+        "low": -3.57,
+        "close": -3.42
+    },
+    {
+        "timestamp": 110,
+        "open": 0.08,
+        "high": 2.06,
+        "low": -0.48,
+        "close": 1.02
+    },
+    {
+        "timestamp": 111,
+        "open": -0.52,
+        "high": -0.09,
+        "low": -2.24,
+        "close": -1.04
+    },
+    {
+        "timestamp": 112,
+        "open": 1.12,
+        "high": 1.78,
+        "low": 0.21,
+        "close": 1.12
+    },
+    {
+        "timestamp": 113,
+        "open": 1.06,
+        "high": 2.44,
+        "low": 0.03,
+        "close": 1.77
+    },
+    {
+        "timestamp": 114,
+        "open": 1.44,
+        "high": 3.54,
+        "low": 1.06,
+        "close": 2.23
+    },
+    {
+        "timestamp": 115,
+        "open": 1.66,
+        "high": 2.52,
+        "low": 1.55,
+        "close": 1.95
+    },
+    {
+        "timestamp": 116,
+        "open": -0.09,
+        "high": 0.36,
+        "low": -0.74,
+        "close": -0.02
+    },
+    {
+        "timestamp": 117,
+        "open": 3.94,
+        "high": 4.06,
+        "low": 1.11,
+        "close": 1.26
+    },
+    {
+        "timestamp": 118,
+        "open": -0.3,
+        "high": 0.17,
+        "low": -1.14,
+        "close": -0.15
+    },
+    {
+        "timestamp": 119,
+        "open": 0.67,
+        "high": 0.99,
+        "low": 0.29,
+        "close": 0.74
+    },
+    {
+        "timestamp": 120,
+        "open": -0.31,
+        "high": 0.01,
+        "low": -1.52,
+        "close": -0.97
+    },
+    {
+        "timestamp": 121,
+        "open": 0.58,
+        "high": 1.61,
+        "low": 0.42,
+        "close": 1.38
+    },
+    {
+        "timestamp": 122,
+        "open": 0.8,
+        "high": 1.31,
+        "low": 0.42,
+        "close": 1.25
+    },
+    {
+        "timestamp": 123,
+        "open": -0.72,
+        "high": -0.18,
+        "low": -1.17,
+        "close": -0.54
+    },
+    {
+        "timestamp": 124,
+        "open": 0.08,
+        "high": 0.24,
+        "low": -1.21,
+        "close": -1.2
+    },
+    {
+        "timestamp": 125,
+        "open": -0.19,
+        "high": 0.53,
+        "low": -0.6,
+        "close": 0.42
+    },
+    {
+        "timestamp": 126,
+        "open": -0.08,
+        "high": -0.02,
+        "low": -0.71,
+        "close": -0.68
+    },
+    {
+        "timestamp": 127,
+        "open": 0.55,
+        "high": 0.98,
+        "low": -0.13,
+        "close": 0.6
+    },
+    {
+        "timestamp": 128,
+        "open": 0.77,
+        "high": 1.78,
+        "low": 0.51,
+        "close": 1.61
+    },
+    {
+        "timestamp": 129,
+        "open": -0.02,
+        "high": -0.02,
+        "low": -0.48,
+        "close": -0.15
+    },
+    {
+        "timestamp": 130,
+        "open": 0.33,
+        "high": 0.42,
+        "low": -0.02,
+        "close": 0.28
+    },
+    {
+        "timestamp": 131,
+        "open": -0.23,
+        "high": -0.15,
+        "low": -1.24,
+        "close": -0.44
+    },
+    {
+        "timestamp": 132,
+        "open": 0.97,
+        "high": 1.55,
+        "low": 0.79,
+        "close": 1.09
+    },
+    {
+        "timestamp": 133,
+        "open": -0.33,
+        "high": 0.26,
+        "low": -0.5,
+        "close": 0.21
+    },
+    {
+        "timestamp": 134,
+        "open": -0.03,
+        "high": 0.38,
+        "low": -0.35,
+        "close": -0.03
+    },
+    {
+        "timestamp": 135,
+        "open": 0.17,
+        "high": 0.86,
+        "low": 0.14,
+        "close": 0.86
+    },
+    {
+        "timestamp": 136,
+        "open": -0.22,
+        "high": -0.06,
+        "low": -0.58,
+        "close": -0.21
+    },
+    {
+        "timestamp": 137,
+        "open": -0.37,
+        "high": 0.46,
+        "low": -0.38,
+        "close": 0.29
+    },
+    {
+        "timestamp": 138,
+        "open": 0.19,
+        "high": 0.24,
+        "low": -1.14,
+        "close": -0.9
+    },
+    {
+        "timestamp": 139,
+        "open": -0.4,
+        "high": 0.28,
+        "low": -0.66,
+        "close": -0.03
+    },
+    {
+        "timestamp": 140,
+        "open": -0.5,
+        "high": 0.0,
+        "low": -0.95,
+        "close": -0.12
+    },
+    {
+        "timestamp": 141,
+        "open": 0.64,
+        "high": 0.96,
+        "low": -0.5,
+        "close": -0.45
+    },
+    {
+        "timestamp": 142,
+        "open": 0.75,
+        "high": 1.35,
+        "low": 0.35,
+        "close": 1.35
+    },
+    {
+        "timestamp": 143,
+        "open": 0.06,
+        "high": 0.42,
+        "low": -0.19,
+        "close": 0.16
+    },
+    {
+        "timestamp": 144,
+        "open": 0.48,
+        "high": 0.62,
+        "low": 0.24,
+        "close": 0.56
+    },
+    {
+        "timestamp": 145,
+        "open": -0.34,
+        "high": -0.29,
+        "low": -1.4,
+        "close": -0.82
+    },
+    {
+        "timestamp": 146,
+        "open": -1.14,
+        "high": 2.51,
+        "low": -1.94,
+        "close": -0.36
+    },
+    {
+        "timestamp": 147,
+        "open": 0.1,
+        "high": 0.13,
+        "low": -0.5,
+        "close": -0.17
+    },
+    {
+        "timestamp": 148,
+        "open": 0.28,
+        "high": 0.65,
+        "low": -0.01,
+        "close": 0.09
+    },
+    {
+        "timestamp": 149,
+        "open": 0.14,
+        "high": 0.4,
+        "low": -0.03,
+        "close": 0.39
+    },
+    {
+        "timestamp": 150,
+        "open": 0.74,
+        "high": 0.97,
+        "low": 0.56,
+        "close": 0.86
+    },
+    {
+        "timestamp": 151,
+        "open": 0.44,
+        "high": 0.49,
+        "low": -0.36,
+        "close": -0.19
+    },
+    {
+        "timestamp": 152,
+        "open": 0.24,
+        "high": 0.44,
+        "low": 0.03,
+        "close": 0.14
+    },
+    {
+        "timestamp": 153,
+        "open": -0.06,
+        "high": 0.72,
+        "low": -0.2,
+        "close": 0.51
+    },
+    {
+        "timestamp": 154,
+        "open": 0.38,
+        "high": 0.42,
+        "low": -2.42,
+        "close": -1.36
+    },
+    {
+        "timestamp": 155,
+        "open": -0.19,
+        "high": 1.01,
+        "low": -0.2,
+        "close": 0.69
+    },
+    {
+        "timestamp": 156,
+        "open": -0.44,
+        "high": 1.52,
+        "low": -0.6,
+        "close": 0.6
+    },
+    {
+        "timestamp": 157,
+        "open": 0.68,
+        "high": 1.7,
+        "low": 0.63,
+        "close": 1.49
+    },
+    {
+        "timestamp": 158,
+        "open": 0.39,
+        "high": 0.63,
+        "low": -0.53,
+        "close": 0.57
+    },
+    {
+        "timestamp": 159,
+        "open": -0.89,
+        "high": -0.18,
+        "low": -0.93,
+        "close": -0.67
+    },
+    {
+        "timestamp": 160,
+        "open": 0.05,
+        "high": 0.31,
+        "low": -0.62,
+        "close": 0.02
+    },
+    {
+        "timestamp": 161,
+        "open": -0.02,
+        "high": 0.55,
+        "low": -0.24,
+        "close": 0.27
+    },
+    {
+        "timestamp": 162,
+        "open": 0.21,
+        "high": 0.35,
+        "low": -0.44,
+        "close": -0.35
+    },
+    {
+        "timestamp": 163,
+        "open": -0.46,
+        "high": -0.23,
+        "low": -1.26,
+        "close": -0.73
+    },
+    {
+        "timestamp": 164,
+        "open": 0.7,
+        "high": 0.94,
+        "low": 0.28,
+        "close": 0.79
+    },
+    {
+        "timestamp": 165,
+        "open": 0.65,
+        "high": 1.62,
+        "low": 0.54,
+        "close": 1.38
+    },
+    {
+        "timestamp": 166,
+        "open": 0.16,
+        "high": 0.28,
+        "low": -0.17,
+        "close": 0.09
+    },
+    {
+        "timestamp": 167,
+        "open": -0.52,
+        "high": -0.03,
+        "low": -0.62,
+        "close": -0.35
+    },
+    {
+        "timestamp": 168,
+        "open": 0.21,
+        "high": 0.49,
+        "low": -1.15,
+        "close": 0.39
+    },
+    {
+        "timestamp": 169,
+        "open": 0.27,
+        "high": 0.38,
+        "low": -0.22,
+        "close": -0.16
+    },
+    {
+        "timestamp": 170,
+        "open": -0.93,
+        "high": -0.9,
+        "low": -3.07,
+        "close": -2.44
+    },
+    {
+        "timestamp": 171,
+        "open": 0.52,
+        "high": 2.01,
+        "low": 0.4,
+        "close": 0.86
+    },
+    {
+        "timestamp": 172,
+        "open": -0.53,
+        "high": -0.25,
+        "low": -2.48,
+        "close": -2.0
+    },
+    {
+        "timestamp": 173,
+        "open": 0.99,
+        "high": 1.96,
+        "low": 0.08,
+        "close": 1.66
+    },
+    {
+        "timestamp": 174,
+        "open": 0.91,
+        "high": 1.86,
+        "low": 0.02,
+        "close": 1.41
+    },
+    {
+        "timestamp": 175,
+        "open": 0.23,
+        "high": 0.56,
+        "low": -0.28,
+        "close": 0.08
+    },
+    {
+        "timestamp": 176,
+        "open": 0.29,
+        "high": 1.15,
+        "low": 0.03,
+        "close": 1.14
+    },
+    {
+        "timestamp": 177,
+        "open": 0.52,
+        "high": 0.59,
+        "low": -0.01,
+        "close": 0.39
+    },
+    {
+        "timestamp": 178,
+        "open": 0.4,
+        "high": 0.74,
+        "low": 0.17,
+        "close": 0.72
+    },
+    {
+        "timestamp": 179,
+        "open": -0.23,
+        "high": 0.1,
+        "low": -0.34,
+        "close": -0.07
+    },
+    {
+        "timestamp": 180,
+        "open": 0.48,
+        "high": 0.52,
+        "low": -0.7,
+        "close": -0.04
+    },
+    {
+        "timestamp": 181,
+        "open": 0.3,
+        "high": 0.41,
+        "low": -0.51,
+        "close": 0.16
+    },
+    {
+        "timestamp": 182,
+        "open": -0.22,
+        "high": 0.56,
+        "low": -0.24,
+        "close": 0.49
+    },
+    {
+        "timestamp": 183,
+        "open": 0.34,
+        "high": 0.39,
+        "low": -0.28,
+        "close": -0.09
+    },
+    {
+        "timestamp": 184,
+        "open": -0.48,
+        "high": 0.09,
+        "low": -0.76,
+        "close": 0.02
+    },
+    {
+        "timestamp": 185,
+        "open": -0.71,
+        "high": -0.22,
+        "low": -1.19,
+        "close": -0.43
+    },
+    {
+        "timestamp": 186,
+        "open": 0.35,
+        "high": 0.42,
+        "low": -0.3,
+        "close": -0.18
+    },
+    {
+        "timestamp": 187,
+        "open": -0.76,
+        "high": -0.11,
+        "low": -0.84,
+        "close": -0.77
+    },
+    {
+        "timestamp": 188,
+        "open": -0.61,
+        "high": 0.5,
+        "low": -1.76,
+        "close": 0.12
+    },
+    {
+        "timestamp": 189,
+        "open": -0.3,
+        "high": 1.22,
+        "low": -0.58,
+        "close": 1.1
+    },
+    {
+        "timestamp": 190,
+        "open": -0.35,
+        "high": 0.03,
+        "low": -2.81,
+        "close": -2.41
+    },
+    {
+        "timestamp": 191,
+        "open": 0.53,
+        "high": 0.85,
+        "low": -1.07,
+        "close": -0.52
+    },
+    {
+        "timestamp": 192,
+        "open": 1.38,
+        "high": 2.78,
+        "low": 0.06,
+        "close": 2.42
+    },
+    {
+        "timestamp": 193,
+        "open": 0.06,
+        "high": 0.13,
+        "low": -0.92,
+        "close": -0.78
+    },
+    {
+        "timestamp": 194,
+        "open": -0.19,
+        "high": 0.08,
+        "low": -1.35,
+        "close": -1.32
+    },
+    {
+        "timestamp": 195,
+        "open": -0.05,
+        "high": 0.68,
+        "low": -2.5,
+        "close": -1.24
+    },
+    {
+        "timestamp": 196,
+        "open": 1.0,
+        "high": 2.14,
+        "low": -1.08,
+        "close": 1.84
+    },
+    {
+        "timestamp": 197,
+        "open": 0.27,
+        "high": 1.06,
+        "low": -0.58,
+        "close": -0.5
+    },
+    {
+        "timestamp": 198,
+        "open": 1.08,
+        "high": 2.15,
+        "low": 0.94,
+        "close": 1.43
+    },
+    {
+        "timestamp": 199,
+        "open": 0.65,
+        "high": 1.09,
+        "low": 0.26,
+        "close": 0.62
+    },
+    {
+        "timestamp": 200,
+        "open": 0.68,
+        "high": 1.56,
+        "low": 0.55,
+        "close": 1.01
+    },
+    {
+        "timestamp": 201,
+        "open": -0.37,
+        "high": 0.17,
+        "low": -0.59,
+        "close": 0.13
+    },
+    {
+        "timestamp": 202,
+        "open": 0.07,
+        "high": 0.67,
+        "low": -0.52,
+        "close": 0.6
+    },
+    {
+        "timestamp": 203,
+        "open": 0.17,
+        "high": 0.36,
+        "low": -0.34,
+        "close": -0.13
+    },
+    {
+        "timestamp": 204,
+        "open": -0.35,
+        "high": 0.56,
+        "low": -0.66,
+        "close": 0.34
+    },
+    {
+        "timestamp": 205,
+        "open": -0.7,
+        "high": -0.14,
+        "low": -1.64,
+        "close": -1.45
+    },
+    {
+        "timestamp": 206,
+        "open": -0.41,
+        "high": 0.02,
+        "low": -1.11,
+        "close": -0.51
+    },
+    {
+        "timestamp": 207,
+        "open": 0.14,
+        "high": 1.18,
+        "low": 0.13,
+        "close": 0.8
+    },
+    {
+        "timestamp": 208,
+        "open": -0.17,
+        "high": 0.22,
+        "low": -1.0,
+        "close": -0.79
+    },
+    {
+        "timestamp": 209,
+        "open": 0.39,
+        "high": 0.83,
+        "low": -0.52,
+        "close": -0.51
+    },
+    {
+        "timestamp": 210,
+        "open": -0.4,
+        "high": 0.78,
+        "low": -0.93,
+        "close": 0.56
+    },
+    {
+        "timestamp": 211,
+        "open": 0.32,
+        "high": 1.72,
+        "low": 0.15,
+        "close": 1.61
+    },
+    {
+        "timestamp": 212,
+        "open": -0.4,
+        "high": 0.19,
+        "low": -0.8,
+        "close": -0.05
+    },
+    {
+        "timestamp": 213,
+        "open": -0.34,
+        "high": -0.08,
+        "low": -0.7,
+        "close": -0.27
+    },
+    {
+        "timestamp": 214,
+        "open": 0.15,
+        "high": 0.83,
+        "low": 0.15,
+        "close": 0.41
+    },
+    {
+        "timestamp": 215,
+        "open": 0.52,
+        "high": 1.1,
+        "low": 0.47,
+        "close": 1.08
+    },
+    {
+        "timestamp": 216,
+        "open": 0.71,
+        "high": 1.58,
+        "low": 0.69,
+        "close": 1.44
+    },
+    {
+        "timestamp": 217,
+        "open": -0.15,
+        "high": 0.22,
+        "low": -0.24,
+        "close": -0.06
+    },
+    {
+        "timestamp": 218,
+        "open": -0.04,
+        "high": 0.21,
+        "low": -0.16,
+        "close": 0.12
+    },
+    {
+        "timestamp": 219,
+        "open": 0.33,
+        "high": 0.49,
+        "low": 0.08,
+        "close": 0.47
+    },
+    {
+        "timestamp": 220,
+        "open": -0.03,
+        "high": 0.77,
+        "low": -0.06,
+        "close": 0.73
+    },
+    {
+        "timestamp": 221,
+        "open": -0.16,
+        "high": 0.11,
+        "low": -0.31,
+        "close": 0.04
+    },
+    {
+        "timestamp": 222,
+        "open": -0.03,
+        "high": 0.46,
+        "low": -0.13,
+        "close": 0.3
+    },
+    {
+        "timestamp": 223,
+        "open": -0.01,
+        "high": 0.27,
+        "low": -0.48,
+        "close": -0.34
+    },
+    {
+        "timestamp": 224,
+        "open": 0.56,
+        "high": 1.14,
+        "low": 0.54,
+        "close": 1.07
+    },
+    {
+        "timestamp": 225,
+        "open": 0.33,
+        "high": 0.49,
+        "low": -0.03,
+        "close": 0.33
+    },
+    {
+        "timestamp": 226,
+        "open": -0.24,
+        "high": -0.12,
+        "low": -0.83,
+        "close": -0.49
+    },
+    {
+        "timestamp": 227,
+        "open": -0.31,
+        "high": -0.03,
+        "low": -1.11,
+        "close": -0.73
+    },
+    {
+        "timestamp": 228,
+        "open": -0.16,
+        "high": 1.0,
+        "low": -0.2,
+        "close": 0.95
+    },
+    {
+        "timestamp": 229,
+        "open": -0.04,
+        "high": 0.17,
+        "low": -1.19,
+        "close": -0.91
+    },
+    {
+        "timestamp": 230,
+        "open": 0.15,
+        "high": 1.45,
+        "low": 0.13,
+        "close": 1.08
+    },
+    {
+        "timestamp": 231,
+        "open": 0.17,
+        "high": 0.36,
+        "low": 0.02,
+        "close": 0.21
+    },
+    {
+        "timestamp": 232,
+        "open": 0.08,
+        "high": 0.13,
+        "low": -0.31,
+        "close": -0.02
+    },
+    {
+        "timestamp": 233,
+        "open": 0.07,
+        "high": 0.36,
+        "low": -0.15,
+        "close": -0.03
+    },
+    {
+        "timestamp": 234,
+        "open": 0.7,
+        "high": 0.8,
+        "low": -0.23,
+        "close": 0.64
+    },
+    {
+        "timestamp": 235,
+        "open": -0.58,
+        "high": -0.36,
+        "low": -0.89,
+        "close": -0.66
+    },
+    {
+        "timestamp": 236,
+        "open": 0.51,
+        "high": 0.61,
+        "low": 0.09,
+        "close": 0.22
+    },
+    {
+        "timestamp": 237,
+        "open": -0.51,
+        "high": -0.38,
+        "low": -1.56,
+        "close": -0.62
+    },
+    {
+        "timestamp": 238,
+        "open": 0.42,
+        "high": 0.48,
+        "low": -0.11,
+        "close": 0.03
+    },
+    {
+        "timestamp": 239,
+        "open": 0.02,
+        "high": 0.83,
+        "low": -0.5,
+        "close": 0.8
+    },
+    {
+        "timestamp": 240,
+        "open": 0.2,
+        "high": 0.89,
+        "low": 0.02,
+        "close": 0.73
+    },
+    {
+        "timestamp": 241,
+        "open": 0.09,
+        "high": 0.15,
+        "low": -1.02,
+        "close": -0.99
+    },
+    {
+        "timestamp": 242,
+        "open": -1.16,
+        "high": -0.64,
+        "low": -1.89,
+        "close": -0.89
+    },
+    {
+        "timestamp": 243,
+        "open": -0.72,
+        "high": -0.39,
+        "low": -2.46,
+        "close": -2.12
+    },
+    {
+        "timestamp": 244,
+        "open": 0.41,
+        "high": 1.71,
+        "low": 0.4,
+        "close": 1.2
+    },
+    {
+        "timestamp": 245,
+        "open": 0.71,
+        "high": 1.76,
+        "low": 0.71,
+        "close": 1.54
+    },
+    {
+        "timestamp": 246,
+        "open": -0.29,
+        "high": -0.05,
+        "low": -0.77,
+        "close": -0.25
+    },
+    {
+        "timestamp": 247,
+        "open": 0.07,
+        "high": 0.13,
+        "low": -0.9,
+        "close": -0.86
+    },
+    {
+        "timestamp": 248,
+        "open": -1.22,
+        "high": -0.22,
+        "low": -1.6,
+        "close": -0.26
+    },
+    {
+        "timestamp": 249,
+        "open": 0.23,
+        "high": 1.4,
+        "low": 0.2,
+        "close": 1.08
+    },
+    {
+        "timestamp": 250,
+        "open": 0.38,
+        "high": 0.7,
+        "low": -0.2,
+        "close": -0.08
+    },
+    {
+        "timestamp": 251,
+        "open": 0.58,
+        "high": 1.3,
+        "low": 0.52,
+        "close": 1.02
+    },
+    {
+        "timestamp": 252,
+        "open": 0.28,
+        "high": 0.37,
+        "low": -0.37,
+        "close": -0.22
+    },
+    {
+        "timestamp": 253,
+        "open": 0.15,
+        "high": 0.33,
+        "low": -0.11,
+        "close": 0.2
+    },
+    {
+        "timestamp": 254,
+        "open": 0.26,
+        "high": 0.39,
+        "low": -0.02,
+        "close": 0.05
+    },
+    {
+        "timestamp": 255,
+        "open": 0.4,
+        "high": 0.47,
+        "low": 0.12,
+        "close": 0.18
+    },
+    {
+        "timestamp": 256,
+        "open": 0.6,
+        "high": 0.64,
+        "low": -0.2,
+        "close": -0.09
+    },
+    {
+        "timestamp": 257,
+        "open": 0.17,
+        "high": 0.37,
+        "low": -0.09,
+        "close": 0.16
+    },
+    {
+        "timestamp": 258,
+        "open": -0.59,
+        "high": -0.08,
+        "low": -0.96,
+        "close": -0.37
+    },
+    {
+        "timestamp": 259,
+        "open": 0.47,
+        "high": 0.99,
+        "low": 0.02,
+        "close": 0.91
+    },
+    {
+        "timestamp": 260,
+        "open": -0.0,
+        "high": 0.04,
+        "low": -0.33,
+        "close": -0.1
+    },
+    {
+        "timestamp": 261,
+        "open": 0.22,
+        "high": 0.24,
+        "low": -0.44,
+        "close": 0.02
+    },
+    {
+        "timestamp": 262,
+        "open": 0.21,
+        "high": 0.23,
+        "low": -0.21,
+        "close": -0.15
+    },
+    {
+        "timestamp": 263,
+        "open": 0.31,
+        "high": 0.71,
+        "low": -0.02,
+        "close": 0.46
+    },
+    {
+        "timestamp": 264,
+        "open": 0.14,
+        "high": 0.19,
+        "low": -0.19,
+        "close": 0.17
+    },
+    {
+        "timestamp": 265,
+        "open": 0.03,
+        "high": 0.25,
+        "low": -0.29,
+        "close": 0.22
+    },
+    {
+        "timestamp": 266,
+        "open": 0.04,
+        "high": 0.05,
+        "low": -0.4,
+        "close": -0.18
+    },
+    {
+        "timestamp": 267,
+        "open": 0.04,
+        "high": 0.09,
+        "low": -1.07,
+        "close": -0.56
+    },
+    {
+        "timestamp": 268,
+        "open": -0.1,
+        "high": 0.22,
+        "low": -0.66,
+        "close": -0.03
+    },
+    {
+        "timestamp": 269,
+        "open": -1.16,
+        "high": -0.98,
+        "low": -1.72,
+        "close": -1.67
+    },
+    {
+        "timestamp": 270,
+        "open": 0.45,
+        "high": 1.48,
+        "low": 0.24,
+        "close": 1.43
+    },
+    {
+        "timestamp": 271,
+        "open": -0.0,
+        "high": 0.75,
+        "low": -0.19,
+        "close": 0.53
+    },
+    {
+        "timestamp": 272,
+        "open": 0.02,
+        "high": 0.22,
+        "low": -0.14,
+        "close": -0.12
+    },
+    {
+        "timestamp": 273,
+        "open": 0.54,
+        "high": 0.7,
+        "low": 0.48,
+        "close": 0.59
+    },
+    {
+        "timestamp": 274,
+        "open": 0.19,
+        "high": 0.47,
+        "low": 0.11,
+        "close": 0.36
+    },
+    {
+        "timestamp": 275,
+        "open": 0.13,
+        "high": 0.24,
+        "low": -0.17,
+        "close": 0.2
+    },
+    {
+        "timestamp": 276,
+        "open": 0.1,
+        "high": 0.25,
+        "low": -0.08,
+        "close": 0.05
+    },
+    {
+        "timestamp": 277,
+        "open": -0.11,
+        "high": 0.25,
+        "low": -0.12,
+        "close": 0.08
+    },
+    {
+        "timestamp": 278,
+        "open": 0.19,
+        "high": 0.59,
+        "low": 0.17,
+        "close": 0.55
+    },
+    {
+        "timestamp": 279,
+        "open": 0.29,
+        "high": 0.85,
+        "low": 0.02,
+        "close": 0.76
+    },
+    {
+        "timestamp": 280,
+        "open": 0.01,
+        "high": 0.07,
+        "low": -0.86,
+        "close": -0.18
+    },
+    {
+        "timestamp": 281,
+        "open": 0.17,
+        "high": 0.42,
+        "low": -0.33,
+        "close": 0.35
+    },
+    {
+        "timestamp": 282,
+        "open": -1.31,
+        "high": -0.63,
+        "low": -1.6,
+        "close": -0.81
+    },
+    {
+        "timestamp": 283,
+        "open": 0.37,
+        "high": 1.14,
+        "low": -0.05,
+        "close": 1.07
+    },
+    {
+        "timestamp": 284,
+        "open": -0.02,
+        "high": 0.42,
+        "low": -0.13,
+        "close": 0.36
+    },
+    {
+        "timestamp": 285,
+        "open": -0.19,
+        "high": 0.17,
+        "low": -0.4,
+        "close": -0.34
+    },
+    {
+        "timestamp": 286,
+        "open": 0.42,
+        "high": 0.53,
+        "low": -0.16,
+        "close": 0.15
+    },
+    {
+        "timestamp": 287,
+        "open": -0.33,
+        "high": -0.16,
+        "low": -0.81,
+        "close": -0.34
+    },
+    {
+        "timestamp": 288,
+        "open": 0.29,
+        "high": 0.3,
+        "low": -0.88,
+        "close": -0.78
+    },
+    {
+        "timestamp": 289,
+        "open": -1.19,
+        "high": 0.02,
+        "low": -2.17,
+        "close": -1.48
+    },
+    {
+        "timestamp": 290,
+        "open": 0.17,
+        "high": 1.75,
+        "low": -0.03,
+        "close": 1.43
+    },
+    {
+        "timestamp": 291,
+        "open": 0.3,
+        "high": 0.84,
+        "low": -0.01,
+        "close": 0.81
+    },
+    {
+        "timestamp": 292,
+        "open": 0.04,
+        "high": 0.27,
+        "low": -0.2,
+        "close": 0.21
+    },
+    {
+        "timestamp": 293,
+        "open": 0.47,
+        "high": 1.11,
+        "low": 0.31,
+        "close": 1.03
+    },
+    {
+        "timestamp": 294,
+        "open": -0.14,
+        "high": 0.25,
+        "low": -0.15,
+        "close": 0.25
+    },
+    {
+        "timestamp": 295,
+        "open": -0.25,
+        "high": -0.24,
+        "low": -1.14,
+        "close": -0.46
+    },
+    {
+        "timestamp": 296,
+        "open": 0.15,
+        "high": 0.29,
+        "low": -0.39,
+        "close": -0.04
+    },
+    {
+        "timestamp": 297,
+        "open": 0.23,
+        "high": 0.68,
+        "low": 0.22,
+        "close": 0.41
+    },
+    {
+        "timestamp": 298,
+        "open": -0.62,
+        "high": -0.13,
+        "low": -0.65,
+        "close": -0.49
+    },
+    {
+        "timestamp": 299,
+        "open": 0.42,
+        "high": 0.55,
+        "low": -0.3,
+        "close": -0.21
+    },
+    {
+        "timestamp": 300,
+        "open": 0.19,
+        "high": 0.84,
+        "low": -0.34,
+        "close": 0.81
+    },
+    {
+        "timestamp": 301,
+        "open": -0.31,
+        "high": -0.01,
+        "low": -0.55,
+        "close": -0.49
+    },
+    {
+        "timestamp": 302,
+        "open": 0.28,
+        "high": 0.65,
+        "low": 0.21,
+        "close": 0.63
+    },
+    {
+        "timestamp": 303,
+        "open": 0.08,
+        "high": 0.27,
+        "low": 0.01,
+        "close": 0.17
+    },
+    {
+        "timestamp": 304,
+        "open": -0.01,
+        "high": 0.07,
+        "low": -0.27,
+        "close": -0.08
+    },
+    {
+        "timestamp": 305,
+        "open": 0.11,
+        "high": 0.3,
+        "low": -0.06,
+        "close": 0.12
+    },
+    {
+        "timestamp": 306,
+        "open": 0.26,
+        "high": 0.27,
+        "low": -0.01,
+        "close": 0.25
+    },
+    {
+        "timestamp": 307,
+        "open": -0.04,
+        "high": 0.33,
+        "low": -0.25,
+        "close": 0.3
+    },
+    {
+        "timestamp": 308,
+        "open": 0.11,
+        "high": 0.19,
+        "low": -0.01,
+        "close": 0.18
+    },
+    {
+        "timestamp": 309,
+        "open": -0.31,
+        "high": 0.27,
+        "low": -0.68,
+        "close": 0.24
+    },
+    {
+        "timestamp": 310,
+        "open": -0.61,
+        "high": -0.45,
+        "low": -1.37,
+        "close": -0.66
+    },
+    {
+        "timestamp": 311,
+        "open": -0.24,
+        "high": 0.13,
+        "low": -1.15,
+        "close": -1.09
+    },
+    {
+        "timestamp": 312,
+        "open": -0.66,
+        "high": 0.45,
+        "low": -0.7,
+        "close": 0.15
+    },
+    {
+        "timestamp": 313,
+        "open": 0.08,
+        "high": 0.88,
+        "low": -0.03,
+        "close": 0.8
+    },
+    {
+        "timestamp": 314,
+        "open": 0.41,
+        "high": 1.1,
+        "low": 0.02,
+        "close": 0.88
+    },
+    {
+        "timestamp": 315,
+        "open": 0.16,
+        "high": 0.29,
+        "low": 0.04,
+        "close": 0.16
+    },
+    {
+        "timestamp": 316,
+        "open": 0.04,
+        "high": 0.33,
+        "low": -0.04,
+        "close": 0.21
+    },
+    {
+        "timestamp": 317,
+        "open": -0.07,
+        "high": -0.01,
+        "low": -0.61,
+        "close": -0.59
+    },
+    {
+        "timestamp": 318,
+        "open": 0.19,
+        "high": 0.98,
+        "low": 0.18,
+        "close": 0.89
+    },
+    {
+        "timestamp": 319,
+        "open": 0.16,
+        "high": 0.63,
+        "low": 0.1,
+        "close": 0.44
+    },
+    {
+        "timestamp": 320,
+        "open": -0.02,
+        "high": 0.06,
+        "low": -0.29,
+        "close": -0.15
+    },
+    {
+        "timestamp": 321,
+        "open": 0.22,
+        "high": 0.34,
+        "low": -0.0,
+        "close": 0.05
+    },
+    {
+        "timestamp": 322,
+        "open": 0.34,
+        "high": 0.5,
+        "low": 0.02,
+        "close": 0.31
+    },
+    {
+        "timestamp": 323,
+        "open": -0.27,
+        "high": 0.1,
+        "low": -0.36,
+        "close": -0.02
+    },
+    {
+        "timestamp": 324,
+        "open": -0.08,
+        "high": -0.06,
+        "low": -0.52,
+        "close": -0.36
+    },
+    {
+        "timestamp": 325,
+        "open": -0.13,
+        "high": 0.05,
+        "low": -0.58,
+        "close": -0.12
+    },
+    {
+        "timestamp": 326,
+        "open": -0.05,
+        "high": 0.37,
+        "low": -0.49,
+        "close": -0.43
+    },
+    {
+        "timestamp": 327,
+        "open": 0.46,
+        "high": 0.56,
+        "low": -0.82,
+        "close": -0.79
+    },
+    {
+        "timestamp": 328,
+        "open": 0.72,
+        "high": 0.78,
+        "low": -0.3,
+        "close": 0.26
+    },
+    {
+        "timestamp": 329,
+        "open": 0.34,
+        "high": 0.39,
+        "low": -0.75,
+        "close": -0.54
+    },
+    {
+        "timestamp": 330,
+        "open": 0.1,
+        "high": 0.95,
+        "low": -0.16,
+        "close": 0.84
+    },
+    {
+        "timestamp": 331,
+        "open": -0.13,
+        "high": 0.11,
+        "low": -0.86,
+        "close": -0.16
+    },
+    {
+        "timestamp": 332,
+        "open": -0.5,
+        "high": -0.4,
+        "low": -1.38,
+        "close": -1.29
+    },
+    {
+        "timestamp": 333,
+        "open": -1.48,
+        "high": -1.1,
+        "low": -2.84,
+        "close": -1.67
+    },
+    {
+        "timestamp": 334,
+        "open": 0.57,
+        "high": 0.89,
+        "low": -0.22,
+        "close": -0.09
+    },
+    {
+        "timestamp": 335,
+        "open": 0.56,
+        "high": 1.48,
+        "low": 0.03,
+        "close": 0.98
+    },
+    {
+        "timestamp": 336,
+        "open": 0.45,
+        "high": 1.61,
+        "low": 0.4,
+        "close": 1.22
+    },
+    {
+        "timestamp": 337,
+        "open": -0.39,
+        "high": 0.34,
+        "low": -0.44,
+        "close": 0.16
+    },
+    {
+        "timestamp": 338,
+        "open": -0.25,
+        "high": 0.03,
+        "low": -0.45,
+        "close": -0.29
+    },
+    {
+        "timestamp": 339,
+        "open": -0.67,
+        "high": -0.59,
+        "low": -2.19,
+        "close": -2.02
+    },
+    {
+        "timestamp": 340,
+        "open": 0.34,
+        "high": 0.77,
+        "low": 0.03,
+        "close": 0.17
+    },
+    {
+        "timestamp": 341,
+        "open": 0.36,
+        "high": 0.53,
+        "low": -1.31,
+        "close": -1.22
+    },
+    {
+        "timestamp": 342,
+        "open": 0.43,
+        "high": 1.61,
+        "low": -0.45,
+        "close": 1.19
+    },
+    {
+        "timestamp": 343,
+        "open": -0.29,
+        "high": -0.06,
+        "low": -1.81,
+        "close": -1.29
+    },
+    {
+        "timestamp": 344,
+        "open": 0.37,
+        "high": 1.6,
+        "low": 0.17,
+        "close": 1.04
+    },
+    {
+        "timestamp": 345,
+        "open": -0.88,
+        "high": 0.47,
+        "low": -1.28,
+        "close": 0.42
+    },
+    {
+        "timestamp": 346,
+        "open": 0.8,
+        "high": 1.56,
+        "low": 0.76,
+        "close": 0.86
+    },
+    {
+        "timestamp": 347,
+        "open": 0.19,
+        "high": 0.28,
+        "low": -0.34,
+        "close": -0.18
+    },
+    {
+        "timestamp": 348,
+        "open": -0.16,
+        "high": 0.55,
+        "low": -0.74,
+        "close": -0.72
+    },
+    {
+        "timestamp": 349,
+        "open": 0.23,
+        "high": 0.32,
+        "low": -0.44,
+        "close": -0.25
+    },
+    {
+        "timestamp": 350,
+        "open": 0.25,
+        "high": 0.56,
+        "low": -0.48,
+        "close": 0.36
+    },
+    {
+        "timestamp": 351,
+        "open": 0.9,
+        "high": 1.72,
+        "low": 0.78,
+        "close": 1.68
+    },
+    {
+        "timestamp": 352,
+        "open": 0.51,
+        "high": 0.85,
+        "low": 0.36,
+        "close": 0.76
+    },
+    {
+        "timestamp": 353,
+        "open": -0.43,
+        "high": 0.38,
+        "low": -0.58,
+        "close": 0.3
+    },
+    {
+        "timestamp": 354,
+        "open": 0.39,
+        "high": 0.79,
+        "low": 0.24,
+        "close": 0.77
+    },
+    {
+        "timestamp": 355,
+        "open": 0.11,
+        "high": 0.46,
+        "low": 0.08,
+        "close": 0.39
+    },
+    {
+        "timestamp": 356,
+        "open": -0.14,
+        "high": 0.31,
+        "low": -0.24,
+        "close": 0.26
+    },
+    {
+        "timestamp": 357,
+        "open": -0.1,
+        "high": 0.24,
+        "low": -0.56,
+        "close": -0.1
+    },
+    {
+        "timestamp": 358,
+        "open": 0.26,
+        "high": 0.61,
+        "low": -0.16,
+        "close": 0.54
+    },
+    {
+        "timestamp": 359,
+        "open": 0.36,
+        "high": 0.65,
+        "low": 0.0,
+        "close": 0.09
+    },
+    {
+        "timestamp": 360,
+        "open": 0.11,
+        "high": 0.26,
+        "low": -0.46,
+        "close": -0.44
+    },
+    {
+        "timestamp": 361,
+        "open": 0.33,
+        "high": 0.98,
+        "low": 0.33,
+        "close": 0.96
+    },
+    {
+        "timestamp": 362,
+        "open": -0.53,
+        "high": 0.27,
+        "low": -0.6,
+        "close": 0.2
+    },
+    {
+        "timestamp": 363,
+        "open": 0.23,
+        "high": 0.32,
+        "low": -0.23,
+        "close": 0.17
+    },
+    {
+        "timestamp": 364,
+        "open": 0.04,
+        "high": 0.48,
+        "low": 0.01,
+        "close": 0.4
+    },
+    {
+        "timestamp": 365,
+        "open": -0.13,
+        "high": 0.7,
+        "low": -0.23,
+        "close": 0.61
+    },
+    {
+        "timestamp": 366,
+        "open": 0.14,
+        "high": 0.49,
+        "low": 0.06,
+        "close": 0.47
+    },
+    {
+        "timestamp": 367,
+        "open": 0.51,
+        "high": 0.8,
+        "low": 0.0,
+        "close": 0.35
+    },
+    {
+        "timestamp": 368,
+        "open": 0.25,
+        "high": 0.36,
+        "low": -0.07,
+        "close": 0.09
+    },
+    {
+        "timestamp": 369,
+        "open": 0.08,
+        "high": 0.14,
+        "low": -0.65,
+        "close": -0.33
+    },
+    {
+        "timestamp": 370,
+        "open": -0.39,
+        "high": 0.0,
+        "low": -1.14,
+        "close": -0.8
+    },
+    {
+        "timestamp": 371,
+        "open": 0.34,
+        "high": 0.36,
+        "low": 0.03,
+        "close": 0.03
+    },
+    {
+        "timestamp": 372,
+        "open": 0.29,
+        "high": 0.88,
+        "low": 0.07,
+        "close": 0.75
+    },
+    {
+        "timestamp": 373,
+        "open": 0.29,
+        "high": 0.33,
+        "low": -0.22,
+        "close": 0.03
+    },
+    {
+        "timestamp": 374,
+        "open": -0.06,
+        "high": 0.65,
+        "low": -0.08,
+        "close": 0.4
+    },
+    {
+        "timestamp": 375,
+        "open": -0.06,
+        "high": -0.02,
+        "low": -0.38,
+        "close": -0.24
+    },
+    {
+        "timestamp": 376,
+        "open": 0.23,
+        "high": 0.4,
+        "low": -0.38,
+        "close": 0.34
+    },
+    {
+        "timestamp": 377,
+        "open": -0.03,
+        "high": 0.26,
+        "low": -0.26,
+        "close": -0.18
+    },
+    {
+        "timestamp": 378,
+        "open": 0.43,
+        "high": 0.99,
+        "low": -0.33,
+        "close": -0.28
+    },
+    {
+        "timestamp": 379,
+        "open": -0.07,
+        "high": 0.33,
+        "low": -0.67,
+        "close": 0.13
+    },
+    {
+        "timestamp": 380,
+        "open": -0.45,
+        "high": 0.29,
+        "low": -0.64,
+        "close": 0.27
+    },
+    {
+        "timestamp": 381,
+        "open": -1.51,
+        "high": -1.18,
+        "low": -2.49,
+        "close": -2.23
+    },
+    {
+        "timestamp": 382,
+        "open": 1.11,
+        "high": 1.65,
+        "low": 0.6,
+        "close": 1.23
+    },
+    {
+        "timestamp": 383,
+        "open": -0.56,
+        "high": -0.12,
+        "low": -2.0,
+        "close": -1.95
+    },
+    {
+        "timestamp": 384,
+        "open": 1.33,
+        "high": 2.0,
+        "low": -1.16,
+        "close": -1.11
+    },
+    {
+        "timestamp": 385,
+        "open": 0.05,
+        "high": 1.9,
+        "low": -0.04,
+        "close": 1.53
+    },
+    {
+        "timestamp": 386,
+        "open": 0.39,
+        "high": 0.63,
+        "low": -1.85,
+        "close": -0.87
+    },
+    {
+        "timestamp": 387,
+        "open": 0.6,
+        "high": 1.63,
+        "low": 0.03,
+        "close": 1.18
+    },
+    {
+        "timestamp": 388,
+        "open": 1.22,
+        "high": 2.2,
+        "low": -0.03,
+        "close": 2.07
+    },
+    {
+        "timestamp": 389,
+        "open": 0.09,
+        "high": 0.37,
+        "low": -0.31,
+        "close": 0.26
+    },
+    {
+        "timestamp": 390,
+        "open": -0.29,
+        "high": 0.02,
+        "low": -0.72,
+        "close": -0.68
+    },
+    {
+        "timestamp": 391,
+        "open": 0.62,
+        "high": 0.98,
+        "low": 0.03,
+        "close": 0.94
+    },
+    {
+        "timestamp": 392,
+        "open": -0.12,
+        "high": -0.04,
+        "low": -0.95,
+        "close": -0.89
+    },
+    {
+        "timestamp": 393,
+        "open": -0.75,
+        "high": -0.18,
+        "low": -1.35,
+        "close": -0.69
+    },
+    {
+        "timestamp": 394,
+        "open": 0.01,
+        "high": 1.62,
+        "low": -0.57,
+        "close": 1.56
+    },
+    {
+        "timestamp": 395,
+        "open": 0.42,
+        "high": 0.48,
+        "low": -1.23,
+        "close": -0.88
+    },
+    {
+        "timestamp": 396,
+        "open": -1.05,
+        "high": -0.37,
+        "low": -1.8,
+        "close": -1.41
+    },
+    {
+        "timestamp": 397,
+        "open": -1.17,
+        "high": -0.97,
+        "low": -1.9,
+        "close": -1.06
+    },
+    {
+        "timestamp": 398,
+        "open": 0.8,
+        "high": 1.81,
+        "low": 0.29,
+        "close": 1.78
+    },
+    {
+        "timestamp": 399,
+        "open": -0.06,
+        "high": 1.03,
+        "low": -0.1,
+        "close": 1.0
+    },
+    {
+        "timestamp": 400,
+        "open": 0.23,
+        "high": 0.96,
+        "low": 0.2,
+        "close": 0.62
+    },
+    {
+        "timestamp": 401,
+        "open": 0.31,
+        "high": 1.43,
+        "low": 0.3,
+        "close": 1.42
+    },
+    {
+        "timestamp": 402,
+        "open": 0.1,
+        "high": 0.32,
+        "low": -0.25,
+        "close": -0.08
+    },
+    {
+        "timestamp": 403,
+        "open": 0.02,
+        "high": 0.35,
+        "low": -0.2,
+        "close": 0.13
+    },
+    {
+        "timestamp": 404,
+        "open": 0.09,
+        "high": 0.32,
+        "low": -0.38,
+        "close": -0.28
+    },
+    {
+        "timestamp": 405,
+        "open": -0.11,
+        "high": 0.15,
+        "low": -0.31,
+        "close": -0.25
+    },
+    {
+        "timestamp": 406,
+        "open": 0.28,
+        "high": 0.61,
+        "low": -0.23,
+        "close": 0.58
+    },
+    {
+        "timestamp": 407,
+        "open": 0.32,
+        "high": 0.48,
+        "low": -0.45,
+        "close": -0.03
+    },
+    {
+        "timestamp": 408,
+        "open": -0.08,
+        "high": 0.09,
+        "low": -1.94,
+        "close": -1.92
+    },
+    {
+        "timestamp": 409,
+        "open": -0.1,
+        "high": 0.52,
+        "low": -0.63,
+        "close": -0.09
+    },
+    {
+        "timestamp": 410,
+        "open": 0.0,
+        "high": 0.27,
+        "low": -0.7,
+        "close": -0.4
+    },
+    {
+        "timestamp": 411,
+        "open": -0.73,
+        "high": -0.08,
+        "low": -2.04,
+        "close": -0.12
+    },
+    {
+        "timestamp": 412,
+        "open": -0.06,
+        "high": 0.93,
+        "low": -0.74,
+        "close": 0.91
+    },
+    {
+        "timestamp": 413,
+        "open": 0.39,
+        "high": 0.73,
+        "low": -0.17,
+        "close": 0.27
+    },
+    {
+        "timestamp": 414,
+        "open": 0.25,
+        "high": 0.39,
+        "low": -1.61,
+        "close": -1.38
+    },
+    {
+        "timestamp": 415,
+        "open": -0.72,
+        "high": 0.12,
+        "low": -1.0,
+        "close": 0.04
+    },
+    {
+        "timestamp": 416,
+        "open": -1.07,
+        "high": -1.02,
+        "low": -2.02,
+        "close": -1.77
+    },
+    {
+        "timestamp": 417,
+        "open": 0.36,
+        "high": 0.68,
+        "low": -1.1,
+        "close": -1.04
+    },
+    {
+        "timestamp": 418,
+        "open": 0.44,
+        "high": 1.55,
+        "low": -1.6,
+        "close": -1.11
+    },
+    {
+        "timestamp": 419,
+        "open": -0.27,
+        "high": 0.29,
+        "low": -1.97,
+        "close": -1.96
+    },
+    {
+        "timestamp": 420,
+        "open": -1.36,
+        "high": 0.55,
+        "low": -3.93,
+        "close": 0.42
+    },
+    {
+        "timestamp": 421,
+        "open": -1.54,
+        "high": -0.03,
+        "low": -2.89,
+        "close": -1.22
+    },
+    {
+        "timestamp": 422,
+        "open": 1.44,
+        "high": 2.2,
+        "low": -1.29,
+        "close": -0.25
+    },
+    {
+        "timestamp": 423,
+        "open": 1.13,
+        "high": 1.89,
+        "low": -0.91,
+        "close": -0.49
+    },
+    {
+        "timestamp": 424,
+        "open": 0.33,
+        "high": 2.5,
+        "low": -0.79,
+        "close": 2.48
+    },
+    {
+        "timestamp": 425,
+        "open": -0.16,
+        "high": 1.88,
+        "low": -0.48,
+        "close": 1.8
+    },
+    {
+        "timestamp": 426,
+        "open": 0.17,
+        "high": 0.83,
+        "low": -0.66,
+        "close": 0.68
+    },
+    {
+        "timestamp": 427,
+        "open": 0.56,
+        "high": 1.14,
+        "low": 0.02,
+        "close": 0.97
+    },
+    {
+        "timestamp": 428,
+        "open": -1.4,
+        "high": -0.96,
+        "low": -2.55,
+        "close": -2.35
+    },
+    {
+        "timestamp": 429,
+        "open": -0.06,
+        "high": 1.38,
+        "low": -0.62,
+        "close": 0.47
+    },
+    {
+        "timestamp": 430,
+        "open": 0.18,
+        "high": 0.51,
+        "low": -0.64,
+        "close": -0.32
+    },
+    {
+        "timestamp": 431,
+        "open": -0.12,
+        "high": 1.04,
+        "low": -0.46,
+        "close": 0.82
+    },
+    {
+        "timestamp": 432,
+        "open": 0.95,
+        "high": 1.54,
+        "low": 0.9,
+        "close": 1.46
+    },
+    {
+        "timestamp": 433,
+        "open": -1.36,
+        "high": 0.04,
+        "low": -2.26,
+        "close": -1.8
+    },
+    {
+        "timestamp": 434,
+        "open": 0.02,
+        "high": 0.51,
+        "low": -2.31,
+        "close": -1.97
+    },
+    {
+        "timestamp": 435,
+        "open": -0.12,
+        "high": 0.26,
+        "low": -1.16,
+        "close": -0.33
+    },
+    {
+        "timestamp": 436,
+        "open": 1.07,
+        "high": 1.65,
+        "low": 0.95,
+        "close": 1.61
+    },
+    {
+        "timestamp": 437,
+        "open": -0.49,
+        "high": 0.44,
+        "low": -0.93,
+        "close": 0.11
+    },
+    {
+        "timestamp": 438,
+        "open": -0.76,
+        "high": -0.01,
+        "low": -2.28,
+        "close": -2.14
+    },
+    {
+        "timestamp": 439,
+        "open": 0.06,
+        "high": 0.37,
+        "low": -1.2,
+        "close": -0.65
+    },
+    {
+        "timestamp": 440,
+        "open": -0.54,
+        "high": 0.29,
+        "low": -1.93,
+        "close": -1.07
+    },
+    {
+        "timestamp": 441,
+        "open": 0.72,
+        "high": 0.86,
+        "low": -1.91,
+        "close": -1.77
+    },
+    {
+        "timestamp": 442,
+        "open": -2.59,
+        "high": 1.61,
+        "low": -2.68,
+        "close": 1.5
+    },
+    {
+        "timestamp": 443,
+        "open": 0.31,
+        "high": 2.23,
+        "low": -0.1,
+        "close": 2.21
+    },
+    {
+        "timestamp": 444,
+        "open": -1.31,
+        "high": 0.1,
+        "low": -1.61,
+        "close": -0.26
+    },
+    {
+        "timestamp": 445,
+        "open": -0.36,
+        "high": 0.12,
+        "low": -2.18,
+        "close": -1.52
+    },
+    {
+        "timestamp": 446,
+        "open": 0.56,
+        "high": 2.27,
+        "low": 0.37,
+        "close": 1.84
+    },
+    {
+        "timestamp": 447,
+        "open": 0.59,
+        "high": 0.74,
+        "low": -0.93,
+        "close": -0.5
+    },
+    {
+        "timestamp": 448,
+        "open": -0.91,
+        "high": -0.54,
+        "low": -1.8,
+        "close": -0.81
+    },
+    {
+        "timestamp": 449,
+        "open": -0.14,
+        "high": 0.03,
+        "low": -2.96,
+        "close": -2.95
+    },
+    {
+        "timestamp": 450,
+        "open": 0.05,
+        "high": 1.85,
+        "low": -1.03,
+        "close": -0.76
+    },
+    {
+        "timestamp": 451,
+        "open": 2.14,
+        "high": 3.19,
+        "low": 1.58,
+        "close": 2.68
+    },
+    {
+        "timestamp": 452,
+        "open": -1.14,
+        "high": -0.23,
+        "low": -1.63,
+        "close": -0.45
+    },
+    {
+        "timestamp": 453,
+        "open": 0.62,
+        "high": 0.77,
+        "low": -1.4,
+        "close": -1.27
+    },
+    {
+        "timestamp": 454,
+        "open": 0.2,
+        "high": 1.07,
+        "low": -1.02,
+        "close": -0.73
+    },
+    {
+        "timestamp": 455,
+        "open": 0.66,
+        "high": 2.36,
+        "low": 0.34,
+        "close": 2.2
+    },
+    {
+        "timestamp": 456,
+        "open": 0.87,
+        "high": 2.23,
+        "low": -0.32,
+        "close": 2.22
+    },
+    {
+        "timestamp": 457,
+        "open": -0.47,
+        "high": 1.25,
+        "low": -0.56,
+        "close": 1.25
+    },
+    {
+        "timestamp": 458,
+        "open": -0.7,
+        "high": 0.86,
+        "low": -0.87,
+        "close": 0.78
+    },
+    {
+        "timestamp": 459,
+        "open": -0.04,
+        "high": 0.44,
+        "low": -0.86,
+        "close": -0.03
+    },
+    {
+        "timestamp": 460,
+        "open": 0.33,
+        "high": 1.39,
+        "low": 0.33,
+        "close": 1.17
+    },
+    {
+        "timestamp": 461,
+        "open": -0.6,
+        "high": -0.24,
+        "low": -1.31,
+        "close": -1.29
+    },
+    {
+        "timestamp": 462,
+        "open": 0.48,
+        "high": 1.51,
+        "low": 0.22,
+        "close": 1.51
+    },
+    {
+        "timestamp": 463,
+        "open": 0.15,
+        "high": 0.55,
+        "low": -0.46,
+        "close": 0.49
+    },
+    {
+        "timestamp": 464,
+        "open": -0.14,
+        "high": 0.71,
+        "low": -0.58,
+        "close": 0.71
+    },
+    {
+        "timestamp": 465,
+        "open": 0.9,
+        "high": 1.35,
+        "low": 0.28,
+        "close": 1.24
+    },
+    {
+        "timestamp": 466,
+        "open": -0.26,
+        "high": -0.08,
+        "low": -1.1,
+        "close": -0.62
+    },
+    {
+        "timestamp": 467,
+        "open": -0.18,
+        "high": 0.01,
+        "low": -1.64,
+        "close": -1.54
+    },
+    {
+        "timestamp": 468,
+        "open": 0.37,
+        "high": 0.4,
+        "low": -0.55,
+        "close": 0.28
+    },
+    {
+        "timestamp": 469,
+        "open": 0.05,
+        "high": 0.88,
+        "low": -0.15,
+        "close": 0.86
+    },
+    {
+        "timestamp": 470,
+        "open": -0.35,
+        "high": 0.23,
+        "low": -1.53,
+        "close": -1.26
+    },
+    {
+        "timestamp": 471,
+        "open": -0.92,
+        "high": -0.47,
+        "low": -1.68,
+        "close": -1.0
+    },
+    {
+        "timestamp": 472,
+        "open": -0.21,
+        "high": 0.93,
+        "low": -0.67,
+        "close": 0.5
+    },
+    {
+        "timestamp": 473,
+        "open": -0.18,
+        "high": 0.41,
+        "low": -0.63,
+        "close": -0.27
+    },
+    {
+        "timestamp": 474,
+        "open": -0.77,
+        "high": -0.57,
+        "low": -1.83,
+        "close": -1.71
+    },
+    {
+        "timestamp": 475,
+        "open": 0.72,
+        "high": 1.33,
+        "low": -0.74,
+        "close": -0.37
+    },
+    {
+        "timestamp": 476,
+        "open": -0.06,
+        "high": 1.33,
+        "low": -0.1,
+        "close": 1.15
+    },
+    {
+        "timestamp": 477,
+        "open": 0.05,
+        "high": 0.32,
+        "low": -1.27,
+        "close": -1.25
+    },
+    {
+        "timestamp": 478,
+        "open": -0.22,
+        "high": 0.45,
+        "low": -0.5,
+        "close": 0.04
+    },
+    {
+        "timestamp": 479,
+        "open": -0.03,
+        "high": 1.79,
+        "low": -0.07,
+        "close": 1.61
+    },
+    {
+        "timestamp": 480,
+        "open": 0.42,
+        "high": 0.57,
+        "low": -0.35,
+        "close": -0.07
+    },
+    {
+        "timestamp": 481,
+        "open": 0.86,
+        "high": 1.19,
+        "low": -1.71,
+        "close": -1.5
+    },
+    {
+        "timestamp": 482,
+        "open": -0.26,
+        "high": 0.0,
+        "low": -2.88,
+        "close": -2.74
+    },
+    {
+        "timestamp": 483,
+        "open": -0.56,
+        "high": 0.62,
+        "low": -1.69,
+        "close": 0.58
+    },
+    {
+        "timestamp": 484,
+        "open": -0.63,
+        "high": -0.58,
+        "low": -2.9,
+        "close": -2.9
+    },
+    {
+        "timestamp": 485,
+        "open": 0.27,
+        "high": 1.64,
+        "low": -0.26,
+        "close": 0.28
+    },
+    {
+        "timestamp": 486,
+        "open": 1.2,
+        "high": 2.96,
+        "low": 0.08,
+        "close": 2.53
+    },
+    {
+        "timestamp": 487,
+        "open": -0.99,
+        "high": -0.45,
+        "low": -3.88,
+        "close": -3.7
+    },
+    {
+        "timestamp": 488,
+        "open": 0.02,
+        "high": 0.95,
+        "low": -1.69,
+        "close": 0.6
+    },
+    {
+        "timestamp": 489,
+        "open": 0.13,
+        "high": 1.07,
+        "low": -0.27,
+        "close": 0.46
+    },
+    {
+        "timestamp": 490,
+        "open": 0.17,
+        "high": 3.19,
+        "low": -0.64,
+        "close": 3.05
+    },
+    {
+        "timestamp": 491,
+        "open": -1.05,
+        "high": -0.95,
+        "low": -4.57,
+        "close": -3.55
+    },
+    {
+        "timestamp": 492,
+        "open": -0.65,
+        "high": 0.24,
+        "low": -1.95,
+        "close": -0.6
+    },
+    {
+        "timestamp": 493,
+        "open": -1.52,
+        "high": -1.2,
+        "low": -3.61,
+        "close": -3.2
+    },
+    {
+        "timestamp": 494,
+        "open": 1.59,
+        "high": 1.99,
+        "low": -0.84,
+        "close": 0.23
+    },
+    {
+        "timestamp": 495,
+        "open": -0.26,
+        "high": 1.24,
+        "low": -1.79,
+        "close": -1.59
+    },
+    {
+        "timestamp": 496,
+        "open": -0.86,
+        "high": 0.78,
+        "low": -1.94,
+        "close": -0.1
+    },
+    {
+        "timestamp": 497,
+        "open": 1.11,
+        "high": 2.76,
+        "low": 0.83,
+        "close": 2.39
+    },
+    {
+        "timestamp": 498,
+        "open": -0.43,
+        "high": 0.56,
+        "low": -1.03,
+        "close": -0.41
+    },
+    {
+        "timestamp": 499,
+        "open": 1.61,
+        "high": 2.12,
+        "low": 0.62,
+        "close": 2.06
+    },
+    {
+        "timestamp": 500,
+        "open": -1.18,
+        "high": -1.11,
+        "low": -4.35,
+        "close": -4.03
+    },
+    {
+        "timestamp": 501,
+        "open": -0.83,
+        "high": 0.58,
+        "low": -1.21,
+        "close": -0.61
+    },
+    {
+        "timestamp": 502,
+        "open": 0.97,
+        "high": 1.94,
+        "low": -2.29,
+        "close": 0.04
+    },
+    {
+        "timestamp": 503,
+        "open": 0.82,
+        "high": 2.08,
+        "low": 0.19,
+        "close": 1.87
+    },
+    {
+        "timestamp": 504,
+        "open": -1.1,
+        "high": -0.45,
+        "low": -2.51,
+        "close": -0.76
+    },
+    {
+        "timestamp": 505,
+        "open": -0.4,
+        "high": 1.41,
+        "low": -0.51,
+        "close": 0.88
+    },
+    {
+        "timestamp": 506,
+        "open": 0.33,
+        "high": 2.43,
+        "low": 0.27,
+        "close": 2.0
+    },
+    {
+        "timestamp": 507,
+        "open": 0.64,
+        "high": 2.48,
+        "low": 0.59,
+        "close": 2.45
+    },
+    {
+        "timestamp": 508,
+        "open": -0.41,
+        "high": 0.29,
+        "low": -1.26,
+        "close": -0.56
+    },
+    {
+        "timestamp": 509,
+        "open": 0.54,
+        "high": 0.8,
+        "low": -1.45,
+        "close": -0.81
+    },
+    {
+        "timestamp": 510,
+        "open": -0.04,
+        "high": 1.92,
+        "low": -0.62,
+        "close": 1.9
+    },
+    {
+        "timestamp": 511,
+        "open": -1.2,
+        "high": -0.8,
+        "low": -1.89,
+        "close": -1.64
+    },
+    {
+        "timestamp": 512,
+        "open": 1.03,
+        "high": 1.48,
+        "low": 0.0,
+        "close": 0.3
+    },
+    {
+        "timestamp": 513,
+        "open": -0.9,
+        "high": 1.08,
+        "low": -1.02,
+        "close": 0.96
+    },
+    {
+        "timestamp": 514,
+        "open": -0.44,
+        "high": 0.02,
+        "low": -1.29,
+        "close": -1.09
+    },
+    {
+        "timestamp": 515,
+        "open": -0.46,
+        "high": 0.13,
+        "low": -2.38,
+        "close": -2.38
+    },
+    {
+        "timestamp": 516,
+        "open": -1.63,
+        "high": -1.41,
+        "low": -2.91,
+        "close": -2.9
+    },
+    {
+        "timestamp": 517,
+        "open": -2.55,
+        "high": -2.05,
+        "low": -4.23,
+        "close": -3.8
+    },
+    {
+        "timestamp": 518,
+        "open": 0.49,
+        "high": 0.78,
+        "low": -1.18,
+        "close": -0.3
+    },
+    {
+        "timestamp": 519,
+        "open": 0.93,
+        "high": 2.68,
+        "low": -0.47,
+        "close": 1.43
+    },
+    {
+        "timestamp": 520,
+        "open": -2.29,
+        "high": -2.18,
+        "low": -3.99,
+        "close": -3.31
+    },
+    {
+        "timestamp": 521,
+        "open": -0.31,
+        "high": 0.74,
+        "low": -1.22,
+        "close": -0.22
+    },
+    {
+        "timestamp": 522,
+        "open": 1.65,
+        "high": 2.92,
+        "low": 1.63,
+        "close": 2.52
+    },
+    {
+        "timestamp": 523,
+        "open": -1.19,
+        "high": 0.97,
+        "low": -1.3,
+        "close": -0.18
+    },
+    {
+        "timestamp": 524,
+        "open": 0.6,
+        "high": 1.19,
+        "low": -0.4,
+        "close": 0.98
+    },
+    {
+        "timestamp": 525,
+        "open": 0.88,
+        "high": 3.18,
+        "low": 0.88,
+        "close": 3.18
+    },
+    {
+        "timestamp": 526,
+        "open": 0.25,
+        "high": 0.33,
+        "low": -0.68,
+        "close": -0.38
+    },
+    {
+        "timestamp": 527,
+        "open": 0.42,
+        "high": 1.18,
+        "low": -2.07,
+        "close": -2.04
+    },
+    {
+        "timestamp": 528,
+        "open": 0.15,
+        "high": 0.43,
+        "low": -0.59,
+        "close": -0.08
+    },
+    {
+        "timestamp": 529,
+        "open": -1.08,
+        "high": 0.08,
+        "low": -2.05,
+        "close": -0.81
+    },
+    {
+        "timestamp": 530,
+        "open": -0.18,
+        "high": 1.18,
+        "low": -0.91,
+        "close": 1.06
+    },
+    {
+        "timestamp": 531,
+        "open": -1.41,
+        "high": 0.19,
+        "low": -2.19,
+        "close": 0.19
+    },
+    {
+        "timestamp": 532,
+        "open": 0.04,
+        "high": 1.02,
+        "low": -0.62,
+        "close": 0.34
+    },
+    {
+        "timestamp": 533,
+        "open": 0.49,
+        "high": 1.72,
+        "low": 0.01,
+        "close": 1.5
+    },
+    {
+        "timestamp": 534,
+        "open": -0.44,
+        "high": 0.42,
+        "low": -0.86,
+        "close": -0.08
+    },
+    {
+        "timestamp": 535,
+        "open": -0.73,
+        "high": -0.46,
+        "low": -1.33,
+        "close": -1.14
+    },
+    {
+        "timestamp": 536,
+        "open": -0.15,
+        "high": 0.5,
+        "low": -1.36,
+        "close": -0.88
+    },
+    {
+        "timestamp": 537,
+        "open": -1.5,
+        "high": 0.29,
+        "low": -1.62,
+        "close": -0.53
+    },
+    {
+        "timestamp": 538,
+        "open": -1.38,
+        "high": 0.06,
+        "low": -2.06,
+        "close": -0.24
+    },
+    {
+        "timestamp": 539,
+        "open": 1.23,
+        "high": 1.94,
+        "low": 0.7,
+        "close": 1.91
+    },
+    {
+        "timestamp": 540,
+        "open": 0.84,
+        "high": 1.03,
+        "low": -1.16,
+        "close": -0.83
+    },
+    {
+        "timestamp": 541,
+        "open": 1.08,
+        "high": 2.86,
+        "low": 0.9,
+        "close": 2.7
+    },
+    {
+        "timestamp": 542,
+        "open": 0.05,
+        "high": 1.02,
+        "low": -0.32,
+        "close": 0.64
+    },
+    {
+        "timestamp": 543,
+        "open": -0.15,
+        "high": 1.03,
+        "low": -0.8,
+        "close": 1.02
+    },
+    {
+        "timestamp": 544,
+        "open": 0.03,
+        "high": 0.35,
+        "low": -1.51,
+        "close": -0.93
+    },
+    {
+        "timestamp": 545,
+        "open": 0.17,
+        "high": 0.35,
+        "low": -0.48,
+        "close": 0.12
+    },
+    {
+        "timestamp": 546,
+        "open": -0.44,
+        "high": -0.38,
+        "low": -1.42,
+        "close": -1.18
+    },
+    {
+        "timestamp": 547,
+        "open": 0.89,
+        "high": 3.07,
+        "low": 0.81,
+        "close": 2.6
+    },
+    {
+        "timestamp": 548,
+        "open": 0.21,
+        "high": 1.44,
+        "low": -0.72,
+        "close": 1.25
+    },
+    {
+        "timestamp": 549,
+        "open": 0.37,
+        "high": 1.71,
+        "low": 0.17,
+        "close": 1.46
+    },
+    {
+        "timestamp": 550,
+        "open": -0.69,
+        "high": 0.34,
+        "low": -0.87,
+        "close": -0.3
+    },
+    {
+        "timestamp": 551,
+        "open": -0.4,
+        "high": 0.54,
+        "low": -0.96,
+        "close": -0.66
+    },
+    {
+        "timestamp": 552,
+        "open": 0.55,
+        "high": 1.87,
+        "low": 0.48,
+        "close": 1.57
+    },
+    {
+        "timestamp": 553,
+        "open": -0.02,
+        "high": 0.15,
+        "low": -0.48,
+        "close": -0.07
+    },
+    {
+        "timestamp": 554,
+        "open": -1.09,
+        "high": -0.0,
+        "low": -1.1,
+        "close": -0.17
+    },
+    {
+        "timestamp": 555,
+        "open": 0.43,
+        "high": 1.0,
+        "low": -0.4,
+        "close": -0.12
+    },
+    {
+        "timestamp": 556,
+        "open": -0.19,
+        "high": -0.06,
+        "low": -0.67,
+        "close": -0.4
+    },
+    {
+        "timestamp": 557,
+        "open": 1.81,
+        "high": 2.14,
+        "low": 1.31,
+        "close": 2.1
+    },
+    {
+        "timestamp": 558,
+        "open": 0.71,
+        "high": 1.18,
+        "low": -0.19,
+        "close": 0.0
+    },
+    {
+        "timestamp": 559,
+        "open": 0.49,
+        "high": 1.72,
+        "low": 0.25,
+        "close": 1.69
+    },
+    {
+        "timestamp": 560,
+        "open": -0.55,
+        "high": 0.54,
+        "low": -0.56,
+        "close": 0.41
+    },
+    {
+        "timestamp": 561,
+        "open": -0.26,
+        "high": 0.67,
+        "low": -0.46,
+        "close": 0.2
+    },
+    {
+        "timestamp": 562,
+        "open": -0.88,
+        "high": -0.05,
+        "low": -1.2,
+        "close": -0.71
+    },
+    {
+        "timestamp": 563,
+        "open": 0.05,
+        "high": 0.46,
+        "low": -0.27,
+        "close": 0.29
+    },
+    {
+        "timestamp": 564,
+        "open": -0.68,
+        "high": -0.61,
+        "low": -1.56,
+        "close": -1.34
+    },
+    {
+        "timestamp": 565,
+        "open": -1.21,
+        "high": -1.16,
+        "low": -2.31,
+        "close": -2.08
+    },
+    {
+        "timestamp": 566,
+        "open": -0.11,
+        "high": 0.5,
+        "low": -0.38,
+        "close": -0.24
+    },
+    {
+        "timestamp": 567,
+        "open": -0.06,
+        "high": 0.67,
+        "low": -0.23,
+        "close": 0.32
+    },
+    {
+        "timestamp": 568,
+        "open": 0.38,
+        "high": 1.42,
+        "low": 0.1,
+        "close": 1.41
+    },
+    {
+        "timestamp": 569,
+        "open": -0.03,
+        "high": 0.11,
+        "low": -3.4,
+        "close": -3.38
+    },
+    {
+        "timestamp": 570,
+        "open": -0.77,
+        "high": 0.13,
+        "low": -1.01,
+        "close": -0.66
+    },
+    {
+        "timestamp": 571,
+        "open": 0.3,
+        "high": 0.37,
+        "low": -1.65,
+        "close": -1.1
+    },
+    {
+        "timestamp": 572,
+        "open": 0.43,
+        "high": 0.76,
+        "low": -0.8,
+        "close": -0.76
+    },
+    {
+        "timestamp": 573,
+        "open": -0.58,
+        "high": 0.4,
+        "low": -1.3,
+        "close": 0.31
+    },
+    {
+        "timestamp": 574,
+        "open": 0.97,
+        "high": 1.3,
+        "low": -1.54,
+        "close": -1.05
+    },
+    {
+        "timestamp": 575,
+        "open": 0.23,
+        "high": 0.48,
+        "low": -0.97,
+        "close": -0.38
+    },
+    {
+        "timestamp": 576,
+        "open": -0.08,
+        "high": 2.0,
+        "low": -0.14,
+        "close": 1.8
+    },
+    {
+        "timestamp": 577,
+        "open": -0.6,
+        "high": 0.77,
+        "low": -0.92,
+        "close": 0.65
+    },
+    {
+        "timestamp": 578,
+        "open": 0.59,
+        "high": 1.78,
+        "low": 0.52,
+        "close": 1.55
+    },
+    {
+        "timestamp": 579,
+        "open": 0.54,
+        "high": 1.26,
+        "low": 0.46,
+        "close": 1.07
+    },
+    {
+        "timestamp": 580,
+        "open": -2.22,
+        "high": -1.91,
+        "low": -4.64,
+        "close": -4.35
+    },
+    {
+        "timestamp": 581,
+        "open": 0.35,
+        "high": 0.79,
+        "low": -0.5,
+        "close": 0.38
+    },
+    {
+        "timestamp": 582,
+        "open": -0.42,
+        "high": 0.34,
+        "low": -1.47,
+        "close": -1.14
+    },
+    {
+        "timestamp": 583,
+        "open": -1.53,
+        "high": -0.99,
+        "low": -2.05,
+        "close": -1.17
+    },
+    {
+        "timestamp": 584,
+        "open": -0.86,
+        "high": 0.78,
+        "low": -0.88,
+        "close": 0.78
+    },
+    {
+        "timestamp": 585,
+        "open": -0.9,
+        "high": -0.63,
+        "low": -1.89,
+        "close": -1.15
+    },
+    {
+        "timestamp": 586,
+        "open": 0.53,
+        "high": 1.36,
+        "low": -1.75,
+        "close": -1.74
+    },
+    {
+        "timestamp": 587,
+        "open": -0.21,
+        "high": 0.24,
+        "low": -1.05,
+        "close": -0.84
+    },
+    {
+        "timestamp": 588,
+        "open": -0.97,
+        "high": -0.96,
+        "low": -2.92,
+        "close": -1.68
+    },
+    {
+        "timestamp": 589,
+        "open": -0.42,
+        "high": 0.61,
+        "low": -1.34,
+        "close": -0.99
+    },
+    {
+        "timestamp": 590,
+        "open": 1.02,
+        "high": 1.67,
+        "low": -0.94,
+        "close": -0.26
+    },
+    {
+        "timestamp": 591,
+        "open": 0.28,
+        "high": 2.45,
+        "low": -0.21,
+        "close": 1.97
+    },
+    {
+        "timestamp": 592,
+        "open": -1.0,
+        "high": -0.92,
+        "low": -2.92,
+        "close": -2.09
+    },
+    {
+        "timestamp": 593,
+        "open": -0.27,
+        "high": 0.86,
+        "low": -1.58,
+        "close": -1.55
+    },
+    {
+        "timestamp": 594,
+        "open": 1.09,
+        "high": 3.18,
+        "low": 0.57,
+        "close": 2.64
+    },
+    {
+        "timestamp": 595,
+        "open": 1.58,
+        "high": 3.11,
+        "low": -0.01,
+        "close": 3.1
+    },
+    {
+        "timestamp": 596,
+        "open": -1.21,
+        "high": 0.39,
+        "low": -1.86,
+        "close": -0.23
+    },
+    {
+        "timestamp": 597,
+        "open": -0.39,
+        "high": 0.43,
+        "low": -1.17,
+        "close": -1.03
+    },
+    {
+        "timestamp": 598,
+        "open": -1.13,
+        "high": 0.02,
+        "low": -3.29,
+        "close": -2.79
+    },
+    {
+        "timestamp": 599,
+        "open": 0.32,
+        "high": 0.39,
+        "low": -1.41,
+        "close": -0.76
+    },
+    {
+        "timestamp": 600,
+        "open": -0.49,
+        "high": 0.84,
+        "low": -1.2,
+        "close": -0.63
+    },
+    {
+        "timestamp": 601,
+        "open": 0.12,
+        "high": 0.58,
+        "low": -0.4,
+        "close": -0.33
+    },
+    {
+        "timestamp": 602,
+        "open": -2.06,
+        "high": 3.07,
+        "low": -2.37,
+        "close": 2.64
+    },
+    {
+        "timestamp": 603,
+        "open": 0.7,
+        "high": 1.17,
+        "low": -2.46,
+        "close": -2.28
+    },
+    {
+        "timestamp": 604,
+        "open": 1.78,
+        "high": 2.89,
+        "low": -0.1,
+        "close": 2.57
+    },
+    {
+        "timestamp": 605,
+        "open": 2.27,
+        "high": 2.35,
+        "low": 0.19,
+        "close": 1.17
+    },
+    {
+        "timestamp": 606,
+        "open": -0.58,
+        "high": 0.19,
+        "low": -1.5,
+        "close": -0.71
+    },
+    {
+        "timestamp": 607,
+        "open": -0.13,
+        "high": 1.13,
+        "low": -1.06,
+        "close": -0.84
+    },
+    {
+        "timestamp": 608,
+        "open": -0.08,
+        "high": 2.57,
+        "low": -0.51,
+        "close": 2.43
+    },
+    {
+        "timestamp": 609,
+        "open": 0.43,
+        "high": 1.54,
+        "low": -0.32,
+        "close": 1.22
+    },
+    {
+        "timestamp": 610,
+        "open": -0.02,
+        "high": 1.68,
+        "low": -0.05,
+        "close": 1.6
+    },
+    {
+        "timestamp": 611,
+        "open": -0.86,
+        "high": 0.69,
+        "low": -0.93,
+        "close": -0.75
+    },
+    {
+        "timestamp": 612,
+        "open": 0.27,
+        "high": 0.78,
+        "low": -0.7,
+        "close": -0.53
+    },
+    {
+        "timestamp": 613,
+        "open": -0.03,
+        "high": 2.51,
+        "low": -0.08,
+        "close": 2.38
+    },
+    {
+        "timestamp": 614,
+        "open": -0.66,
+        "high": -0.16,
+        "low": -0.97,
+        "close": -0.72
+    },
+    {
+        "timestamp": 615,
+        "open": 1.02,
+        "high": 1.08,
+        "low": -0.76,
+        "close": -0.44
+    },
+    {
+        "timestamp": 616,
+        "open": -0.16,
+        "high": 1.07,
+        "low": -2.54,
+        "close": -2.51
+    },
+    {
+        "timestamp": 617,
+        "open": -0.91,
+        "high": -0.18,
+        "low": -1.62,
+        "close": -1.03
+    },
+    {
+        "timestamp": 618,
+        "open": 1.61,
+        "high": 2.12,
+        "low": -0.27,
+        "close": 1.44
+    },
+    {
+        "timestamp": 619,
+        "open": 0.36,
+        "high": 1.12,
+        "low": -0.22,
+        "close": 0.96
+    },
+    {
+        "timestamp": 620,
+        "open": 0.31,
+        "high": 1.36,
+        "low": -0.59,
+        "close": 0.54
+    },
+    {
+        "timestamp": 621,
+        "open": -0.54,
+        "high": -0.23,
+        "low": -2.2,
+        "close": -2.06
+    },
+    {
+        "timestamp": 622,
+        "open": 3.72,
+        "high": 5.59,
+        "low": 3.08,
+        "close": 5.5
+    },
+    {
+        "timestamp": 623,
+        "open": 0.23,
+        "high": 1.18,
+        "low": -0.27,
+        "close": 0.97
+    },
+    {
+        "timestamp": 624,
+        "open": -0.46,
+        "high": 0.42,
+        "low": -0.92,
+        "close": -0.85
+    },
+    {
+        "timestamp": 625,
+        "open": 1.53,
+        "high": 1.82,
+        "low": -0.16,
+        "close": 0.85
+    },
+    {
+        "timestamp": 626,
+        "open": -0.43,
+        "high": -0.18,
+        "low": -0.93,
+        "close": -0.76
+    },
+    {
+        "timestamp": 627,
+        "open": -1.26,
+        "high": -0.13,
+        "low": -1.34,
+        "close": -0.31
+    },
+    {
+        "timestamp": 628,
+        "open": 0.89,
+        "high": 0.91,
+        "low": -0.3,
+        "close": 0.45
+    },
+    {
+        "timestamp": 629,
+        "open": -0.35,
+        "high": -0.05,
+        "low": -0.85,
+        "close": -0.36
+    },
+    {
+        "timestamp": 630,
+        "open": 0.52,
+        "high": 1.39,
+        "low": 0.14,
+        "close": 1.35
+    },
+    {
+        "timestamp": 631,
+        "open": -0.09,
+        "high": 0.76,
+        "low": -0.15,
+        "close": 0.63
+    },
+    {
+        "timestamp": 632,
+        "open": -0.15,
+        "high": 0.12,
+        "low": -0.22,
+        "close": -0.02
+    },
+    {
+        "timestamp": 633,
+        "open": -0.81,
+        "high": -0.38,
+        "low": -1.79,
+        "close": -1.6
+    },
+    {
+        "timestamp": 634,
+        "open": 0.04,
+        "high": 0.35,
+        "low": -0.66,
+        "close": -0.17
+    },
+    {
+        "timestamp": 635,
+        "open": 0.07,
+        "high": 3.15,
+        "low": -0.44,
+        "close": 3.15
+    },
+    {
+        "timestamp": 636,
+        "open": 0.27,
+        "high": 0.57,
+        "low": -0.72,
+        "close": -0.07
+    },
+    {
+        "timestamp": 637,
+        "open": -1.26,
+        "high": 0.12,
+        "low": -1.29,
+        "close": -0.12
+    },
+    {
+        "timestamp": 638,
+        "open": -0.73,
+        "high": -0.49,
+        "low": -2.15,
+        "close": -1.8
+    },
+    {
+        "timestamp": 639,
+        "open": -0.04,
+        "high": 0.1,
+        "low": -1.99,
+        "close": -1.44
+    },
+    {
+        "timestamp": 640,
+        "open": -0.23,
+        "high": 0.46,
+        "low": -0.47,
+        "close": -0.17
+    },
+    {
+        "timestamp": 641,
+        "open": 0.5,
+        "high": 1.07,
+        "low": 0.03,
+        "close": 0.78
+    },
+    {
+        "timestamp": 642,
+        "open": -0.33,
+        "high": 0.35,
+        "low": -0.78,
+        "close": -0.75
+    },
+    {
+        "timestamp": 643,
+        "open": 0.21,
+        "high": 1.44,
+        "low": 0.03,
+        "close": 1.44
+    },
+    {
+        "timestamp": 644,
+        "open": 2.82,
+        "high": 2.89,
+        "low": 0.03,
+        "close": 0.76
+    },
+    {
+        "timestamp": 645,
+        "open": -0.09,
+        "high": 0.88,
+        "low": -1.41,
+        "close": -0.64
+    },
+    {
+        "timestamp": 646,
+        "open": -1.28,
+        "high": -1.04,
+        "low": -2.88,
+        "close": -2.45
+    },
+    {
+        "timestamp": 647,
+        "open": -1.14,
+        "high": -0.78,
+        "low": -2.2,
+        "close": -1.63
+    },
+    {
+        "timestamp": 648,
+        "open": 0.05,
+        "high": 0.14,
+        "low": -1.3,
+        "close": -0.85
+    },
+    {
+        "timestamp": 649,
+        "open": -0.21,
+        "high": 0.58,
+        "low": -0.57,
+        "close": 0.14
+    },
+    {
+        "timestamp": 650,
+        "open": 0.71,
+        "high": 1.81,
+        "low": 0.56,
+        "close": 1.5
+    },
+    {
+        "timestamp": 651,
+        "open": -0.82,
+        "high": -0.01,
+        "low": -2.97,
+        "close": -1.43
+    },
+    {
+        "timestamp": 652,
+        "open": -0.28,
+        "high": 0.61,
+        "low": -0.71,
+        "close": 0.58
+    },
+    {
+        "timestamp": 653,
+        "open": -0.03,
+        "high": 0.06,
+        "low": -0.85,
+        "close": -0.39
+    },
+    {
+        "timestamp": 654,
+        "open": -0.02,
+        "high": 0.52,
+        "low": -1.31,
+        "close": -1.24
+    },
+    {
+        "timestamp": 655,
+        "open": 0.79,
+        "high": 2.04,
+        "low": 0.64,
+        "close": 1.8
+    },
+    {
+        "timestamp": 656,
+        "open": -0.73,
+        "high": -0.22,
+        "low": -1.31,
+        "close": -0.26
+    },
+    {
+        "timestamp": 657,
+        "open": 0.51,
+        "high": 1.05,
+        "low": -1.2,
+        "close": -0.42
+    },
+    {
+        "timestamp": 658,
+        "open": 0.62,
+        "high": 1.33,
+        "low": -0.22,
+        "close": 0.77
+    },
+    {
+        "timestamp": 659,
+        "open": -0.53,
+        "high": -0.5,
+        "low": -1.3,
+        "close": -1.14
+    },
+    {
+        "timestamp": 660,
+        "open": 0.85,
+        "high": 2.6,
+        "low": 0.01,
+        "close": 2.29
+    },
+    {
+        "timestamp": 661,
+        "open": 0.59,
+        "high": 1.45,
+        "low": -0.11,
+        "close": -0.06
+    },
+    {
+        "timestamp": 662,
+        "open": -0.16,
+        "high": 0.72,
+        "low": -0.41,
+        "close": 0.7
+    },
+    {
+        "timestamp": 663,
+        "open": 0.42,
+        "high": 1.29,
+        "low": 0.2,
+        "close": 1.26
+    },
+    {
+        "timestamp": 664,
+        "open": 0.29,
+        "high": 0.75,
+        "low": -0.78,
+        "close": 0.36
+    },
+    {
+        "timestamp": 665,
+        "open": -0.84,
+        "high": 0.54,
+        "low": -0.91,
+        "close": 0.39
+    },
+    {
+        "timestamp": 666,
+        "open": -0.01,
+        "high": 0.43,
+        "low": -0.36,
+        "close": -0.18
+    },
+    {
+        "timestamp": 667,
+        "open": 0.31,
+        "high": 0.59,
+        "low": -1.63,
+        "close": -1.58
+    },
+    {
+        "timestamp": 668,
+        "open": -0.54,
+        "high": -0.1,
+        "low": -1.08,
+        "close": -0.73
+    },
+    {
+        "timestamp": 669,
+        "open": 0.38,
+        "high": 1.9,
+        "low": -0.07,
+        "close": 1.86
+    },
+    {
+        "timestamp": 670,
+        "open": 0.21,
+        "high": 1.71,
+        "low": -0.04,
+        "close": 1.2
+    },
+    {
+        "timestamp": 671,
+        "open": -0.44,
+        "high": 0.13,
+        "low": -0.75,
+        "close": -0.11
+    },
+    {
+        "timestamp": 672,
+        "open": -1.06,
+        "high": 0.12,
+        "low": -1.66,
+        "close": 0.04
+    },
+    {
+        "timestamp": 673,
+        "open": 0.69,
+        "high": 1.14,
+        "low": -0.08,
+        "close": 1.1
+    },
+    {
+        "timestamp": 674,
+        "open": -0.27,
+        "high": 0.84,
+        "low": -0.32,
+        "close": 0.23
+    },
+    {
+        "timestamp": 675,
+        "open": -0.71,
+        "high": -0.14,
+        "low": -1.33,
+        "close": -1.25
+    },
+    {
+        "timestamp": 676,
+        "open": 0.13,
+        "high": 1.48,
+        "low": 0.04,
+        "close": 1.47
+    },
+    {
+        "timestamp": 677,
+        "open": -0.31,
+        "high": 1.77,
+        "low": -1.02,
+        "close": 1.06
+    },
+    {
+        "timestamp": 678,
+        "open": 0.99,
+        "high": 1.83,
+        "low": 0.51,
+        "close": 1.46
+    },
+    {
+        "timestamp": 679,
+        "open": -1.25,
+        "high": 0.05,
+        "low": -1.37,
+        "close": -1.06
+    },
+    {
+        "timestamp": 680,
+        "open": -0.62,
+        "high": -0.26,
+        "low": -1.03,
+        "close": -0.61
+    },
+    {
+        "timestamp": 681,
+        "open": -0.23,
+        "high": 1.63,
+        "low": -0.55,
+        "close": 1.31
+    },
+    {
+        "timestamp": 682,
+        "open": -0.5,
+        "high": -0.16,
+        "low": -1.27,
+        "close": -1.09
+    },
+    {
+        "timestamp": 683,
+        "open": 0.92,
+        "high": 0.95,
+        "low": -1.18,
+        "close": -0.87
+    },
+    {
+        "timestamp": 684,
+        "open": -0.3,
+        "high": 0.33,
+        "low": -0.51,
+        "close": 0.23
+    },
+    {
+        "timestamp": 685,
+        "open": 0.17,
+        "high": 1.21,
+        "low": 0.05,
+        "close": 1.17
+    },
+    {
+        "timestamp": 686,
+        "open": -0.39,
+        "high": 0.54,
+        "low": -1.05,
+        "close": -0.05
+    },
+    {
+        "timestamp": 687,
+        "open": -0.55,
+        "high": 0.34,
+        "low": -0.77,
+        "close": 0.32
+    },
+    {
+        "timestamp": 688,
+        "open": -1.25,
+        "high": -0.26,
+        "low": -1.41,
+        "close": -1.38
+    },
+    {
+        "timestamp": 689,
+        "open": -0.54,
+        "high": -0.19,
+        "low": -1.04,
+        "close": -0.25
+    },
+    {
+        "timestamp": 690,
+        "open": -1.03,
+        "high": -0.76,
+        "low": -2.07,
+        "close": -2.01
+    },
+    {
+        "timestamp": 691,
+        "open": 0.11,
+        "high": 0.51,
+        "low": -0.52,
+        "close": -0.14
+    },
+    {
+        "timestamp": 692,
+        "open": 0.76,
+        "high": 0.92,
+        "low": -0.57,
+        "close": 0.53
+    },
+    {
+        "timestamp": 693,
+        "open": -1.31,
+        "high": -0.85,
+        "low": -1.75,
+        "close": -1.07
+    },
+    {
+        "timestamp": 694,
+        "open": 0.88,
+        "high": 1.24,
+        "low": 0.09,
+        "close": 0.34
+    },
+    {
+        "timestamp": 695,
+        "open": -0.13,
+        "high": 0.39,
+        "low": -0.4,
+        "close": -0.37
+    },
+    {
+        "timestamp": 696,
+        "open": -0.21,
+        "high": 0.11,
+        "low": -0.73,
+        "close": -0.38
+    },
+    {
+        "timestamp": 697,
+        "open": -0.52,
+        "high": 1.0,
+        "low": -0.61,
+        "close": 0.78
+    },
+    {
+        "timestamp": 698,
+        "open": 0.48,
+        "high": 1.67,
+        "low": 0.31,
+        "close": 1.6
+    },
+    {
+        "timestamp": 699,
+        "open": 0.21,
+        "high": 0.81,
+        "low": -0.04,
+        "close": 0.07
+    },
+    {
+        "timestamp": 700,
+        "open": -0.01,
+        "high": 0.05,
+        "low": -1.69,
+        "close": -1.53
+    },
+    {
+        "timestamp": 701,
+        "open": 0.03,
+        "high": 0.36,
+        "low": -0.42,
+        "close": 0.16
+    },
+    {
+        "timestamp": 702,
+        "open": 0.21,
+        "high": 0.64,
+        "low": -2.1,
+        "close": -1.84
+    },
+    {
+        "timestamp": 703,
+        "open": -0.15,
+        "high": 0.41,
+        "low": -1.85,
+        "close": -1.44
+    },
+    {
+        "timestamp": 704,
+        "open": -1.06,
+        "high": 1.16,
+        "low": -1.36,
+        "close": -0.14
+    },
+    {
+        "timestamp": 705,
+        "open": 1.33,
+        "high": 2.1,
+        "low": 0.44,
+        "close": 1.65
+    },
+    {
+        "timestamp": 706,
+        "open": -1.49,
+        "high": -0.57,
+        "low": -2.05,
+        "close": -0.63
+    },
+    {
+        "timestamp": 707,
+        "open": -0.63,
+        "high": 1.85,
+        "low": -0.77,
+        "close": 1.75
+    },
+    {
+        "timestamp": 708,
+        "open": -0.73,
+        "high": -0.43,
+        "low": -1.91,
+        "close": -1.55
+    },
+    {
+        "timestamp": 709,
+        "open": 0.21,
+        "high": 1.07,
+        "low": 0.02,
+        "close": 0.96
+    },
+    {
+        "timestamp": 710,
+        "open": 0.89,
+        "high": 1.44,
+        "low": 0.47,
+        "close": 1.31
+    },
+    {
+        "timestamp": 711,
+        "open": -0.05,
+        "high": 0.9,
+        "low": -1.71,
+        "close": -1.7
+    },
+    {
+        "timestamp": 712,
+        "open": 0.76,
+        "high": 1.83,
+        "low": -0.45,
+        "close": 0.27
+    },
+    {
+        "timestamp": 713,
+        "open": -0.34,
+        "high": 0.68,
+        "low": -0.96,
+        "close": 0.66
+    },
+    {
+        "timestamp": 714,
+        "open": 0.6,
+        "high": 0.8,
+        "low": -0.05,
+        "close": 0.19
+    },
+    {
+        "timestamp": 715,
+        "open": -0.18,
+        "high": 0.0,
+        "low": -0.71,
+        "close": -0.22
+    },
+    {
+        "timestamp": 716,
+        "open": 1.09,
+        "high": 1.52,
+        "low": 0.78,
+        "close": 1.45
+    },
+    {
+        "timestamp": 717,
+        "open": 0.68,
+        "high": 0.75,
+        "low": 0.1,
+        "close": 0.59
+    },
+    {
+        "timestamp": 718,
+        "open": 0.24,
+        "high": 1.49,
+        "low": 0.21,
+        "close": 1.41
+    },
+    {
+        "timestamp": 719,
+        "open": -0.13,
+        "high": 0.48,
+        "low": -0.23,
+        "close": 0.38
+    },
+    {
+        "timestamp": 720,
+        "open": 0.16,
+        "high": 0.24,
+        "low": -0.9,
+        "close": -0.55
+    },
+    {
+        "timestamp": 721,
+        "open": -0.19,
+        "high": 0.01,
+        "low": -0.68,
+        "close": -0.26
+    },
+    {
+        "timestamp": 722,
+        "open": -0.2,
+        "high": 0.46,
+        "low": -0.47,
+        "close": 0.39
+    },
+    {
+        "timestamp": 723,
+        "open": -0.63,
+        "high": 0.12,
+        "low": -0.79,
+        "close": 0.1
+    },
+    {
+        "timestamp": 724,
+        "open": 0.16,
+        "high": 0.38,
+        "low": -0.17,
+        "close": 0.03
+    },
+    {
+        "timestamp": 725,
+        "open": 0.52,
+        "high": 0.6,
+        "low": -0.56,
+        "close": -0.41
+    },
+    {
+        "timestamp": 726,
+        "open": 0.28,
+        "high": 1.42,
+        "low": -0.01,
+        "close": 1.33
+    },
+    {
+        "timestamp": 727,
+        "open": -0.16,
+        "high": 0.39,
+        "low": -0.82,
+        "close": -0.24
+    },
+    {
+        "timestamp": 728,
+        "open": -0.02,
+        "high": 0.36,
+        "low": -0.33,
+        "close": 0.36
+    },
+    {
+        "timestamp": 729,
+        "open": 0.4,
+        "high": 0.43,
+        "low": -0.28,
+        "close": 0.07
+    },
+    {
+        "timestamp": 730,
+        "open": -0.48,
+        "high": 0.21,
+        "low": -0.49,
+        "close": -0.02
+    },
+    {
+        "timestamp": 731,
+        "open": -0.71,
+        "high": -0.11,
+        "low": -0.93,
+        "close": -0.55
+    },
+    {
+        "timestamp": 732,
+        "open": 0.08,
+        "high": 0.19,
+        "low": -0.42,
+        "close": 0.08
+    },
+    {
+        "timestamp": 733,
+        "open": -0.05,
+        "high": 0.21,
+        "low": -0.39,
+        "close": 0.1
+    },
+    {
+        "timestamp": 734,
+        "open": -0.5,
+        "high": -0.36,
+        "low": -1.6,
+        "close": -1.59
+    },
+    {
+        "timestamp": 735,
+        "open": 0.16,
+        "high": 0.43,
+        "low": -0.57,
+        "close": -0.42
+    },
+    {
+        "timestamp": 736,
+        "open": 0.65,
+        "high": 2.06,
+        "low": 0.59,
+        "close": 1.99
+    },
+    {
+        "timestamp": 737,
+        "open": -0.22,
+        "high": 0.86,
+        "low": -0.24,
+        "close": 0.85
+    },
+    {
+        "timestamp": 738,
+        "open": -0.11,
+        "high": 0.41,
+        "low": -0.16,
+        "close": -0.1
+    },
+    {
+        "timestamp": 739,
+        "open": -0.18,
+        "high": -0.17,
+        "low": -1.85,
+        "close": -1.12
+    },
+    {
+        "timestamp": 740,
+        "open": 0.13,
+        "high": 0.74,
+        "low": -0.75,
+        "close": -0.69
+    },
+    {
+        "timestamp": 741,
+        "open": -0.27,
+        "high": -0.18,
+        "low": -1.05,
+        "close": -0.71
+    },
+    {
+        "timestamp": 742,
+        "open": 0.93,
+        "high": 2.12,
+        "low": 0.87,
+        "close": 1.85
+    },
+    {
+        "timestamp": 743,
+        "open": 0.08,
+        "high": 0.15,
+        "low": -0.33,
+        "close": 0.03
+    },
+    {
+        "timestamp": 744,
+        "open": -0.39,
+        "high": -0.16,
+        "low": -0.5,
+        "close": -0.44
+    },
+    {
+        "timestamp": 745,
+        "open": 0.72,
+        "high": 0.88,
+        "low": -0.5,
+        "close": 0.47
+    },
+    {
+        "timestamp": 746,
+        "open": -0.22,
+        "high": -0.1,
+        "low": -0.7,
+        "close": -0.17
+    },
+    {
+        "timestamp": 747,
+        "open": 0.31,
+        "high": 0.37,
+        "low": -0.74,
+        "close": -0.13
+    },
+    {
+        "timestamp": 748,
+        "open": 0.15,
+        "high": 0.45,
+        "low": -0.33,
+        "close": 0.35
+    },
+    {
+        "timestamp": 749,
+        "open": -0.28,
+        "high": -0.05,
+        "low": -0.67,
+        "close": -0.67
+    },
+    {
+        "timestamp": 750,
+        "open": 0.51,
+        "high": 1.37,
+        "low": 0.1,
+        "close": 1.21
+    },
+    {
+        "timestamp": 751,
+        "open": -0.08,
+        "high": 1.07,
+        "low": -0.13,
+        "close": 0.96
+    },
+    {
+        "timestamp": 752,
+        "open": 0.22,
+        "high": 0.36,
+        "low": -0.45,
+        "close": -0.15
+    },
+    {
+        "timestamp": 753,
+        "open": 0.0,
+        "high": 0.42,
+        "low": -0.3,
+        "close": 0.04
+    },
+    {
+        "timestamp": 754,
+        "open": -0.41,
+        "high": -0.02,
+        "low": -1.22,
+        "close": -1.12
+    },
+    {
+        "timestamp": 755,
+        "open": -0.4,
+        "high": -0.31,
+        "low": -1.02,
+        "close": -0.72
+    },
+    {
+        "timestamp": 756,
+        "open": 0.89,
+        "high": 1.23,
+        "low": 0.32,
+        "close": 0.87
+    },
+    {
+        "timestamp": 757,
+        "open": 0.16,
+        "high": 1.48,
+        "low": 0.14,
+        "close": 1.3
+    },
+    {
+        "timestamp": 758,
+        "open": 0.48,
+        "high": 0.61,
+        "low": -0.3,
+        "close": 0.04
+    },
+    {
+        "timestamp": 759,
+        "open": -0.45,
+        "high": -0.23,
+        "low": -0.94,
+        "close": -0.55
+    },
+    {
+        "timestamp": 760,
+        "open": 0.06,
+        "high": 1.21,
+        "low": -0.25,
+        "close": 0.95
+    },
+    {
+        "timestamp": 761,
+        "open": 0.64,
+        "high": 1.64,
+        "low": 0.5,
+        "close": 1.45
+    },
+    {
+        "timestamp": 762,
+        "open": 0.08,
+        "high": 0.4,
+        "low": -0.36,
+        "close": -0.19
+    },
+    {
+        "timestamp": 763,
+        "open": -0.1,
+        "high": 0.35,
+        "low": -0.26,
+        "close": 0.22
+    },
+    {
+        "timestamp": 764,
+        "open": 0.1,
+        "high": 0.37,
+        "low": -0.45,
+        "close": -0.35
+    },
+    {
+        "timestamp": 765,
+        "open": 0.02,
+        "high": 0.72,
+        "low": -0.17,
+        "close": 0.6
+    },
+    {
+        "timestamp": 766,
+        "open": 0.19,
+        "high": 0.67,
+        "low": -0.06,
+        "close": 0.18
+    },
+    {
+        "timestamp": 767,
+        "open": 0.24,
+        "high": 0.93,
+        "low": 0.06,
+        "close": 0.91
+    },
+    {
+        "timestamp": 768,
+        "open": 0.35,
+        "high": 0.81,
+        "low": 0.19,
+        "close": 0.66
+    },
+    {
+        "timestamp": 769,
+        "open": 0.08,
+        "high": 0.55,
+        "low": -0.7,
+        "close": 0.12
+    },
+    {
+        "timestamp": 770,
+        "open": -0.19,
+        "high": 1.54,
+        "low": -0.22,
+        "close": 1.24
+    },
+    {
+        "timestamp": 771,
+        "open": 0.09,
+        "high": 0.23,
+        "low": -0.82,
+        "close": -0.71
+    },
+    {
+        "timestamp": 772,
+        "open": -0.46,
+        "high": -0.25,
+        "low": -1.01,
+        "close": -0.52
+    },
+    {
+        "timestamp": 773,
+        "open": -0.23,
+        "high": -0.04,
+        "low": -0.65,
+        "close": -0.51
+    },
+    {
+        "timestamp": 774,
+        "open": -0.23,
+        "high": 0.39,
+        "low": -0.31,
+        "close": 0.36
+    },
+    {
+        "timestamp": 775,
+        "open": -0.82,
+        "high": -0.33,
+        "low": -0.93,
+        "close": -0.76
+    },
+    {
+        "timestamp": 776,
+        "open": -0.14,
+        "high": 0.32,
+        "low": -0.47,
+        "close": -0.41
+    },
+    {
+        "timestamp": 777,
+        "open": 0.21,
+        "high": 1.24,
+        "low": 0.1,
+        "close": 1.1
+    },
+    {
+        "timestamp": 778,
+        "open": -0.26,
+        "high": 0.29,
+        "low": -0.4,
+        "close": 0.05
+    },
+    {
+        "timestamp": 779,
+        "open": -0.1,
+        "high": 0.43,
+        "low": -0.19,
+        "close": 0.39
+    },
+    {
+        "timestamp": 780,
+        "open": 0.76,
+        "high": 1.41,
+        "low": 0.68,
+        "close": 1.18
+    },
+    {
+        "timestamp": 781,
+        "open": -0.08,
+        "high": 0.18,
+        "low": -0.15,
+        "close": 0.12
+    },
+    {
+        "timestamp": 782,
+        "open": -0.42,
+        "high": 0.02,
+        "low": -0.43,
+        "close": -0.15
+    },
+    {
+        "timestamp": 783,
+        "open": -0.84,
+        "high": -0.68,
+        "low": -1.37,
+        "close": -0.78
+    },
+    {
+        "timestamp": 784,
+        "open": -0.23,
+        "high": 0.68,
+        "low": -0.31,
+        "close": -0.25
+    },
+    {
+        "timestamp": 785,
+        "open": -0.08,
+        "high": 0.29,
+        "low": -0.22,
+        "close": 0.25
+    },
+    {
+        "timestamp": 786,
+        "open": 0.18,
+        "high": 0.75,
+        "low": -0.05,
+        "close": 0.64
+    },
+    {
+        "timestamp": 787,
+        "open": 0.89,
+        "high": 1.13,
+        "low": 0.55,
+        "close": 0.8
+    },
+    {
+        "timestamp": 788,
+        "open": 0.42,
+        "high": 0.98,
+        "low": 0.32,
+        "close": 0.79
+    },
+    {
+        "timestamp": 789,
+        "open": 0.2,
+        "high": 0.4,
+        "low": -0.24,
+        "close": -0.06
+    },
+    {
+        "timestamp": 790,
+        "open": -0.03,
+        "high": 0.59,
+        "low": -0.04,
+        "close": 0.35
+    },
+    {
+        "timestamp": 791,
+        "open": -0.08,
+        "high": 0.89,
+        "low": -0.18,
+        "close": 0.74
+    },
+    {
+        "timestamp": 792,
+        "open": 0.18,
+        "high": 0.49,
+        "low": -0.02,
+        "close": 0.22
+    },
+    {
+        "timestamp": 793,
+        "open": -0.23,
+        "high": -0.02,
+        "low": -0.83,
+        "close": -0.66
+    },
+    {
+        "timestamp": 794,
+        "open": 0.39,
+        "high": 0.44,
+        "low": -0.0,
+        "close": 0.0
+    },
+    {
+        "timestamp": 795,
+        "open": 0.26,
+        "high": 0.63,
+        "low": 0.03,
+        "close": 0.45
+    },
+    {
+        "timestamp": 796,
+        "open": -0.06,
+        "high": 0.56,
+        "low": -0.07,
+        "close": 0.27
+    },
+    {
+        "timestamp": 797,
+        "open": -0.21,
+        "high": 0.34,
+        "low": -0.45,
+        "close": 0.02
+    },
+    {
+        "timestamp": 798,
+        "open": 0.77,
+        "high": 0.86,
+        "low": -0.87,
+        "close": -0.66
+    },
+    {
+        "timestamp": 799,
+        "open": 0.75,
+        "high": 1.17,
+        "low": 0.0,
+        "close": 0.98
+    },
+    {
+        "timestamp": 800,
+        "open": 0.11,
+        "high": 0.27,
+        "low": -0.19,
+        "close": 0.19
+    },
+    {
+        "timestamp": 801,
+        "open": -0.33,
+        "high": -0.12,
+        "low": -0.5,
+        "close": -0.29
+    },
+    {
+        "timestamp": 802,
+        "open": -0.71,
+        "high": -0.65,
+        "low": -1.56,
+        "close": -1.39
+    },
+    {
+        "timestamp": 803,
+        "open": -0.46,
+        "high": 0.15,
+        "low": -0.61,
+        "close": -0.29
+    },
+    {
+        "timestamp": 804,
+        "open": 0.42,
+        "high": 0.9,
+        "low": -0.57,
+        "close": -0.45
+    },
+    {
+        "timestamp": 805,
+        "open": 0.43,
+        "high": 0.91,
+        "low": 0.26,
+        "close": 0.87
+    },
+    {
+        "timestamp": 806,
+        "open": -0.58,
+        "high": -0.0,
+        "low": -1.21,
+        "close": -0.43
+    },
+    {
+        "timestamp": 807,
+        "open": 0.06,
+        "high": 0.1,
+        "low": -0.84,
+        "close": -0.67
+    },
+    {
+        "timestamp": 808,
+        "open": 0.55,
+        "high": 1.33,
+        "low": -0.24,
+        "close": 0.04
+    },
+    {
+        "timestamp": 809,
+        "open": -0.44,
+        "high": 0.18,
+        "low": -0.57,
+        "close": -0.06
+    },
+    {
+        "timestamp": 810,
+        "open": -0.21,
+        "high": 0.55,
+        "low": -0.28,
+        "close": 0.55
+    },
+    {
+        "timestamp": 811,
+        "open": -0.41,
+        "high": -0.33,
+        "low": -1.3,
+        "close": -1.16
+    },
+    {
+        "timestamp": 812,
+        "open": -0.1,
+        "high": 0.29,
+        "low": -0.76,
+        "close": -0.73
+    },
+    {
+        "timestamp": 813,
+        "open": 0.35,
+        "high": 0.41,
+        "low": -0.88,
+        "close": -0.76
+    },
+    {
+        "timestamp": 814,
+        "open": -0.67,
+        "high": 0.29,
+        "low": -0.75,
+        "close": 0.05
+    },
+    {
+        "timestamp": 815,
+        "open": 0.24,
+        "high": 0.83,
+        "low": -0.27,
+        "close": 0.65
+    },
+    {
+        "timestamp": 816,
+        "open": 0.42,
+        "high": 0.42,
+        "low": -0.4,
+        "close": -0.27
+    },
+    {
+        "timestamp": 817,
+        "open": 0.25,
+        "high": 1.26,
+        "low": 0.22,
+        "close": 1.11
+    },
+    {
+        "timestamp": 818,
+        "open": 0.37,
+        "high": 0.49,
+        "low": -1.39,
+        "close": -1.39
+    },
+    {
+        "timestamp": 819,
+        "open": 0.41,
+        "high": 1.01,
+        "low": -0.43,
+        "close": 0.7
+    },
+    {
+        "timestamp": 820,
+        "open": 0.52,
+        "high": 0.78,
+        "low": 0.0,
+        "close": 0.63
+    },
+    {
+        "timestamp": 821,
+        "open": -0.02,
+        "high": 1.51,
+        "low": -0.07,
+        "close": 1.45
+    },
+    {
+        "timestamp": 822,
+        "open": 0.08,
+        "high": 0.56,
+        "low": -0.08,
+        "close": 0.41
+    },
+    {
+        "timestamp": 823,
+        "open": 0.14,
+        "high": 0.4,
+        "low": -0.19,
+        "close": -0.15
+    },
+    {
+        "timestamp": 824,
+        "open": 0.63,
+        "high": 0.74,
+        "low": -0.15,
+        "close": 0.19
+    },
+    {
+        "timestamp": 825,
+        "open": -0.1,
+        "high": -0.03,
+        "low": -0.45,
+        "close": -0.43
+    },
+    {
+        "timestamp": 826,
+        "open": -0.19,
+        "high": -0.16,
+        "low": -1.21,
+        "close": -0.67
+    },
+    {
+        "timestamp": 827,
+        "open": -0.7,
+        "high": -0.15,
+        "low": -0.78,
+        "close": -0.31
+    },
+    {
+        "timestamp": 828,
+        "open": 0.01,
+        "high": 0.51,
+        "low": -0.07,
+        "close": 0.15
+    },
+    {
+        "timestamp": 829,
+        "open": 0.61,
+        "high": 0.73,
+        "low": 0.21,
+        "close": 0.66
+    },
+    {
+        "timestamp": 830,
+        "open": -0.33,
+        "high": 0.02,
+        "low": -0.68,
+        "close": -0.55
+    },
+    {
+        "timestamp": 831,
+        "open": 0.05,
+        "high": 0.39,
+        "low": -0.2,
+        "close": 0.12
+    },
+    {
+        "timestamp": 832,
+        "open": 0.57,
+        "high": 1.02,
+        "low": 0.27,
+        "close": 0.86
+    },
+    {
+        "timestamp": 833,
+        "open": -0.71,
+        "high": -0.64,
+        "low": -1.65,
+        "close": -1.55
+    },
+    {
+        "timestamp": 834,
+        "open": -0.07,
+        "high": 0.36,
+        "low": -0.18,
+        "close": 0.06
+    },
+    {
+        "timestamp": 835,
+        "open": -0.21,
+        "high": -0.08,
+        "low": -0.83,
+        "close": -0.21
+    },
+    {
+        "timestamp": 836,
+        "open": 0.29,
+        "high": 0.39,
+        "low": -0.97,
+        "close": -0.92
+    },
+    {
+        "timestamp": 837,
+        "open": -0.67,
+        "high": -0.61,
+        "low": -1.69,
+        "close": -1.65
+    },
+    {
+        "timestamp": 838,
+        "open": 0.25,
+        "high": 0.63,
+        "low": -0.32,
+        "close": -0.22
+    },
+    {
+        "timestamp": 839,
+        "open": -0.29,
+        "high": 0.43,
+        "low": -0.39,
+        "close": 0.42
+    },
+    {
+        "timestamp": 840,
+        "open": -0.73,
+        "high": -0.56,
+        "low": -1.67,
+        "close": -1.47
+    },
+    {
+        "timestamp": 841,
+        "open": 0.28,
+        "high": 0.42,
+        "low": -0.84,
+        "close": 0.04
+    },
+    {
+        "timestamp": 842,
+        "open": -0.13,
+        "high": 0.99,
+        "low": -0.28,
+        "close": 0.58
+    },
+    {
+        "timestamp": 843,
+        "open": 0.74,
+        "high": 0.78,
+        "low": -0.61,
+        "close": -0.24
+    },
+    {
+        "timestamp": 844,
+        "open": -0.2,
+        "high": 0.26,
+        "low": -0.71,
+        "close": -0.04
+    },
+    {
+        "timestamp": 845,
+        "open": -0.53,
+        "high": 0.01,
+        "low": -1.67,
+        "close": -1.34
+    },
+    {
+        "timestamp": 846,
+        "open": 0.11,
+        "high": 0.91,
+        "low": -0.24,
+        "close": 0.73
+    },
+    {
+        "timestamp": 847,
+        "open": -0.07,
+        "high": 0.17,
+        "low": -0.82,
+        "close": -0.04
+    },
+    {
+        "timestamp": 848,
+        "open": -0.6,
+        "high": 1.56,
+        "low": -0.92,
+        "close": 1.19
+    },
+    {
+        "timestamp": 849,
+        "open": -0.46,
+        "high": 0.78,
+        "low": -0.59,
+        "close": 0.64
+    },
+    {
+        "timestamp": 850,
+        "open": 0.15,
+        "high": 1.14,
+        "low": 0.06,
+        "close": 0.52
+    },
+    {
+        "timestamp": 851,
+        "open": 0.25,
+        "high": 0.47,
+        "low": -0.31,
+        "close": 0.41
+    },
+    {
+        "timestamp": 852,
+        "open": 0.14,
+        "high": 0.23,
+        "low": -1.17,
+        "close": -0.61
+    },
+    {
+        "timestamp": 853,
+        "open": 0.36,
+        "high": 0.64,
+        "low": -0.87,
+        "close": -0.5
+    },
+    {
+        "timestamp": 854,
+        "open": 0.54,
+        "high": 1.31,
+        "low": 0.48,
+        "close": 1.05
+    },
+    {
+        "timestamp": 855,
+        "open": -0.74,
+        "high": 0.48,
+        "low": -0.82,
+        "close": -0.0
+    },
+    {
+        "timestamp": 856,
+        "open": -0.42,
+        "high": -0.19,
+        "low": -1.59,
+        "close": -1.33
+    },
+    {
+        "timestamp": 857,
+        "open": 0.17,
+        "high": 0.61,
+        "low": -1.04,
+        "close": -0.88
+    },
+    {
+        "timestamp": 858,
+        "open": -0.11,
+        "high": 0.03,
+        "low": -1.25,
+        "close": -1.23
+    },
+    {
+        "timestamp": 859,
+        "open": -0.38,
+        "high": 0.77,
+        "low": -0.8,
+        "close": -0.17
+    },
+    {
+        "timestamp": 860,
+        "open": 0.52,
+        "high": 1.04,
+        "low": 0.07,
+        "close": 0.75
+    },
+    {
+        "timestamp": 861,
+        "open": -0.41,
+        "high": -0.4,
+        "low": -1.56,
+        "close": -1.44
+    },
+    {
+        "timestamp": 862,
+        "open": -0.26,
+        "high": -0.05,
+        "low": -1.42,
+        "close": -1.2
+    },
+    {
+        "timestamp": 863,
+        "open": 0.4,
+        "high": 0.5,
+        "low": -0.81,
+        "close": -0.45
+    },
+    {
+        "timestamp": 864,
+        "open": 0.7,
+        "high": 1.46,
+        "low": 0.37,
+        "close": 1.2
+    },
+    {
+        "timestamp": 865,
+        "open": 0.14,
+        "high": 0.71,
+        "low": -0.33,
+        "close": 0.63
+    },
+    {
+        "timestamp": 866,
+        "open": 0.24,
+        "high": 1.27,
+        "low": 0.11,
+        "close": 1.07
+    },
+    {
+        "timestamp": 867,
+        "open": 0.93,
+        "high": 1.95,
+        "low": 0.92,
+        "close": 1.92
+    },
+    {
+        "timestamp": 868,
+        "open": 0.55,
+        "high": 1.28,
+        "low": 0.52,
+        "close": 0.91
+    },
+    {
+        "timestamp": 869,
+        "open": 0.18,
+        "high": 0.34,
+        "low": -0.23,
+        "close": 0.23
+    },
+    {
+        "timestamp": 870,
+        "open": 0.0,
+        "high": 0.44,
+        "low": -0.27,
+        "close": 0.28
+    },
+    {
+        "timestamp": 871,
+        "open": 0.14,
+        "high": 0.27,
+        "low": -0.47,
+        "close": 0.07
+    },
+    {
+        "timestamp": 872,
+        "open": 0.27,
+        "high": 0.28,
+        "low": -0.88,
+        "close": -0.78
+    },
+    {
+        "timestamp": 873,
+        "open": 0.49,
+        "high": 1.63,
+        "low": -0.0,
+        "close": 1.56
+    },
+    {
+        "timestamp": 874,
+        "open": -0.31,
+        "high": 0.16,
+        "low": -0.5,
+        "close": -0.1
+    },
+    {
+        "timestamp": 875,
+        "open": 1.39,
+        "high": 2.24,
+        "low": 1.34,
+        "close": 1.94
+    },
+    {
+        "timestamp": 876,
+        "open": 0.31,
+        "high": 0.59,
+        "low": 0.02,
+        "close": 0.21
+    },
+    {
+        "timestamp": 877,
+        "open": -0.1,
+        "high": 0.2,
+        "low": -0.35,
+        "close": 0.12
+    },
+    {
+        "timestamp": 878,
+        "open": 0.0,
+        "high": 0.26,
+        "low": -0.21,
+        "close": 0.12
+    },
+    {
+        "timestamp": 879,
+        "open": -0.06,
+        "high": 0.96,
+        "low": -0.06,
+        "close": 0.77
+    },
+    {
+        "timestamp": 880,
+        "open": -0.24,
+        "high": -0.03,
+        "low": -0.51,
+        "close": -0.22
+    },
+    {
+        "timestamp": 881,
+        "open": 0.38,
+        "high": 0.69,
+        "low": 0.14,
+        "close": 0.39
+    },
+    {
+        "timestamp": 882,
+        "open": 0.01,
+        "high": 0.11,
+        "low": -0.06,
+        "close": 0.06
+    },
+    {
+        "timestamp": 883,
+        "open": -0.14,
+        "high": 0.04,
+        "low": -0.27,
+        "close": -0.18
+    },
+    {
+        "timestamp": 884,
+        "open": -0.09,
+        "high": 0.39,
+        "low": -0.22,
+        "close": 0.1
+    },
+    {
+        "timestamp": 885,
+        "open": 0.49,
+        "high": 0.75,
+        "low": -0.16,
+        "close": -0.07
+    },
+    {
+        "timestamp": 886,
+        "open": 0.19,
+        "high": 0.47,
+        "low": -0.28,
+        "close": 0.39
+    },
+    {
+        "timestamp": 887,
+        "open": -0.14,
+        "high": 0.71,
+        "low": -0.27,
+        "close": 0.59
+    },
+    {
+        "timestamp": 888,
+        "open": -0.76,
+        "high": 0.0,
+        "low": -1.04,
+        "close": -0.52
+    },
+    {
+        "timestamp": 889,
+        "open": -0.31,
+        "high": 0.2,
+        "low": -0.4,
+        "close": -0.02
+    },
+    {
+        "timestamp": 890,
+        "open": 0.48,
+        "high": 0.49,
+        "low": -0.5,
+        "close": -0.4
+    },
+    {
+        "timestamp": 891,
+        "open": 0.47,
+        "high": 0.91,
+        "low": 0.34,
+        "close": 0.76
+    },
+    {
+        "timestamp": 892,
+        "open": -0.17,
+        "high": 0.55,
+        "low": -0.22,
+        "close": 0.43
+    },
+    {
+        "timestamp": 893,
+        "open": -0.11,
+        "high": 0.43,
+        "low": -0.16,
+        "close": 0.39
+    },
+    {
+        "timestamp": 894,
+        "open": -0.08,
+        "high": 0.48,
+        "low": -0.3,
+        "close": 0.46
+    },
+    {
+        "timestamp": 895,
+        "open": 0.08,
+        "high": 1.44,
+        "low": 0.0,
+        "close": 1.38
+    },
+    {
+        "timestamp": 896,
+        "open": 0.43,
+        "high": 0.69,
+        "low": -0.27,
+        "close": 0.32
+    },
+    {
+        "timestamp": 897,
+        "open": -0.53,
+        "high": -0.28,
+        "low": -0.97,
+        "close": -0.57
+    },
+    {
+        "timestamp": 898,
+        "open": 0.35,
+        "high": 0.78,
+        "low": 0.12,
+        "close": 0.56
+    },
+    {
+        "timestamp": 899,
+        "open": 0.12,
+        "high": 0.63,
+        "low": 0.1,
+        "close": 0.61
+    },
+    {
+        "timestamp": 900,
+        "open": -0.19,
+        "high": 0.22,
+        "low": -1.48,
+        "close": -1.39
+    },
+    {
+        "timestamp": 901,
+        "open": 0.66,
+        "high": 1.01,
+        "low": 0.12,
+        "close": 0.95
+    },
+    {
+        "timestamp": 902,
+        "open": 0.25,
+        "high": 0.57,
+        "low": -0.21,
+        "close": 0.2
+    },
+    {
+        "timestamp": 903,
+        "open": 0.09,
+        "high": 0.62,
+        "low": 0.07,
+        "close": 0.42
+    },
+    {
+        "timestamp": 904,
+        "open": -0.04,
+        "high": 0.21,
+        "low": -0.16,
+        "close": 0.18
+    },
+    {
+        "timestamp": 905,
+        "open": 0.08,
+        "high": 0.22,
+        "low": -0.05,
+        "close": 0.04
+    },
+    {
+        "timestamp": 906,
+        "open": -0.04,
+        "high": 0.07,
+        "low": -0.71,
+        "close": -0.29
+    },
+    {
+        "timestamp": 907,
+        "open": -0.66,
+        "high": -0.35,
+        "low": -1.01,
+        "close": -0.56
+    },
+    {
+        "timestamp": 908,
+        "open": -0.47,
+        "high": -0.31,
+        "low": -0.95,
+        "close": -0.82
+    },
+    {
+        "timestamp": 909,
+        "open": -0.1,
+        "high": 0.46,
+        "low": -0.37,
+        "close": -0.32
+    },
+    {
+        "timestamp": 910,
+        "open": 0.04,
+        "high": 0.68,
+        "low": -0.18,
+        "close": 0.14
+    },
+    {
+        "timestamp": 911,
+        "open": 0.11,
+        "high": 1.46,
+        "low": 0.08,
+        "close": 1.43
+    },
+    {
+        "timestamp": 912,
+        "open": -0.58,
+        "high": 0.07,
+        "low": -0.68,
+        "close": -0.15
+    },
+    {
+        "timestamp": 913,
+        "open": 0.06,
+        "high": 0.75,
+        "low": -0.0,
+        "close": 0.57
+    },
+    {
+        "timestamp": 914,
+        "open": 0.22,
+        "high": 0.33,
+        "low": -0.9,
+        "close": -0.04
+    },
+    {
+        "timestamp": 915,
+        "open": 0.31,
+        "high": 0.47,
+        "low": -0.24,
+        "close": 0.07
+    },
+    {
+        "timestamp": 916,
+        "open": -0.3,
+        "high": -0.01,
+        "low": -0.76,
+        "close": -0.37
+    },
+    {
+        "timestamp": 917,
+        "open": -0.65,
+        "high": -0.45,
+        "low": -1.07,
+        "close": -0.56
+    },
+    {
+        "timestamp": 918,
+        "open": 0.36,
+        "high": 1.01,
+        "low": 0.03,
+        "close": 0.89
+    },
+    {
+        "timestamp": 919,
+        "open": 0.24,
+        "high": 1.31,
+        "low": 0.01,
+        "close": 1.25
+    },
+    {
+        "timestamp": 920,
+        "open": 0.33,
+        "high": 0.58,
+        "low": 0.07,
+        "close": 0.21
+    },
+    {
+        "timestamp": 921,
+        "open": 0.12,
+        "high": 0.34,
+        "low": -0.12,
+        "close": 0.29
+    },
+    {
+        "timestamp": 922,
+        "open": 0.61,
+        "high": 0.81,
+        "low": 0.0,
+        "close": 0.11
+    },
+    {
+        "timestamp": 923,
+        "open": 0.45,
+        "high": 0.6,
+        "low": 0.0,
+        "close": 0.54
+    },
+    {
+        "timestamp": 924,
+        "open": -0.09,
+        "high": 0.22,
+        "low": -0.31,
+        "close": -0.13
+    },
+    {
+        "timestamp": 925,
+        "open": 0.07,
+        "high": 0.82,
+        "low": -0.05,
+        "close": 0.79
+    },
+    {
+        "timestamp": 926,
+        "open": -0.14,
+        "high": 0.07,
+        "low": -0.24,
+        "close": -0.08
+    },
+    {
+        "timestamp": 927,
+        "open": -0.46,
+        "high": -0.37,
+        "low": -1.64,
+        "close": -1.63
+    },
+    {
+        "timestamp": 928,
+        "open": 0.36,
+        "high": 1.32,
+        "low": 0.19,
+        "close": 1.31
+    },
+    {
+        "timestamp": 929,
+        "open": 0.09,
+        "high": 1.4,
+        "low": 0.02,
+        "close": 1.05
+    },
+    {
+        "timestamp": 930,
+        "open": -0.13,
+        "high": 0.01,
+        "low": -0.83,
+        "close": -0.36
+    },
+    {
+        "timestamp": 931,
+        "open": 0.2,
+        "high": 0.36,
+        "low": -0.1,
+        "close": 0.29
+    },
+    {
+        "timestamp": 932,
+        "open": 0.47,
+        "high": 0.92,
+        "low": 0.28,
+        "close": 0.83
+    },
+    {
+        "timestamp": 933,
+        "open": 0.0,
+        "high": 0.12,
+        "low": -0.17,
+        "close": 0.04
+    },
+    {
+        "timestamp": 934,
+        "open": 0.1,
+        "high": 0.67,
+        "low": 0.03,
+        "close": 0.58
+    },
+    {
+        "timestamp": 935,
+        "open": -0.01,
+        "high": 0.46,
+        "low": -0.19,
+        "close": -0.04
+    },
+    {
+        "timestamp": 936,
+        "open": -1.29,
+        "high": -0.78,
+        "low": -2.05,
+        "close": -1.38
+    },
+    {
+        "timestamp": 937,
+        "open": 0.55,
+        "high": 1.01,
+        "low": 0.06,
+        "close": 0.91
+    },
+    {
+        "timestamp": 938,
+        "open": 0.14,
+        "high": 0.73,
+        "low": 0.05,
+        "close": 0.69
+    },
+    {
+        "timestamp": 939,
+        "open": -0.06,
+        "high": 0.17,
+        "low": -0.65,
+        "close": -0.5
+    },
+    {
+        "timestamp": 940,
+        "open": -0.36,
+        "high": -0.22,
+        "low": -1.01,
+        "close": -0.55
+    },
+    {
+        "timestamp": 941,
+        "open": -0.27,
+        "high": 0.12,
+        "low": -0.64,
+        "close": 0.09
+    },
+    {
+        "timestamp": 942,
+        "open": 1.37,
+        "high": 2.27,
+        "low": 1.17,
+        "close": 2.07
+    },
+    {
+        "timestamp": 943,
+        "open": 0.35,
+        "high": 0.52,
+        "low": -0.08,
+        "close": 0.07
+    },
+    {
+        "timestamp": 944,
+        "open": 0.09,
+        "high": 0.18,
+        "low": -0.39,
+        "close": -0.37
+    },
+    {
+        "timestamp": 945,
+        "open": 0.14,
+        "high": 0.23,
+        "low": -0.25,
+        "close": 0.19
+    },
+    {
+        "timestamp": 946,
+        "open": -0.32,
+        "high": -0.01,
+        "low": -0.39,
+        "close": -0.13
+    },
+    {
+        "timestamp": 947,
+        "open": 0.36,
+        "high": 0.69,
+        "low": -0.18,
+        "close": 0.36
+    },
+    {
+        "timestamp": 948,
+        "open": 0.18,
+        "high": 1.03,
+        "low": 0.09,
+        "close": 0.94
+    },
+    {
+        "timestamp": 949,
+        "open": -0.16,
+        "high": 0.26,
+        "low": -0.17,
+        "close": -0.11
+    },
+    {
+        "timestamp": 950,
+        "open": -0.4,
+        "high": -0.31,
+        "low": -1.44,
+        "close": -1.0
+    },
+    {
+        "timestamp": 951,
+        "open": 0.66,
+        "high": 0.96,
+        "low": 0.24,
+        "close": 0.51
+    },
+    {
+        "timestamp": 952,
+        "open": 0.67,
+        "high": 1.2,
+        "low": 0.01,
+        "close": 0.99
+    },
+    {
+        "timestamp": 953,
+        "open": 0.13,
+        "high": 0.66,
+        "low": -0.71,
+        "close": -0.6
+    },
+    {
+        "timestamp": 954,
+        "open": -0.24,
+        "high": 0.03,
+        "low": -0.63,
+        "close": -0.09
+    },
+    {
+        "timestamp": 955,
+        "open": 0.42,
+        "high": 1.19,
+        "low": -0.08,
+        "close": 1.08
+    },
+    {
+        "timestamp": 956,
+        "open": 0.06,
+        "high": 0.1,
+        "low": -0.44,
+        "close": -0.16
+    },
+    {
+        "timestamp": 957,
+        "open": 0.19,
+        "high": 0.22,
+        "low": -0.8,
+        "close": -0.2
+    },
+    {
+        "timestamp": 958,
+        "open": -0.92,
+        "high": -0.63,
+        "low": -1.33,
+        "close": -0.99
+    },
+    {
+        "timestamp": 959,
+        "open": 0.82,
+        "high": 1.11,
+        "low": 0.51,
+        "close": 0.59
+    },
+    {
+        "timestamp": 960,
+        "open": -0.14,
+        "high": 0.61,
+        "low": -0.34,
+        "close": 0.56
+    },
+    {
+        "timestamp": 961,
+        "open": 0.01,
+        "high": 0.95,
+        "low": -0.12,
+        "close": 0.92
+    },
+    {
+        "timestamp": 962,
+        "open": 0.56,
+        "high": 0.7,
+        "low": 0.27,
+        "close": 0.33
+    },
+    {
+        "timestamp": 963,
+        "open": -0.02,
+        "high": 0.08,
+        "low": -0.24,
+        "close": -0.19
+    },
+    {
+        "timestamp": 964,
+        "open": -0.27,
+        "high": -0.05,
+        "low": -0.31,
+        "close": -0.28
+    },
+    {
+        "timestamp": 965,
+        "open": 0.28,
+        "high": 0.35,
+        "low": -0.26,
+        "close": -0.18
+    },
+    {
+        "timestamp": 966,
+        "open": 0.56,
+        "high": 0.85,
+        "low": 0.13,
+        "close": 0.84
+    },
+    {
+        "timestamp": 967,
+        "open": 0.01,
+        "high": 0.28,
+        "low": -0.07,
+        "close": -0.02
+    },
+    {
+        "timestamp": 968,
+        "open": 0.15,
+        "high": 0.25,
+        "low": -0.4,
+        "close": -0.17
+    },
+    {
+        "timestamp": 969,
+        "open": -0.75,
+        "high": -0.61,
+        "low": -1.09,
+        "close": -0.64
+    },
+    {
+        "timestamp": 970,
+        "open": -0.22,
+        "high": 0.41,
+        "low": -0.23,
+        "close": 0.11
+    },
+    {
+        "timestamp": 971,
+        "open": 0.79,
+        "high": 0.86,
+        "low": -1.28,
+        "close": -1.22
+    },
+    {
+        "timestamp": 972,
+        "open": 0.27,
+        "high": 1.44,
+        "low": 0.18,
+        "close": 1.04
+    },
+    {
+        "timestamp": 973,
+        "open": 0.14,
+        "high": 0.34,
+        "low": -0.1,
+        "close": 0.06
+    },
+    {
+        "timestamp": 974,
+        "open": 0.34,
+        "high": 0.39,
+        "low": -0.84,
+        "close": 0.12
+    },
+    {
+        "timestamp": 975,
+        "open": -1.12,
+        "high": -0.61,
+        "low": -1.39,
+        "close": -1.0
+    },
+    {
+        "timestamp": 976,
+        "open": 0.3,
+        "high": 1.04,
+        "low": -0.4,
+        "close": 0.75
+    },
+    {
+        "timestamp": 977,
+        "open": -0.7,
+        "high": -0.42,
+        "low": -1.72,
+        "close": -1.38
+    },
+    {
+        "timestamp": 978,
+        "open": 0.84,
+        "high": 0.87,
+        "low": -1.42,
+        "close": -1.25
+    },
+    {
+        "timestamp": 979,
+        "open": 0.1,
+        "high": 0.41,
+        "low": -0.44,
+        "close": -0.18
+    },
+    {
+        "timestamp": 980,
+        "open": 0.5,
+        "high": 0.53,
+        "low": -0.88,
+        "close": -0.59
+    },
+    {
+        "timestamp": 981,
+        "open": 0.29,
+        "high": 0.72,
+        "low": -0.4,
+        "close": -0.21
+    },
+    {
+        "timestamp": 982,
+        "open": -0.02,
+        "high": 0.19,
+        "low": -1.13,
+        "close": -0.87
+    },
+    {
+        "timestamp": 983,
+        "open": 0.54,
+        "high": 1.46,
+        "low": 0.05,
+        "close": 0.92
+    },
+    {
+        "timestamp": 984,
+        "open": 0.41,
+        "high": 1.27,
+        "low": -0.04,
+        "close": 1.19
+    },
+    {
+        "timestamp": 985,
+        "open": 0.18,
+        "high": 0.34,
+        "low": -0.5,
+        "close": -0.05
+    },
+    {
+        "timestamp": 986,
+        "open": -1.23,
+        "high": -0.23,
+        "low": -1.57,
+        "close": -0.38
+    },
+    {
+        "timestamp": 987,
+        "open": 0.57,
+        "high": 1.27,
+        "low": 0.44,
+        "close": 0.95
+    },
+    {
+        "timestamp": 988,
+        "open": 0.36,
+        "high": 0.49,
+        "low": -0.2,
+        "close": 0.35
+    },
+    {
+        "timestamp": 989,
+        "open": -0.29,
+        "high": -0.1,
+        "low": -1.58,
+        "close": -1.58
+    },
+    {
+        "timestamp": 990,
+        "open": -0.12,
+        "high": 1.24,
+        "low": -0.42,
+        "close": -0.32
+    },
+    {
+        "timestamp": 991,
+        "open": 0.76,
+        "high": 1.11,
+        "low": -0.16,
+        "close": 0.94
+    },
+    {
+        "timestamp": 992,
+        "open": 1.21,
+        "high": 1.49,
+        "low": 0.7,
+        "close": 1.24
+    },
+    {
+        "timestamp": 993,
+        "open": 0.48,
+        "high": 1.04,
+        "low": 0.39,
+        "close": 1.03
+    },
+    {
+        "timestamp": 994,
+        "open": 0.19,
+        "high": 0.39,
+        "low": -0.02,
+        "close": 0.11
+    },
+    {
+        "timestamp": 995,
+        "open": -0.36,
+        "high": 0.12,
+        "low": -0.39,
+        "close": 0.01
+    },
+    {
+        "timestamp": 996,
+        "open": 0.04,
+        "high": 0.58,
+        "low": -0.09,
+        "close": 0.58
+    },
+    {
+        "timestamp": 997,
+        "open": 0.32,
+        "high": 0.47,
+        "low": -0.11,
+        "close": 0.13
+    },
+    {
+        "timestamp": 998,
+        "open": 0.33,
+        "high": 0.35,
+        "low": -0.21,
+        "close": 0.01
+    },
+    {
+        "timestamp": 999,
+        "open": 0.04,
+        "high": 0.56,
+        "low": -0.07,
+        "close": 0.46
+    },
+    {
+        "timestamp": 1000,
+        "open": 0.48,
+        "high": 1.3,
+        "low": 0.36,
+        "close": 1.24
+    },
+    {
+        "timestamp": 1001,
+        "open": 0.02,
+        "high": 0.33,
+        "low": -0.23,
+        "close": -0.21
+    },
+    {
+        "timestamp": 1002,
+        "open": 0.02,
+        "high": 0.16,
+        "low": -0.26,
+        "close": 0.14
+    },
+    {
+        "timestamp": 1003,
+        "open": 0.02,
+        "high": 0.4,
+        "low": -0.05,
+        "close": 0.12
+    },
+    {
+        "timestamp": 1004,
+        "open": -0.15,
+        "high": 0.28,
+        "low": -0.19,
+        "close": 0.25
+    },
+    {
+        "timestamp": 1005,
+        "open": -0.13,
+        "high": 0.0,
+        "low": -0.71,
+        "close": -0.29
+    },
+    {
+        "timestamp": 1006,
+        "open": 0.59,
+        "high": 0.61,
+        "low": -0.96,
+        "close": -0.73
+    },
+    {
+        "timestamp": 1007,
+        "open": 0.36,
+        "high": 0.82,
+        "low": 0.17,
+        "close": 0.66
+    },
+    {
+        "timestamp": 1008,
+        "open": 0.16,
+        "high": 0.2,
+        "low": -0.44,
+        "close": 0.07
+    },
+    {
+        "timestamp": 1009,
+        "open": -0.78,
+        "high": -0.47,
+        "low": -0.84,
+        "close": -0.7
+    },
+    {
+        "timestamp": 1010,
+        "open": -0.3,
+        "high": -0.17,
+        "low": -0.91,
+        "close": -0.66
+    },
+    {
+        "timestamp": 1011,
+        "open": 0.19,
+        "high": 0.94,
+        "low": -0.81,
+        "close": 0.91
+    },
+    {
+        "timestamp": 1012,
+        "open": 0.31,
+        "high": 0.37,
+        "low": -0.9,
+        "close": 0.08
+    },
+    {
+        "timestamp": 1013,
+        "open": -0.25,
+        "high": 0.26,
+        "low": -0.54,
+        "close": 0.11
+    },
+    {
+        "timestamp": 1014,
+        "open": 0.45,
+        "high": 1.19,
+        "low": 0.06,
+        "close": 1.19
+    },
+    {
+        "timestamp": 1015,
+        "open": 0.06,
+        "high": 0.14,
+        "low": -0.37,
+        "close": -0.0
+    },
+    {
+        "timestamp": 1016,
+        "open": -0.19,
+        "high": 0.42,
+        "low": -0.4,
+        "close": -0.12
+    },
+    {
+        "timestamp": 1017,
+        "open": -0.16,
+        "high": 0.37,
+        "low": -0.27,
+        "close": 0.31
+    },
+    {
+        "timestamp": 1018,
+        "open": -0.3,
+        "high": 0.25,
+        "low": -0.67,
+        "close": 0.24
+    },
+    {
+        "timestamp": 1019,
+        "open": 0.87,
+        "high": 1.34,
+        "low": 0.62,
+        "close": 0.82
+    },
+    {
+        "timestamp": 1020,
+        "open": 0.33,
+        "high": 0.36,
+        "low": -0.33,
+        "close": 0.2
+    },
+    {
+        "timestamp": 1021,
+        "open": -0.29,
+        "high": 0.07,
+        "low": -0.48,
+        "close": 0.06
+    },
+    {
+        "timestamp": 1022,
+        "open": -0.13,
+        "high": 1.06,
+        "low": -0.22,
+        "close": 0.8
+    },
+    {
+        "timestamp": 1023,
+        "open": 0.01,
+        "high": 0.28,
+        "low": -0.07,
+        "close": 0.25
+    },
+    {
+        "timestamp": 1024,
+        "open": 0.17,
+        "high": 0.3,
+        "low": -0.6,
+        "close": -0.27
+    },
+    {
+        "timestamp": 1025,
+        "open": -0.48,
+        "high": -0.25,
+        "low": -0.73,
+        "close": -0.46
+    },
+    {
+        "timestamp": 1026,
+        "open": -0.03,
+        "high": 0.45,
+        "low": -0.35,
+        "close": -0.33
+    },
+    {
+        "timestamp": 1027,
+        "open": 0.23,
+        "high": 0.45,
+        "low": -0.06,
+        "close": 0.39
+    },
+    {
+        "timestamp": 1028,
+        "open": -0.21,
+        "high": 0.26,
+        "low": -0.33,
+        "close": 0.12
+    },
+    {
+        "timestamp": 1029,
+        "open": -0.03,
+        "high": 0.27,
+        "low": -0.16,
+        "close": 0.16
+    },
+    {
+        "timestamp": 1030,
+        "open": 0.14,
+        "high": 0.72,
+        "low": -0.63,
+        "close": -0.39
+    },
+    {
+        "timestamp": 1031,
+        "open": 0.26,
+        "high": 0.31,
+        "low": -0.31,
+        "close": 0.21
+    },
+    {
+        "timestamp": 1032,
+        "open": -0.3,
+        "high": 0.67,
+        "low": -0.31,
+        "close": 0.67
+    },
+    {
+        "timestamp": 1033,
+        "open": -0.06,
+        "high": 0.51,
+        "low": -0.07,
+        "close": 0.45
+    },
+    {
+        "timestamp": 1034,
+        "open": 0.06,
+        "high": 0.65,
+        "low": -0.06,
+        "close": 0.58
+    },
+    {
+        "timestamp": 1035,
+        "open": 0.14,
+        "high": 0.29,
+        "low": -0.08,
+        "close": 0.12
+    },
+    {
+        "timestamp": 1036,
+        "open": 0.18,
+        "high": 0.34,
+        "low": 0.04,
+        "close": 0.1
+    },
+    {
+        "timestamp": 1037,
+        "open": 0.22,
+        "high": 1.05,
+        "low": 0.17,
+        "close": 0.99
+    },
+    {
+        "timestamp": 1038,
+        "open": 0.02,
+        "high": 0.18,
+        "low": -0.98,
+        "close": -0.86
+    },
+    {
+        "timestamp": 1039,
+        "open": 0.21,
+        "high": 1.29,
+        "low": 0.12,
+        "close": 0.63
+    },
+    {
+        "timestamp": 1040,
+        "open": 0.36,
+        "high": 0.87,
+        "low": -0.06,
+        "close": 0.28
+    },
+    {
+        "timestamp": 1041,
+        "open": 0.24,
+        "high": 0.65,
+        "low": 0.1,
+        "close": 0.59
+    },
+    {
+        "timestamp": 1042,
+        "open": -1.07,
+        "high": -0.77,
+        "low": -1.46,
+        "close": -1.4
+    },
+    {
+        "timestamp": 1043,
+        "open": 0.28,
+        "high": 0.46,
+        "low": -1.17,
+        "close": -0.77
+    },
+    {
+        "timestamp": 1044,
+        "open": -0.04,
+        "high": 0.26,
+        "low": -0.86,
+        "close": -0.66
+    },
+    {
+        "timestamp": 1045,
+        "open": 0.73,
+        "high": 1.14,
+        "low": 0.37,
+        "close": 1.03
+    },
+    {
+        "timestamp": 1046,
+        "open": -0.02,
+        "high": 0.38,
+        "low": -0.25,
+        "close": -0.16
+    },
+    {
+        "timestamp": 1047,
+        "open": -0.89,
+        "high": -0.83,
+        "low": -2.44,
+        "close": -2.27
+    },
+    {
+        "timestamp": 1048,
+        "open": 0.02,
+        "high": 1.15,
+        "low": -0.7,
+        "close": -0.52
+    },
+    {
+        "timestamp": 1049,
+        "open": 0.72,
+        "high": 1.63,
+        "low": 0.57,
+        "close": 1.12
+    },
+    {
+        "timestamp": 1050,
+        "open": 0.29,
+        "high": 0.48,
+        "low": -0.32,
+        "close": 0.06
+    },
+    {
+        "timestamp": 1051,
+        "open": 0.28,
+        "high": 0.47,
+        "low": -1.15,
+        "close": -0.51
+    },
+    {
+        "timestamp": 1052,
+        "open": 1.29,
+        "high": 2.12,
+        "low": 1.03,
+        "close": 1.63
+    },
+    {
+        "timestamp": 1053,
+        "open": 0.32,
+        "high": 0.74,
+        "low": -2.07,
+        "close": -1.42
+    },
+    {
+        "timestamp": 1054,
+        "open": -1.34,
+        "high": -1.11,
+        "low": -2.65,
+        "close": -1.86
+    },
+    {
+        "timestamp": 1055,
+        "open": -3.99,
+        "high": -1.75,
+        "low": -4.25,
+        "close": -2.91
+    },
+    {
+        "timestamp": 1056,
+        "open": 0.36,
+        "high": 2.39,
+        "low": 0.09,
+        "close": 0.92
+    },
+    {
+        "timestamp": 1057,
+        "open": 1.21,
+        "high": 1.81,
+        "low": -0.79,
+        "close": -0.67
+    },
+    {
+        "timestamp": 1058,
+        "open": 1.01,
+        "high": 2.44,
+        "low": 0.61,
+        "close": 2.31
+    },
+    {
+        "timestamp": 1059,
+        "open": -0.16,
+        "high": 0.73,
+        "low": -0.39,
+        "close": 0.44
+    },
+    {
+        "timestamp": 1060,
+        "open": 0.23,
+        "high": 0.51,
+        "low": -0.38,
+        "close": 0.05
+    },
+    {
+        "timestamp": 1061,
+        "open": 0.61,
+        "high": 1.69,
+        "low": 0.56,
+        "close": 1.64
+    },
+    {
+        "timestamp": 1062,
+        "open": 0.15,
+        "high": 0.54,
+        "low": -0.35,
+        "close": 0.32
+    },
+    {
+        "timestamp": 1063,
+        "open": 1.06,
+        "high": 1.77,
+        "low": 0.94,
+        "close": 1.71
+    },
+    {
+        "timestamp": 1064,
+        "open": -0.3,
+        "high": 0.35,
+        "low": -0.33,
+        "close": 0.22
+    },
+    {
+        "timestamp": 1065,
+        "open": 0.08,
+        "high": 0.96,
+        "low": -0.08,
+        "close": 0.96
+    },
+    {
+        "timestamp": 1066,
+        "open": -0.08,
+        "high": 0.22,
+        "low": -0.41,
+        "close": -0.16
+    },
+    {
+        "timestamp": 1067,
+        "open": 0.19,
+        "high": 0.61,
+        "low": -0.71,
+        "close": 0.34
+    },
+    {
+        "timestamp": 1068,
+        "open": 0.35,
+        "high": 0.46,
+        "low": -1.01,
+        "close": -0.78
+    },
+    {
+        "timestamp": 1069,
+        "open": 0.6,
+        "high": 1.24,
+        "low": 0.19,
+        "close": 1.06
+    },
+    {
+        "timestamp": 1070,
+        "open": 0.19,
+        "high": 0.32,
+        "low": -0.55,
+        "close": -0.24
+    },
+    {
+        "timestamp": 1071,
+        "open": -0.23,
+        "high": 0.23,
+        "low": -0.44,
+        "close": 0.14
+    },
+    {
+        "timestamp": 1072,
+        "open": -0.06,
+        "high": 0.02,
+        "low": -1.16,
+        "close": -0.58
+    },
+    {
+        "timestamp": 1073,
+        "open": 0.36,
+        "high": 0.96,
+        "low": -0.2,
+        "close": 0.01
+    },
+    {
+        "timestamp": 1074,
+        "open": 0.43,
+        "high": 1.05,
+        "low": -0.22,
+        "close": 0.95
+    },
+    {
+        "timestamp": 1075,
+        "open": -0.57,
+        "high": -0.51,
+        "low": -2.51,
+        "close": -2.06
+    },
+    {
+        "timestamp": 1076,
+        "open": -0.34,
+        "high": 0.43,
+        "low": -0.47,
+        "close": -0.2
+    },
+    {
+        "timestamp": 1077,
+        "open": -0.01,
+        "high": 0.52,
+        "low": -0.7,
+        "close": -0.24
+    },
+    {
+        "timestamp": 1078,
+        "open": 0.06,
+        "high": 0.36,
+        "low": -1.85,
+        "close": -1.68
+    },
+    {
+        "timestamp": 1079,
+        "open": 0.79,
+        "high": 1.36,
+        "low": 0.43,
+        "close": 1.12
+    },
+    {
+        "timestamp": 1080,
+        "open": 0.36,
+        "high": 0.5,
+        "low": -0.55,
+        "close": 0.44
+    },
+    {
+        "timestamp": 1081,
+        "open": -0.02,
+        "high": 1.2,
+        "low": -1.61,
+        "close": 1.03
+    },
+    {
+        "timestamp": 1082,
+        "open": 0.11,
+        "high": 0.9,
+        "low": -0.3,
+        "close": 0.84
+    },
+    {
+        "timestamp": 1083,
+        "open": 0.11,
+        "high": 0.7,
+        "low": 0.06,
+        "close": 0.52
+    },
+    {
+        "timestamp": 1084,
+        "open": -0.05,
+        "high": 0.2,
+        "low": -0.38,
+        "close": 0.15
+    },
+    {
+        "timestamp": 1085,
+        "open": 0.4,
+        "high": 0.66,
+        "low": -0.36,
+        "close": 0.04
+    },
+    {
+        "timestamp": 1086,
+        "open": 0.12,
+        "high": 1.0,
+        "low": -0.4,
+        "close": -0.3
+    },
+    {
+        "timestamp": 1087,
+        "open": 1.71,
+        "high": 2.04,
+        "low": 1.19,
+        "close": 1.71
+    },
+    {
+        "timestamp": 1088,
+        "open": -0.55,
+        "high": -0.29,
+        "low": -1.02,
+        "close": -0.48
+    },
+    {
+        "timestamp": 1089,
+        "open": 0.19,
+        "high": 0.37,
+        "low": -0.03,
+        "close": 0.25
+    },
+    {
+        "timestamp": 1090,
+        "open": 0.14,
+        "high": 0.3,
+        "low": -0.36,
+        "close": 0.29
+    },
+    {
+        "timestamp": 1091,
+        "open": -0.03,
+        "high": 0.1,
+        "low": -0.42,
+        "close": -0.22
+    },
+    {
+        "timestamp": 1092,
+        "open": 0.76,
+        "high": 0.82,
+        "low": -0.02,
+        "close": 0.4
+    },
+    {
+        "timestamp": 1093,
+        "open": 0.19,
+        "high": 0.34,
+        "low": -0.33,
+        "close": -0.15
+    },
+    {
+        "timestamp": 1094,
+        "open": -0.18,
+        "high": 0.51,
+        "low": -0.59,
+        "close": 0.4
+    },
+    {
+        "timestamp": 1095,
+        "open": -0.06,
+        "high": 0.05,
+        "low": -1.35,
+        "close": -0.9
+    },
+    {
+        "timestamp": 1096,
+        "open": -0.16,
+        "high": 0.23,
+        "low": -0.59,
+        "close": 0.04
+    },
+    {
+        "timestamp": 1097,
+        "open": -0.26,
+        "high": 0.17,
+        "low": -0.59,
+        "close": -0.18
+    },
+    {
+        "timestamp": 1098,
+        "open": 0.8,
+        "high": 0.98,
+        "low": 0.05,
+        "close": 0.91
+    },
+    {
+        "timestamp": 1099,
+        "open": -0.29,
+        "high": -0.18,
+        "low": -1.11,
+        "close": -0.9
+    },
+    {
+        "timestamp": 1100,
+        "open": 0.46,
+        "high": 1.05,
+        "low": 0.3,
+        "close": 0.95
+    },
+    {
+        "timestamp": 1101,
+        "open": -0.0,
+        "high": 0.79,
+        "low": -0.11,
+        "close": 0.69
+    },
+    {
+        "timestamp": 1102,
+        "open": -0.24,
+        "high": 0.08,
+        "low": -0.46,
+        "close": -0.18
+    },
+    {
+        "timestamp": 1103,
+        "open": -0.01,
+        "high": 0.73,
+        "low": -0.04,
+        "close": 0.6
+    },
+    {
+        "timestamp": 1104,
+        "open": 0.28,
+        "high": 0.98,
+        "low": 0.2,
+        "close": 0.82
+    },
+    {
+        "timestamp": 1105,
+        "open": 0.05,
+        "high": 0.1,
+        "low": -0.99,
+        "close": -0.78
+    },
+    {
+        "timestamp": 1106,
+        "open": 0.0,
+        "high": 0.53,
+        "low": -0.14,
+        "close": 0.43
+    },
+    {
+        "timestamp": 1107,
+        "open": 0.62,
+        "high": 0.66,
+        "low": -0.02,
+        "close": 0.01
+    },
+    {
+        "timestamp": 1108,
+        "open": 0.3,
+        "high": 0.52,
+        "low": 0.04,
+        "close": 0.38
+    },
+    {
+        "timestamp": 1109,
+        "open": -0.13,
+        "high": 0.04,
+        "low": -0.68,
+        "close": -0.16
+    },
+    {
+        "timestamp": 1110,
+        "open": -0.44,
+        "high": 0.15,
+        "low": -0.56,
+        "close": -0.05
+    },
+    {
+        "timestamp": 1111,
+        "open": -0.35,
+        "high": -0.28,
+        "low": -1.53,
+        "close": -0.91
+    },
+    {
+        "timestamp": 1112,
+        "open": 0.34,
+        "high": 0.36,
+        "low": -0.25,
+        "close": 0.22
+    },
+    {
+        "timestamp": 1113,
+        "open": 0.39,
+        "high": 0.9,
+        "low": -0.2,
+        "close": -0.03
+    },
+    {
+        "timestamp": 1114,
+        "open": 0.61,
+        "high": 0.63,
+        "low": 0.26,
+        "close": 0.31
+    },
+    {
+        "timestamp": 1115,
+        "open": -0.17,
+        "high": 0.36,
+        "low": -0.41,
+        "close": 0.16
+    },
+    {
+        "timestamp": 1116,
+        "open": -0.08,
+        "high": 0.27,
+        "low": -0.43,
+        "close": -0.3
+    },
+    {
+        "timestamp": 1117,
+        "open": -0.77,
+        "high": -0.76,
+        "low": -1.99,
+        "close": -1.96
+    },
+    {
+        "timestamp": 1118,
+        "open": 0.47,
+        "high": 1.22,
+        "low": 0.35,
+        "close": 0.42
+    },
+    {
+        "timestamp": 1119,
+        "open": 0.02,
+        "high": 0.26,
+        "low": -0.55,
+        "close": -0.22
+    },
+    {
+        "timestamp": 1120,
+        "open": 0.16,
+        "high": 1.22,
+        "low": 0.12,
+        "close": 1.21
+    },
+    {
+        "timestamp": 1121,
+        "open": 2.17,
+        "high": 2.64,
+        "low": 1.51,
+        "close": 2.49
+    },
+    {
+        "timestamp": 1122,
+        "open": 0.35,
+        "high": 0.95,
+        "low": 0.33,
+        "close": 0.77
+    },
+    {
+        "timestamp": 1123,
+        "open": 0.09,
+        "high": 0.68,
+        "low": 0.09,
+        "close": 0.43
+    },
+    {
+        "timestamp": 1124,
+        "open": 0.27,
+        "high": 0.33,
+        "low": -0.2,
+        "close": 0.1
+    },
+    {
+        "timestamp": 1125,
+        "open": -0.01,
+        "high": 0.09,
+        "low": -0.73,
+        "close": -0.31
+    },
+    {
+        "timestamp": 1126,
+        "open": 0.08,
+        "high": 0.39,
+        "low": -0.33,
+        "close": 0.05
+    },
+    {
+        "timestamp": 1127,
+        "open": 0.02,
+        "high": 0.1,
+        "low": -0.76,
+        "close": -0.64
+    },
+    {
+        "timestamp": 1128,
+        "open": -0.61,
+        "high": -0.53,
+        "low": -1.6,
+        "close": -1.28
+    },
+    {
+        "timestamp": 1129,
+        "open": 0.08,
+        "high": 0.64,
+        "low": -0.07,
+        "close": 0.41
+    },
+    {
+        "timestamp": 1130,
+        "open": -0.58,
+        "high": 0.49,
+        "low": -0.7,
+        "close": 0.37
+    },
+    {
+        "timestamp": 1131,
+        "open": 0.01,
+        "high": 0.08,
+        "low": -0.96,
+        "close": 0.03
+    },
+    {
+        "timestamp": 1132,
+        "open": 0.49,
+        "high": 0.78,
+        "low": -0.52,
+        "close": 0.54
+    },
+    {
+        "timestamp": 1133,
+        "open": -0.0,
+        "high": 0.42,
+        "low": -0.09,
+        "close": 0.31
+    },
+    {
+        "timestamp": 1134,
+        "open": 0.67,
+        "high": 0.9,
+        "low": -0.05,
+        "close": 0.34
+    },
+    {
+        "timestamp": 1135,
+        "open": 0.21,
+        "high": 0.64,
+        "low": 0.09,
+        "close": 0.52
+    },
+    {
+        "timestamp": 1136,
+        "open": -0.03,
+        "high": 0.03,
+        "low": -0.56,
+        "close": -0.3
+    },
+    {
+        "timestamp": 1137,
+        "open": 0.14,
+        "high": 0.75,
+        "low": 0.09,
+        "close": 0.62
+    },
+    {
+        "timestamp": 1138,
+        "open": 0.07,
+        "high": 0.29,
+        "low": -0.01,
+        "close": 0.18
+    },
+    {
+        "timestamp": 1139,
+        "open": -0.04,
+        "high": 0.09,
+        "low": -0.21,
+        "close": 0.05
+    },
+    {
+        "timestamp": 1140,
+        "open": 0.28,
+        "high": 0.66,
+        "low": 0.17,
+        "close": 0.62
+    },
+    {
+        "timestamp": 1141,
+        "open": 0.0,
+        "high": 0.13,
+        "low": -0.22,
+        "close": -0.16
+    },
+    {
+        "timestamp": 1142,
+        "open": 0.13,
+        "high": 0.4,
+        "low": 0.06,
+        "close": 0.19
+    },
+    {
+        "timestamp": 1143,
+        "open": -0.02,
+        "high": 0.01,
+        "low": -0.61,
+        "close": -0.51
+    },
+    {
+        "timestamp": 1144,
+        "open": 0.11,
+        "high": 0.19,
+        "low": -0.42,
+        "close": -0.31
+    },
+    {
+        "timestamp": 1145,
+        "open": 0.49,
+        "high": 0.93,
+        "low": 0.45,
+        "close": 0.77
+    },
+    {
+        "timestamp": 1146,
+        "open": -0.14,
+        "high": -0.05,
+        "low": -0.52,
+        "close": -0.52
+    },
+    {
+        "timestamp": 1147,
+        "open": 0.34,
+        "high": 0.46,
+        "low": -0.25,
+        "close": -0.02
+    },
+    {
+        "timestamp": 1148,
+        "open": 0.3,
+        "high": 0.59,
+        "low": 0.17,
+        "close": 0.43
+    },
+    {
+        "timestamp": 1149,
+        "open": -0.43,
+        "high": -0.27,
+        "low": -0.64,
+        "close": -0.41
+    },
+    {
+        "timestamp": 1150,
+        "open": -0.05,
+        "high": 0.35,
+        "low": -3.04,
+        "close": -2.98
+    },
+    {
+        "timestamp": 1151,
+        "open": 0.87,
+        "high": 1.15,
+        "low": -0.07,
+        "close": -0.03
+    },
+    {
+        "timestamp": 1152,
+        "open": -0.74,
+        "high": 1.65,
+        "low": -0.89,
+        "close": 0.86
+    },
+    {
+        "timestamp": 1153,
+        "open": -0.04,
+        "high": 0.7,
+        "low": -0.59,
+        "close": 0.6
+    },
+    {
+        "timestamp": 1154,
+        "open": 0.23,
+        "high": 1.12,
+        "low": 0.13,
+        "close": 1.11
+    },
+    {
+        "timestamp": 1155,
+        "open": -0.3,
+        "high": 0.2,
+        "low": -0.54,
+        "close": 0.01
+    },
+    {
+        "timestamp": 1156,
+        "open": -0.63,
+        "high": -0.59,
+        "low": -1.76,
+        "close": -1.05
+    },
+    {
+        "timestamp": 1157,
+        "open": -1.2,
+        "high": -0.55,
+        "low": -1.78,
+        "close": -1.14
+    },
+    {
+        "timestamp": 1158,
+        "open": 0.29,
+        "high": 0.41,
+        "low": -0.65,
+        "close": -0.36
+    },
+    {
+        "timestamp": 1159,
+        "open": 0.56,
+        "high": 0.86,
+        "low": -0.95,
+        "close": -0.25
+    },
+    {
+        "timestamp": 1160,
+        "open": 0.49,
+        "high": 1.36,
+        "low": 0.31,
+        "close": 1.25
+    },
+    {
+        "timestamp": 1161,
+        "open": 0.73,
+        "high": 1.31,
+        "low": 0.28,
+        "close": 0.58
+    },
+    {
+        "timestamp": 1162,
+        "open": 0.35,
+        "high": 0.4,
+        "low": -1.44,
+        "close": -1.13
+    },
+    {
+        "timestamp": 1163,
+        "open": 0.01,
+        "high": 0.33,
+        "low": -0.58,
+        "close": 0.15
+    },
+    {
+        "timestamp": 1164,
+        "open": -0.61,
+        "high": -0.6,
+        "low": -1.86,
+        "close": -1.53
+    },
+    {
+        "timestamp": 1165,
+        "open": -0.81,
+        "high": 0.22,
+        "low": -0.89,
+        "close": 0.16
+    },
+    {
+        "timestamp": 1166,
+        "open": 0.51,
+        "high": 0.62,
+        "low": -0.52,
+        "close": 0.14
+    },
+    {
+        "timestamp": 1167,
+        "open": 1.4,
+        "high": 2.02,
+        "low": 1.2,
+        "close": 1.82
+    },
+    {
+        "timestamp": 1168,
+        "open": 0.23,
+        "high": 0.26,
+        "low": -0.31,
+        "close": -0.19
+    },
+    {
+        "timestamp": 1169,
+        "open": 0.9,
+        "high": 1.3,
+        "low": 0.67,
+        "close": 1.0
+    },
+    {
+        "timestamp": 1170,
+        "open": 0.52,
+        "high": 0.92,
+        "low": 0.18,
+        "close": 0.92
+    },
+    {
+        "timestamp": 1171,
+        "open": 0.48,
+        "high": 0.79,
+        "low": 0.38,
+        "close": 0.56
+    },
+    {
+        "timestamp": 1172,
+        "open": -0.11,
+        "high": 0.55,
+        "low": -0.15,
+        "close": 0.55
+    },
+    {
+        "timestamp": 1173,
+        "open": 0.01,
+        "high": 0.17,
+        "low": -0.48,
+        "close": -0.29
+    },
+    {
+        "timestamp": 1174,
+        "open": -2.16,
+        "high": -1.36,
+        "low": -2.19,
+        "close": -1.41
+    },
+    {
+        "timestamp": 1175,
+        "open": 0.21,
+        "high": 1.0,
+        "low": -0.35,
+        "close": 0.86
+    },
+    {
+        "timestamp": 1176,
+        "open": -0.13,
+        "high": -0.06,
+        "low": -0.88,
+        "close": -0.45
+    },
+    {
+        "timestamp": 1177,
+        "open": 0.36,
+        "high": 0.8,
+        "low": -0.18,
+        "close": 0.54
+    },
+    {
+        "timestamp": 1178,
+        "open": 0.41,
+        "high": 0.81,
+        "low": -0.66,
+        "close": -0.53
+    },
+    {
+        "timestamp": 1179,
+        "open": -1.52,
+        "high": -0.25,
+        "low": -1.88,
+        "close": -0.67
+    },
+    {
+        "timestamp": 1180,
+        "open": 0.01,
+        "high": 0.76,
+        "low": -0.08,
+        "close": 0.67
+    },
+    {
+        "timestamp": 1181,
+        "open": -0.19,
+        "high": 0.43,
+        "low": -0.53,
+        "close": 0.41
+    },
+    {
+        "timestamp": 1182,
+        "open": 0.29,
+        "high": 0.37,
+        "low": -0.26,
+        "close": 0.35
+    },
+    {
+        "timestamp": 1183,
+        "open": 0.09,
+        "high": 0.3,
+        "low": -1.03,
+        "close": -0.92
+    },
+    {
+        "timestamp": 1184,
+        "open": 0.54,
+        "high": 0.79,
+        "low": 0.33,
+        "close": 0.68
+    },
+    {
+        "timestamp": 1185,
+        "open": -0.38,
+        "high": 0.17,
+        "low": -0.4,
+        "close": 0.08
+    },
+    {
+        "timestamp": 1186,
+        "open": -1.01,
+        "high": -0.13,
+        "low": -1.12,
+        "close": -0.32
+    },
+    {
+        "timestamp": 1187,
+        "open": 0.19,
+        "high": 1.09,
+        "low": -0.03,
+        "close": 1.06
+    },
+    {
+        "timestamp": 1188,
+        "open": 0.03,
+        "high": 0.21,
+        "low": -0.11,
+        "close": -0.0
+    },
+    {
+        "timestamp": 1189,
+        "open": 0.19,
+        "high": 0.29,
+        "low": -0.22,
+        "close": 0.29
+    },
+    {
+        "timestamp": 1190,
+        "open": -0.23,
+        "high": 0.28,
+        "low": -0.32,
+        "close": 0.24
+    },
+    {
+        "timestamp": 1191,
+        "open": -0.23,
+        "high": -0.2,
+        "low": -0.96,
+        "close": -0.42
+    },
+    {
+        "timestamp": 1192,
+        "open": -0.04,
+        "high": -0.01,
+        "low": -1.79,
+        "close": -1.71
+    },
+    {
+        "timestamp": 1193,
+        "open": 0.35,
+        "high": 0.52,
+        "low": -0.58,
+        "close": -0.46
+    },
+    {
+        "timestamp": 1194,
+        "open": -0.01,
+        "high": 0.11,
+        "low": -1.28,
+        "close": -0.5
+    },
+    {
+        "timestamp": 1195,
+        "open": 0.28,
+        "high": 0.9,
+        "low": -0.4,
+        "close": 0.05
+    },
+    {
+        "timestamp": 1196,
+        "open": 0.39,
+        "high": 0.59,
+        "low": -1.66,
+        "close": -1.6
+    },
+    {
+        "timestamp": 1197,
+        "open": 0.09,
+        "high": 1.65,
+        "low": -0.45,
+        "close": 1.56
+    },
+    {
+        "timestamp": 1198,
+        "open": 0.34,
+        "high": 0.53,
+        "low": -2.4,
+        "close": -1.75
+    },
+    {
+        "timestamp": 1199,
+        "open": -0.7,
+        "high": 0.28,
+        "low": -1.97,
+        "close": -1.18
+    },
+    {
+        "timestamp": 1200,
+        "open": -0.03,
+        "high": 1.39,
+        "low": -0.66,
+        "close": 1.07
+    },
+    {
+        "timestamp": 1201,
+        "open": -1.3,
+        "high": -0.5,
+        "low": -2.22,
+        "close": -1.78
+    },
+    {
+        "timestamp": 1202,
+        "open": -0.32,
+        "high": 0.82,
+        "low": -1.24,
+        "close": 0.56
+    },
+    {
+        "timestamp": 1203,
+        "open": -1.45,
+        "high": -1.11,
+        "low": -3.53,
+        "close": -2.66
+    },
+    {
+        "timestamp": 1204,
+        "open": -0.21,
+        "high": 0.61,
+        "low": -1.53,
+        "close": -0.83
+    },
+    {
+        "timestamp": 1205,
+        "open": 1.12,
+        "high": 1.29,
+        "low": -0.4,
+        "close": 0.53
+    },
+    {
+        "timestamp": 1206,
+        "open": -0.07,
+        "high": 0.04,
+        "low": -1.64,
+        "close": -1.33
+    },
+    {
+        "timestamp": 1207,
+        "open": 0.85,
+        "high": 2.25,
+        "low": 0.01,
+        "close": 2.07
+    },
+    {
+        "timestamp": 1208,
+        "open": -0.0,
+        "high": 1.23,
+        "low": -0.08,
+        "close": 0.77
+    },
+    {
+        "timestamp": 1209,
+        "open": -0.41,
+        "high": -0.38,
+        "low": -1.43,
+        "close": -1.08
+    },
+    {
+        "timestamp": 1210,
+        "open": 0.32,
+        "high": 1.77,
+        "low": 0.11,
+        "close": 1.09
+    },
+    {
+        "timestamp": 1211,
+        "open": -0.67,
+        "high": 0.61,
+        "low": -0.8,
+        "close": -0.29
+    },
+    {
+        "timestamp": 1212,
+        "open": -1.1,
+        "high": -0.11,
+        "low": -1.32,
+        "close": -0.27
+    },
+    {
+        "timestamp": 1213,
+        "open": 1.21,
+        "high": 1.98,
+        "low": 1.1,
+        "close": 1.79
+    },
+    {
+        "timestamp": 1214,
+        "open": 0.21,
+        "high": 0.41,
+        "low": -0.07,
+        "close": 0.24
+    },
+    {
+        "timestamp": 1215,
+        "open": -0.05,
+        "high": 0.15,
+        "low": -1.44,
+        "close": -1.19
+    },
+    {
+        "timestamp": 1216,
+        "open": -0.25,
+        "high": 0.41,
+        "low": -0.64,
+        "close": -0.27
+    },
+    {
+        "timestamp": 1217,
+        "open": -0.27,
+        "high": -0.14,
+        "low": -2.12,
+        "close": -2.01
+    },
+    {
+        "timestamp": 1218,
+        "open": -1.05,
+        "high": 0.91,
+        "low": -1.58,
+        "close": 0.67
+    },
+    {
+        "timestamp": 1219,
+        "open": -0.35,
+        "high": 0.63,
+        "low": -1.02,
+        "close": 0.28
+    },
+    {
+        "timestamp": 1220,
+        "open": -1.06,
+        "high": 1.15,
+        "low": -1.1,
+        "close": 0.63
+    },
+    {
+        "timestamp": 1221,
+        "open": -3.44,
+        "high": -2.93,
+        "low": -4.93,
+        "close": -4.93
+    },
+    {
+        "timestamp": 1222,
+        "open": -2.43,
+        "high": -2.02,
+        "low": -5.9,
+        "close": -5.85
+    },
+    {
+        "timestamp": 1223,
+        "open": -3.18,
+        "high": 3.54,
+        "low": -4.65,
+        "close": -0.18
+    },
+    {
+        "timestamp": 1224,
+        "open": 3.47,
+        "high": 4.08,
+        "low": -3.02,
+        "close": -1.57
+    },
+    {
+        "timestamp": 1225,
+        "open": -0.61,
+        "high": 10.5,
+        "low": -0.69,
+        "close": 10.5
+    },
+    {
+        "timestamp": 1226,
+        "open": -3.0,
+        "high": -2.76,
+        "low": -7.16,
+        "close": -4.38
+    },
+    {
+        "timestamp": 1227,
+        "open": -0.3,
+        "high": 2.26,
+        "low": -0.86,
+        "close": 1.78
+    },
+    {
+        "timestamp": 1228,
+        "open": 1.89,
+        "high": 1.94,
+        "low": -0.01,
+        "close": 0.97
+    },
+    {
+        "timestamp": 1229,
+        "open": 0.1,
+        "high": 0.76,
+        "low": -0.43,
+        "close": -0.28
+    },
+    {
+        "timestamp": 1230,
+        "open": -1.1,
+        "high": 0.05,
+        "low": -3.22,
+        "close": -2.22
+    },
+    {
+        "timestamp": 1231,
+        "open": 0.38,
+        "high": 1.05,
+        "low": -0.33,
+        "close": 0.14
+    },
+    {
+        "timestamp": 1232,
+        "open": -1.0,
+        "high": -0.89,
+        "low": -3.41,
+        "close": -2.38
+    },
+    {
+        "timestamp": 1233,
+        "open": 1.22,
+        "high": 3.0,
+        "low": 1.03,
+        "close": 2.6
+    },
+    {
+        "timestamp": 1234,
+        "open": 2.5,
+        "high": 3.45,
+        "low": 1.26,
+        "close": 1.55
+    },
+    {
+        "timestamp": 1235,
+        "open": 0.24,
+        "high": 2.24,
+        "low": 0.01,
+        "close": 2.1
+    },
+    {
+        "timestamp": 1236,
+        "open": -0.01,
+        "high": 0.8,
+        "low": -0.55,
+        "close": 0.72
+    },
+    {
+        "timestamp": 1237,
+        "open": 0.14,
+        "high": 0.53,
+        "low": -1.02,
+        "close": 0.04
+    },
+    {
+        "timestamp": 1238,
+        "open": -0.35,
+        "high": 0.84,
+        "low": -0.42,
+        "close": 0.63
+    },
+    {
+        "timestamp": 1239,
+        "open": -1.22,
+        "high": 0.4,
+        "low": -2.31,
+        "close": 0.04
+    },
+    {
+        "timestamp": 1240,
+        "open": 1.05,
+        "high": 1.72,
+        "low": 0.6,
+        "close": 0.71
+    },
+    {
+        "timestamp": 1241,
+        "open": 1.12,
+        "high": 1.77,
+        "low": 0.7,
+        "close": 1.48
+    },
+    {
+        "timestamp": 1242,
+        "open": -0.74,
+        "high": -0.02,
+        "low": -0.89,
+        "close": -0.57
+    },
+    {
+        "timestamp": 1243,
+        "open": -0.99,
+        "high": -0.03,
+        "low": -1.16,
+        "close": -0.84
+    },
+    {
+        "timestamp": 1244,
+        "open": 0.24,
+        "high": 0.9,
+        "low": -0.49,
+        "close": 0.42
+    },
+    {
+        "timestamp": 1245,
+        "open": 0.73,
+        "high": 1.63,
+        "low": 0.1,
+        "close": 0.7
+    },
+    {
+        "timestamp": 1246,
+        "open": 0.25,
+        "high": 0.43,
+        "low": -0.41,
+        "close": -0.13
+    },
+    {
+        "timestamp": 1247,
+        "open": 3.04,
+        "high": 3.31,
+        "low": 2.25,
+        "close": 3.3
+    },
+    {
+        "timestamp": 1248,
+        "open": 0.07,
+        "high": 1.04,
+        "low": -0.03,
+        "close": 0.66
+    },
+    {
+        "timestamp": 1249,
+        "open": 0.17,
+        "high": 0.36,
+        "low": -0.22,
+        "close": 0.13
+    },
+    {
+        "timestamp": 1250,
+        "open": -0.35,
+        "high": 0.58,
+        "low": -0.42,
+        "close": 0.49
+    },
+    {
+        "timestamp": 1251,
+        "open": 0.13,
+        "high": 0.68,
+        "low": -0.2,
+        "close": 0.63
+    },
+    {
+        "timestamp": 1252,
+        "open": -1.03,
+        "high": 0.23,
+        "low": -1.03,
+        "close": 0.11
+    },
+    {
+        "timestamp": 1253,
+        "open": -0.3,
+        "high": -0.13,
+        "low": -0.88,
+        "close": -0.34
+    },
+    {
+        "timestamp": 1254,
+        "open": -0.74,
+        "high": -0.05,
+        "low": -1.86,
+        "close": -1.69
+    },
+    {
+        "timestamp": 1255,
+        "open": -0.03,
+        "high": 0.65,
+        "low": -0.25,
+        "close": 0.04
+    },
+    {
+        "timestamp": 1256,
+        "open": -1.22,
+        "high": -0.55,
+        "low": -1.28,
+        "close": -0.58
+    }
+]
